@@ -30,3 +30,51 @@ class Solution {
         }    
     }
 }
+
+/**
+ * Godaddy
+ * 变形：Build Subsequences 返回输入String的所有Subsequence
+ * 限制：
+ * 1. 空String不算。
+ * 2. 不能有重复的。
+ * 3. 返回数组按照字母升序排列。
+ * 例子：输入“bab”， 返回["a", "ab", "b", "ba", "bab”]
+ * 
+ */
+
+ class Solution {
+    public List<String> subsets(String word){
+        List<String> result = new ArrayList<>();
+        if(str == null || word.length() == 0){
+            return result;
+        }
+        Set<String> record = new HashSet<>();
+        helper(word, "", 0, record);
+        Comparator<String> comp = new Comparator<String>(){
+            public int compare(String str1, String str2){
+                return str2.compareTo(str1);
+            }
+        };
+        PriorityQueue<String> pq = new PriorityQueue<>(comp);
+        for(String str : set){
+            pq.offer(str);
+        }
+        while(pq.size() > 0){
+            result.add(pq.poll());
+        }
+        return result;
+    }
+
+    private void helper(String word, String str, int index, Set<String> record){
+        if(str.length() > 0){
+            record.add(str);
+        }
+        if(index < word.length()){
+            for(int i = index; i < word.length(); i++){
+                str += word.charAt(i);
+                helper(word, str, index + 1, record);
+                str.substring(0, str.length() - 1);
+            }
+        }
+    }
+ }
