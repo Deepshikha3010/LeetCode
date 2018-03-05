@@ -1,14 +1,18 @@
 LeetCode
 ========
 
-LeetCode/LintCode solutions in Java 8.
+LeetCode/LintCode/Hackerrank solutions in Java 8.
 
 |Type|Title|Solution|Difficulty|Tag|
 |----|-----|--------|----------|---|
+|`Binary Tree`|[094. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](./094_Binary_Tree_Inorder_Traversal.java)|Medium|`Traverse`,`Divide&Conquer`,`Stack`|
+|`Binary Tree`|[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Solution](./144_Binary_Tree_Preorder_Traversal.java)|Medium|`Traverse`,`Divide&Conquer`,`Stack`|
 |`Array`|[035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./035_Search_Insert_Position.java)|Easy|`Binary Search`|
 |`Array`|[078. Subsets](https://leetcode.com/problems/subsets/)|[Solution](./078_Subsets.java)|Medium|`Backtracking`|
 |`Array`|[227. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Solution](./227_Find_the_Celebrity.java)|Medium|`Two Pass`|
-|`Array`|[Count Duplicates]|[Solution](./Count_Duplicates.java)|Easy|`HashMap`|
-|`HashMap`,`Heap`|[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./692_Top_K_Frequent_Words.java)|Medium|`Sort HashMap`|
+|`Array`|[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./209_Minimum_Size_Subarray_Sum.java)|Medium|`Two Pointers`|
+|`Array`|[443. String Compression](https://leetcode.com/problems/string-compression/)|[Solution](./443_String_Compression.java)|Medium|`Two Pointers`|
+|`Array`|Count Duplicates|[Solution](./Count_Duplicates.java)|Easy|`HashMap`|
+|`HashMap`,`Heap`|[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./692_Top_K_Frequent_Words.java)|Medium|`Sort`,`HashMap`|
 |`Math`|[007. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](./007_Reverse_Integer.java)|Easy|`Remainder`|
 |`Math`|[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./441_Arranging_Coins.java)|Easy|`Binary Search`|
