@@ -12,7 +12,12 @@ LeetCode/LintCode/Hackerrank solutions in Java 8.
 |`Array`|[227. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Solution](./227_Find_the_Celebrity.java)|Medium|`Two Pass`|
 |`Array`|[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./209_Minimum_Size_Subarray_Sum.java)|Medium|`Two Pointers`|
 |`Array`|[443. String Compression](https://leetcode.com/problems/string-compression/)|[Solution](./443_String_Compression.java)|Medium|`Two Pointers`|
-|`Array`|Count Duplicates|[Solution](./Count_Duplicates.java)|Easy|`HashMap`|
+|`Array`|**Count Duplicates|[Solution](./Count_Duplicates.java)|Easy|`HashMap`|
 |`HashMap`,`Heap`|[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./692_Top_K_Frequent_Words.java)|Medium|`Sort`,`HashMap`|
 |`Math`|[007. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](./007_Reverse_Integer.java)|Easy|`Remainder`|
 |`Math`|[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./441_Arranging_Coins.java)|Easy|`Binary Search`|
+|`Dynamic Programming`|[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./*109_Triangle.java)|Easy|`Memorization Search`|
+|`Dynamic Programming`|[062. Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./062_Unique_Paths.java)|Medium|`Matrix DP`|
+|`Dynamic Programming`|[070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./070_Climbing_Stairs.java)|Easy|`Sequence DP`|
+|`Dynamic Programming`|[055. Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./055_Jump_Game.java)|Medium|`Sequence DP`|
+|`Dynamic Programming`|[139. Word Break](https://leetcode.com/problems/word-break/)|[Solution](./139_Word_Break.java)|Medium|`String DP`|
