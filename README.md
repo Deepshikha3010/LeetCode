@@ -3,12 +3,13 @@ LeetCode
 
 LeetCode/LintCode/HackerRank solutions in Java 8.
 
-*: LintCode
-**: HackerRank
+*: LintCode.
+**: HackerRank.
 
 |Type|Title|Solution|Difficulty|Tag|
 |----|-----|--------|----------|---|
 |`Binary Tree`|[094. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](./094_Binary_Tree_Inorder_Traversal.java)|Medium|`Traverse`,`Divide&Conquer`,`Stack`|
+|`Binary Tree`|[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Solution](./102_Binary_Tree_Level_Order_Traversal.java)|Medium|`Queue`|
 |`Binary Tree`|[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Solution](./144_Binary_Tree_Preorder_Traversal.java)|Medium|`Traverse`,`Divide&Conquer`,`Stack`|
 |`Array`|[035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./035_Search_Insert_Position.java)|Easy|`Binary Search`|
 |`Array`|[078. Subsets](https://leetcode.com/problems/subsets/)|[Solution](./078_Subsets.java)|Medium|`Backtracking`|
@@ -19,10 +20,14 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 |`Array`|**Count Duplicates|[Solution](./Count_Duplicates.java)|Easy|`HashMap`|
 |`Linked List`|**Delete Node Greater than X|[Solution](./**Delete_Node_Greater_than_X.java)|Easy|`Dummy Node`|
 |`Linked List`|**Merge in Between.java|[Solution](./**Merge_in_Between.java)|Easy|`Dummy Node`|
+|`Linked List`|[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](./019_Remove_Nth_Node_From_End_of_List.java)|Medium|`Dummy Node`,`Two Pointers`|
+|`Linked List`|[021. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./021_Merge_Two_Sorted_Lists.java)|Easy|`Dummy Node`|
+|`HashMap`,`Heap`|[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./347_Top_K_Frequent_Elements.java)|Medium|`Sort`,`HashMap`|
 |`HashMap`,`Heap`|[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./692_Top_K_Frequent_Words.java)|Medium|`Sort`,`HashMap`|
 |`Math`|[007. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](./007_Reverse_Integer.java)|Easy|`Remainder`|
 |`Math`|[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./441_Arranging_Coins.java)|Easy|`Binary Search`|
 |`String`|**Merge in Between|[Solution](./**Merge_in_Between.java)|Medium|`HashMap`,`Sort`|
+|`String`|**Missing Words|[Solution](./**Missing_Words.java)|Easy|`HashMap`,`Two Pointer`|
 |`Dynamic Programming`|[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./*109_Triangle.java)|Easy|`Memorization Search`|
 |`Dynamic Programming`|[062. Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./062_Unique_Paths.java)|Medium|`Matrix DP`|
 |`Dynamic Programming`|[070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./070_Climbing_Stairs.java)|Easy|`Sequence DP`|
