@@ -9,14 +9,15 @@
 
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
-        int maxLen = getMaxLength(wordDict);
+        Set<String> set = new HashSet<>();
+        int maxLen = 0;
+        for(String word : wordDict){
+            set.add(word);
+            maxLen = Math.max(maxLen, word.length());
+        }
         int len = s.length();
-        HashSet<String> set = new HashSet<>(wordDict);
-        //state
         boolean[] f = new boolean[len + 1];
-        //initial
         f[0] = true;
-        //function
         for(int i = 1; i <= len; i++){
             for(int lastWordLen = 1; lastWordLen <= maxLen && lastWordLen <= i; lastWordLen++){
                 if(f[i - lastWordLen] && set.contains(s.substring(i - lastWordLen, i))){
@@ -26,13 +27,5 @@ class Solution {
             }
         }
         return f[len];
-    }
-    
-    private int getMaxLength(List<String> wordDict){
-        int maxLen = 0;
-        for(String s : wordDict){
-            maxLen = Math.max(maxLen, s.length());
-        }
-        return maxLen;
     }
 }

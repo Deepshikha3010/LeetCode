@@ -3,8 +3,7 @@ LeetCode
 
 LeetCode/LintCode/HackerRank solutions in Java 8.
 
-*: LintCode.
-**: HackerRank.
+*: LintCode | **: HackerRank.
 
 |Type|Title|Solution|Difficulty|Tag|
 |----|-----|--------|----------|---|
@@ -26,6 +25,8 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 |`HashMap`,`Heap`|[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./692_Top_K_Frequent_Words.java)|Medium|`Sort`,`HashMap`|
 |`Math`|[007. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](./007_Reverse_Integer.java)|Easy|`Remainder`|
 |`Math`|[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./441_Arranging_Coins.java)|Easy|`Binary Search`|
+|`String`|[028. Implement_strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](./028_Implement_strStr().java)|Easy|`Substring`|
+|`String`|**Build Subsequences|[Solution](./**Build_Subsequences.java)|Easy|`HashSet`,`Substring`|
 |`String`|**Merge in Between|[Solution](./**Merge_in_Between.java)|Medium|`HashMap`,`Sort`|
 |`String`|**Missing Words|[Solution](./**Missing_Words.java)|Easy|`HashMap`,`Two Pointer`|
 |`Dynamic Programming`|[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./*109_Triangle.java)|Easy|`Memorization Search`|
