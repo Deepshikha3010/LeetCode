@@ -14,8 +14,12 @@
  * Pointer: 时间复杂度n, 空间复杂度n
  * 每sb.append()之前，先判定sb与c的字符是不是同时是数字。
  * 如果不是则将sb放入result，然后清空sb。
+ * 
+ * Solution 2:
+ * 优化：一次性获取完整数字。靠近basic calculator模板。
  */
 
+/**Solution 1 */
 class Solution {
     public static List<String> expressionToken(String expr){
         List<String> result = new ArrayList<>();
@@ -37,6 +41,36 @@ class Solution {
             sb.append(c);
         }
         if(sb.length() != 0){
+            result.add(sb.toString());
+        }
+        return result;
+    }
+}
+
+/**Solution 2 */
+class Solution {
+    public List<String> expressionToken(String expr){
+        List<String> result = new ArrayList<>();
+        if(expr == null || expr.length() == 0){
+            return result;
+        }
+        StringBuilder sb = new StringBuilder();
+        //sb.append(Character.toString(expr.charAt(i)));
+        for(int i = 0; i < expr.length(); i++){
+            char c = expr.charAt(i);
+            if(c == ' '){
+                continue;
+            }
+            if(Character.isDigit(c)){
+                int num = c - '0';
+                while(i < expr.length() - 1 && Character.isDigit(expr.charAt(i + 1))){
+                    num = num * 10 + Character.isDigit(expr.charAt(i + 1)) - '0';
+                    i++;
+                }
+                sb.append(Integer.toString(num));
+            }else{
+                sb.append(Character.toString(c));
+            }
             result.add(sb.toString());
         }
         return result;

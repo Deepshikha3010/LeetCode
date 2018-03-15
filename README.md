@@ -20,7 +20,6 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 |`Array`|[227. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Solution](./227_Find_the_Celebrity.java)|Medium|`Two Pass`|
 |`Array`|[088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./088_Merge_Sorted_Array.java)|Easy|`Two Pointers`|
 |`Array`|[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./209_Minimum_Size_Subarray_Sum.java)|Medium|`Two Pointers`|
-|`Array`|[443. String Compression](https://leetcode.com/problems/string-compression/)|[Solution](./443_String_Compression.java)|Medium|`Two Pointers`|
 |`Array`|**Count Duplicates|[Solution](./Count_Duplicates.java)|Easy|`HashMap`|
 |`Linked List`|**Delete Node Greater than X|[Solution](./**Delete_Node_Greater_than_X.java)|Easy|`Dummy Node`|
 |`Linked List`|**Merge in Between.java|[Solution](./**Merge_in_Between.java)|Easy|`Dummy Node`|
@@ -29,10 +28,12 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 |`HashMap`,`Heap`|[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./347_Top_K_Frequent_Elements.java)|Medium|`Sort`,`HashMap`|
 |`HashMap`,`Heap`|[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./692_Top_K_Frequent_Words.java)|Medium|`Sort`,`HashMap`|
 |`Math`|[007. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](./007_Reverse_Integer.java)|Easy|`Remainder`|
+|`Math`|[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Solution](./168_Excel_Sheet_Column_Title.java)|Easy|`Ary`|
 |`Math`|[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./441_Arranging_Coins.java)|Easy|`Binary Search`|
 |`String`|[***Check_Binary_String.java](https://practice.geeksforgeeks.org/problems/check-binary-string/0)|[Solution](./***Check_Binary_String.java)|Easy|`Two Boolean`|
 |`String`|[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Solution](./227_Basic_Calculator_II.java)|Medium|`Stack`|
 |`String`|[772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)|[Solution](./772_Basic_Calculator_III.java)|Hard|`Two Stacks`|
+|`String`|[443. String Compression](https://leetcode.com/problems/string-compression/)|[Solution](./443_String_Compression.java)|Medium|`Two Pointers`|
 |`String`|**Expression_Token|[Solution](./**Expression_Token.java)|Easy|`Substring`|
 |`String`|[028. Implement_strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](./028_Implement_strStr().java)|Easy|`Substring`|
 |`String`|[043. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Solution](./043_Multiply_Strings.java)|Medium|`Substring`,`bucket`|

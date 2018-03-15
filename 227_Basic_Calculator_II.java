@@ -138,17 +138,18 @@ class Solution {
             return 0;
         }
         Stack<Integer> stack = new Stack<>();
-        int num = 0;
         char opr = '+';
+        int num = 0;
+        s = s.trim();
         for(int i = 0; i < s.length(); i++){
             char c = s.charAt(i);
             if(c == ' '){
                 continue;
             }
             if(Character.isDigit(c)){
-                num = c -'0';
+                num = c - '0';
                 while(i < s.length() - 1 && Character.isDigit(s.charAt(i + 1))){
-                    num = num * 10 + (s.charAt(i + 1) - '0');
+                    num = num * 10 + s.charAt(i + 1) - '0';
                     i++;
                 }
             }
@@ -167,8 +168,7 @@ class Solution {
         }
         int result = 0;
         while(!stack.isEmpty()){
-            int n = stack.pop();
-            result += n;
+            result += stack.pop();
         }
         return result;
     }

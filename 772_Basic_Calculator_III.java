@@ -18,60 +18,59 @@ class Solution {
         }
         Stack<Integer> nums = new Stack<>();
         Stack<Character> ops = new Stack<>();
-        int num = 0;
-        for(int i = 0; i < s.length(); i++){
+        s = s.trim();
+        int len = s.length();
+        for(int i = 0; i < len; i++){
             char c = s.charAt(i);
             if(c == ' '){
                 continue;
             }
             if(Character.isDigit(c)){
-                num = c - '0';
-                while(i < s.length() - 1 && Character.isDigit(s.charAt(i + 1))){
-                    num = num * 10 + (s.charAt(i + 1) - '0');
+                int num = c - '0';
+                while(i < len - 1 && Character.isDigit(s.charAt(i + 1))){
+                    num = num * 10 + s.charAt(i + 1) - '0';
                     i++;
                 }
                 nums.push(num);
-                num = 0;
-            }else if (c == '(') {
+            }else if(c == '('){
                 ops.push(c);
-            } else if (c == ')') {
-                // do the math when we encounter a ')' until '('
-                while (ops.peek() != '('){
-                    nums.push(operation(ops.pop(), nums.pop(), nums.pop()));
-                } 
-                ops.pop(); // get rid of '(' in the ops stack
-            } else if (c == '+' || c == '-' || c == '*' || c == '/') {
-                while (!ops.isEmpty() && precedence(c, ops.peek())){
-                    nums.push(operation(ops.pop(), nums.pop(),nums.pop()));
-                } 
+            }else if(c == ')'){
+                while(ops.peek() != '('){
+                    nums.push(cal(ops.pop(), nums.pop(), nums.pop()));
+                }
+                ops.pop();
+            }else{
+                while(ops.size() > 0 && precedence(c, ops.peek())){
+                    nums.push(cal(ops.pop(), nums.pop(), nums.pop()));
+                }
                 ops.push(c);
             }
         }
         while(!ops.isEmpty()){
-            nums.push(operation(ops.pop(), nums.pop(), nums.pop()));
+            nums.push(cal(ops.pop(), nums.pop(), nums.pop()));
         }
         return nums.pop();
     }
     
-    private boolean precedence(char future, char cur){
-        if(cur == '(' || cur == ')'){
+    private int cal(char opr, int num2, int num1){
+        if(opr == '+'){
+            return num1 + num2;
+        }else if(opr == '-'){
+            return num1 - num2;
+        }else if(opr == '*'){
+            return num1 * num2;
+        }else{
+            return num1 / num2;
+        }
+    }
+    
+    private boolean precedence(char future, char pre){
+        if(pre == '(' || pre == ')'){
             return false;
         }
-        if((cur == '+' || cur == '-') && (future == '*' || future == '/')){
+        if((pre == '+' || pre == '-') && (future == '*' || future == '/')){
             return false;
         }
         return true;
-    }
-    
-    private int operation(char opr, int num2, int num1){
-        if(opr == '*'){
-            return num1 * num2;
-        }else if(opr == '/'){
-            return num1 / num2;
-        }else if(opr == '+'){
-            return num1 + num2;
-        }else{
-            return num1 - num2;
-        }
     }
 }
