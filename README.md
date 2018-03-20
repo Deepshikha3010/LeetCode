@@ -32,6 +32,8 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 |-----|--------|----------|
 |[001. Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](./LeetCode/001_Two_Sum.java)|Easy|
 |[007. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](./LeetCode/007_Reverse_Integer.java)|Easy|
+|[012. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](./LeetCode/012_Integer_to_Roman.java)|Medium|
+|[013. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](./LeetCode/013_Roman_to_Integer.java)|Easy|
 |[015. 3Sum](https://leetcode.com/problems/3sum/)|[Solution](./LeetCode/015_3Sum.java)|Easy|
 |[019. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](./LeetCode/019_Remove_Nth_Node_From_End_of_List.java)|Medium|
 |[021. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./LeetCode/021_Merge_Two_Sorted_Lists.java)|Easy|
@@ -91,6 +93,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 ## String
 |Title|Solution|Difficulty|
 |-----|--------|----------|
+|[013. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](./LeetCode/013_Roman_to_Integer.java)|Easy|
 |[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Solution](./LeetCode/227_Basic_Calculator_II.java)|Medium|
 |[772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)|[Solution](./LeetCode/772_Basic_Calculator_III.java)|Hard|
 |[443. String Compression](https://leetcode.com/problems/string-compression/)|[Solution](./LeetCode/443_String_Compression.java)|Medium|
@@ -159,6 +162,8 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 |Title|Solution|Difficulty|
 |-----|--------|----------|
 |[007. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](./LeetCode/007_Reverse_Integer.java)|Easy|
+|[012. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](./LeetCode/012_Integer_to_Roman.java)|Medium|
+|[013. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](./LeetCode/013_Roman_to_Integer.java)|Easy|
 |[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Solution](./LeetCode/168_Excel_Sheet_Column_Title.java)|Easy|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./LeetCode/441_Arranging_Coins.java)|Easy|
 
