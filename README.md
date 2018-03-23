@@ -34,6 +34,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 |[007. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](./LeetCode/007_Reverse_Integer.java)|Easy|
 |[012. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](./LeetCode/012_Integer_to_Roman.java)|Medium|
 |[013. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](./LeetCode/013_Roman_to_Integer.java)|Easy|
+|[014. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](./LeetCode/014_Longest_Common_Prefix.java)|Easy|
 |[015. 3Sum](https://leetcode.com/problems/3sum/)|[Solution](./LeetCode/015_3Sum.java)|Easy|
 |[019. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](./LeetCode/019_Remove_Nth_Node_From_End_of_List.java)|Medium|
 |[021. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./LeetCode/021_Merge_Two_Sorted_Lists.java)|Easy|
@@ -59,6 +60,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](./LeetCode/206_Reverse_Linked_List.java)|Easy|
 |[277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Solution](./LeetCode/277_Find_the_Celebrity.java)|Medium|
 |[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Solution](./LeetCode/227_Basic_Calculator_II.java)|Medium|
+|[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](./LeetCode/344_Reverse_String.java)|Easy|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./LeetCode/441_Arranging_Coins.java)|Easy|
 |[443. String Compression](https://leetcode.com/problems/string-compression/)|[Solution](./LeetCode/443_String_Compression.java)|Medium|
@@ -93,13 +95,16 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 ## String
 |Title|Solution|Difficulty|
 |-----|--------|----------|
+|[012. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](./LeetCode/012_Integer_to_Roman.java)|Medium|
 |[013. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](./LeetCode/013_Roman_to_Integer.java)|Easy|
+|[014. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](./LeetCode/014_Longest_Common_Prefix.java)|Easy|
 |[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Solution](./LeetCode/227_Basic_Calculator_II.java)|Medium|
 |[772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)|[Solution](./LeetCode/772_Basic_Calculator_III.java)|Hard|
 |[443. String Compression](https://leetcode.com/problems/string-compression/)|[Solution](./LeetCode/443_String_Compression.java)|Medium|
 |[028. Implement_strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](./LeetCode/028_Implement_strStr().java)|Easy|
 |[043. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Solution](./LeetCode/043_Multiply_Strings.java)|Medium|
 |[067. Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](./LeetCode/067_Add_Binary.java)|Easy|
+|[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](./LeetCode/344_Reverse_String.java)|Easy|
 |[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](./LeetCode/557_Reverse_Words_in_a_String_III.java)|Easy|
 |**Expression_Token|[Solution](./HackerRank/**Expression_Token.java)|Easy|
 |**Build Subsequences|[Solution](./HackerRank/**Build_Subsequences.java)|Easy|
