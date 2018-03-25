@@ -31,6 +31,9 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 |Title|Solution|Difficulty|
 |-----|--------|----------|
 |[001. Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](./LeetCode/001_Two_Sum.java)|Easy|
+|[003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./LeetCode/003_Longest_Substring_Without_Repeating_Characters.java
+|[005. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./LeetCode/005_Longest_Palindromic_Substring.java
+)|Medium|
 |[007. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](./LeetCode/007_Reverse_Integer.java)|Easy|
 |[012. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](./LeetCode/012_Integer_to_Roman.java)|Medium|
 |[013. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](./LeetCode/013_Roman_to_Integer.java)|Easy|
@@ -95,6 +98,10 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 ## String
 |Title|Solution|Difficulty|
 |-----|--------|----------|
+|[003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./LeetCode/003_Longest_Substring_Without_Repeating_Characters.java
+)|Medium|
+|[005. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./LeetCode/005_Longest_Palindromic_Substring.java
+)|Medium|
 |[012. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](./LeetCode/012_Integer_to_Roman.java)|Medium|
 |[013. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](./LeetCode/013_Roman_to_Integer.java)|Easy|
 |[014. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](./LeetCode/014_Longest_Common_Prefix.java)|Easy|
@@ -139,6 +146,8 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 ## HashMap
 |Title|Solution|Difficulty|
 |-----|--------|----------|
+|[003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./LeetCode/003_Longest_Substring_Without_Repeating_Characters.java
+)|Medium|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
 
@@ -159,6 +168,8 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 ## Two Pointers
 |Title|Solution|Difficulty|
 |-----|--------|----------|
+|[003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./LeetCode/003_Longest_Substring_Without_Repeating_Characters.java
+)|Medium|
 |[031. Next Permutation](https://leetcode.com/problems/next-permutation/)|[Solution](./LeetCode/031_Next_Permutation.java)|Medium|
 |[088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./LeetCode/088_Merge_Sorted_Array.java)|Easy|
 
@@ -196,11 +207,13 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 ## Dynamic Programming
 |Title|Solution|Difficulty|
 |-----|--------|----------|
-|[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./LintCode/*109_Triangle.java)|Easy|
+|[005. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./LeetCode/005_Longest_Palindromic_Substring.java
+)|Medium|
 |[062. Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./LeetCode/062_Unique_Paths.java)|Medium|
 |[070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./LeetCode/070_Climbing_Stairs.java)|Easy|
 |[055. Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./LeetCode/055_Jump_Game.java)|Medium|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[Solution](./LeetCode/139_Word_Break.java)|Medium|
+|[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./LintCode/*109_Triangle.java)|Easy|
 
 
 ## Sort
