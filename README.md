@@ -31,7 +31,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 |Title|Solution|Difficulty|
 |-----|--------|----------|
 |[001. Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](./LeetCode/001_Two_Sum.java)|Easy|
-|[003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./LeetCode/003_Longest_Substring_Without_Repeating_Characters.java
+|[003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./LeetCode/003_Longest_Substring_Without_Repeating_Characters.java)|Medium|
 |[005. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./LeetCode/005_Longest_Palindromic_Substring.java
 )|Medium|
 |[007. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](./LeetCode/007_Reverse_Integer.java)|Easy|
