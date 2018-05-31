@@ -5,6 +5,7 @@
  * 2. 有重复时进入slow的while循环，更新record。
  */
 
+// 写法1： 嵌套while循环
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         if(s == null || s.length() == 0){
@@ -25,6 +26,30 @@ class Solution {
                 char tail = s.charAt(slow);
                 slow++;
                 record[tail]--;
+            }
+        }
+        return max;
+    }
+}
+
+// 写法2：一层while循环
+class Solution {
+    public int lengthOfLongestSubstring(String s) {
+        if(s == null || s.length() == 0){
+            return 0;
+        }
+        int[] map = new int[256];
+        int left = 0, right = 0;
+        int len = s.length();
+        int max = 0;
+        while(right < len){
+            if(map[s.charAt(right)] == 0){
+                map[s.charAt(right)]++;
+                right++;
+                max = Math.max(max, right - left);
+            }else{
+                map[s.charAt(left)]--;
+                left++;
             }
         }
         return max;

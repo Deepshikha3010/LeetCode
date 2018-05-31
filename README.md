@@ -47,6 +47,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 |[031. Next Permutation](https://leetcode.com/problems/next-permutation/)|[Solution](./LeetCode/031_Next_Permutation.java)|Medium|
 |[035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./LeetCode/035_Search_Insert_Position.java)|Easy|
 |[043. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Solution](./LeetCode/043_Multiply_Strings.java)|Medium|
+|[049. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./LeetCode/049_Group_Anagrams.java)|Medium|
 |[055. Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./LeetCode/055_Jump_Game.java)|Medium|
 |[062. Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./LeetCode/062_Unique_Paths.java)|Medium|
 |[067. Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](./LeetCode/067_Add_Binary.java)|Easy|
@@ -109,6 +110,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 |[014. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](./LeetCode/014_Longest_Common_Prefix.java)|Easy|
 |[017. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution](./LeetCode/017_Letter_Combinations_of_a_Phone_Number.java)|Medium|
 |[022. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution](./LeetCode/022_Generate_Parentheses.java)|Medium|
+|[049. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./LeetCode/049_Group_Anagrams.java)|Medium|
 |[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Solution](./LeetCode/227_Basic_Calculator_II.java)|Medium|
 |[772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)|[Solution](./LeetCode/772_Basic_Calculator_III.java)|Hard|
 |[443. String Compression](https://leetcode.com/problems/string-compression/)|[Solution](./LeetCode/443_String_Compression.java)|Medium|
@@ -153,6 +155,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 |Title|Solution|Difficulty|
 |-----|--------|----------|
 |[003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./LeetCode/003_Longest_Substring_Without_Repeating_Characters.java)|Medium|
+|[049. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./LeetCode/049_Group_Anagrams.java)|Medium|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
 
@@ -229,6 +232,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 ## Sort
 |Title|Solution|Difficulty|
 |-----|--------|----------|
+|[049. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./LeetCode/049_Group_Anagrams.java)|Medium|
 
 
 ## Recursion
