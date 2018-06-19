@@ -38,7 +38,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 |[012. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](./LeetCode/012_Integer_to_Roman.java)|Medium|
 |[013. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](./LeetCode/013_Roman_to_Integer.java)|Easy|
 |[014. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](./LeetCode/014_Longest_Common_Prefix.java)|Easy|
-|[015. 3Sum](https://leetcode.com/problems/3sum/)|[Solution](./LeetCode/015_3Sum.java)|Easy|
+|[015. 3Sum](https://leetcode.com/problems/3sum/)|[Solution](./LeetCode/015_3Sum.java)|Medium|
 |[017. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution](./LeetCode/017_Letter_Combinations_of_a_Phone_Number.java)|Medium|
 |[019. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](./LeetCode/019_Remove_Nth_Node_From_End_of_List.java)|Medium|
 |[021. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./LeetCode/021_Merge_Two_Sorted_Lists.java)|Easy|
@@ -91,7 +91,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8.
 |Title|Solution|Difficulty|
 |-----|--------|----------|
 |[001. Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](./LeetCode/001_Two_Sum.java)|Easy|
-|[015. 3Sum](https://leetcode.com/problems/3sum/)|[Solution](./LeetCode/015_3Sum.java)|Easy|
+|[015. 3Sum](https://leetcode.com/problems/3sum/)|[Solution](./LeetCode/015_3Sum.java)|Medium|
 |[035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./LeetCode/035_Search_Insert_Position.java)|Easy|
 |[078. Subsets](https://leetcode.com/problems/subsets/)|[Solution](./LeetCode/078_Subsets.java)|Medium|
 |[031. Next Permutation](https://leetcode.com/problems/next-permutation/)|[Solution](./LeetCode/031_Next_Permutation.java)|Medium|
