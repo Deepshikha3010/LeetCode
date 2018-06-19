@@ -21,13 +21,11 @@ class Solution {
     
     private void helper(int[] nums, int index, List<Integer> record, List<List<Integer>> result){
         result.add(new ArrayList<>(record));
-        if(index < nums.length){
-            for(int i = index; i < nums.length; i++){
-                record.add(nums[i]);
-                helper(nums, i + 1, record, result);
-                record.remove(record.size() - 1);
-            }
-        }    
+        for(int i = index; i < nums.length; i++){
+            record.add(nums[i]);
+            helper(nums, i + 1, record, result);
+            record.remove(record.size() - 1);
+        }
     }
 }
 
