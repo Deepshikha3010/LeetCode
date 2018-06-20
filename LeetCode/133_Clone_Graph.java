@@ -13,21 +13,25 @@ public class Solution {
         if(node == null){
             return null;
         }
-        // collecting new nodes
+        // Collect projection (old node => new node).
         Map<Integer, UndirectedGraphNode> map = new HashMap<>();
-        // collecting old nodes
+        // Collect old node that its projection (new node) has not got neighbors.
         Queue<UndirectedGraphNode> queue = new LinkedList<>();
         queue.offer(node);
         map.put(node.label, new UndirectedGraphNode(node.label));
         while(!queue.isEmpty()){
+            // 但凡刚从queue出来的node，本次循环会使其复制品和neighbors完备。
             UndirectedGraphNode cur = queue.poll();
             UndirectedGraphNode curCopy = map.get(cur.label);
             for(UndirectedGraphNode neighbor : cur.neighbors){
+                // If new neighbor node doesn't exist, create a new one, and put it into queue (since it should not have beighbors right now). 之前遇到过的node肯定已经有了复制品，没有复制品的之前肯定没遇到过。没遇到过也肯定没neighbors，所以放入queue。
                 if(!map.containsKey(neighbor.label)){
                     UndirectedGraphNode newNode = new UndirectedGraphNode(neighbor.label);
+                    // 就是把所有node复制一遍，用的map的意义就是不重复复制node。
                     queue.offer(neighbor);
                     map.put(newNode.label, newNode);
                 }
+                // Add new neighbor node to new node's neighbors. 负责将neighbor复制品放入node复制品的neighbors里面。
                 curCopy.neighbors.add(map.get(neighbor.label));
             }
         }
