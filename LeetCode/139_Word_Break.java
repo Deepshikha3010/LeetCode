@@ -1,4 +1,7 @@
 /**
+ * Solution 1: 通用解法
+ * 
+ * Solution 2:
  * String DP
  * 一般String DP的状态数组长度为s.length() + 1。
  * f[i]代表前i个子字符串的状态。因为第一层循环的起点为1。
@@ -7,6 +10,25 @@
  * 
  */
 
+/**Solution 1 */
+class Solution {
+    public boolean wordBreak(String s, List<String> wordDict) {
+        Set<String> set = new HashSet<>(wordDict);
+        boolean[] f = new boolean[s.length() + 1];
+        f[0] = true;
+        for(int i = 0; i <= s.length(); i++){
+            for(int j = 0; j < i; j++){
+                String substring = s.substring(j, i);
+                if(set.contains(substring) && f[j]){
+                    f[i] = true;
+                }
+            }
+        }
+        return f[s.length()];
+    }
+}
+
+/**Solution 2 */
 class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
         Set<String> set = new HashSet<>();
