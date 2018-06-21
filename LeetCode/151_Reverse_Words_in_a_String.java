@@ -1,8 +1,14 @@
 /**
+ * Solution 1:
  * 时间复杂度n，空间复杂度n
  * 类似Basic Caculator做法，两个StringBuilder，一个记录result,一个记录word。
+ * 
+ * Solution 2:
+ * 时间复杂度n，空间复杂度n
+ * 直接用split
  */
 
+/**Solution 1 */
 public class Solution {
     public String reverseWords(String s) {
         if(s == null || s.length() == 0){
@@ -29,5 +35,22 @@ public class Solution {
             }
         }
         return sb.toString();
+    }
+}
+
+/**Solution 2 */
+public class Solution {
+    public String reverseWords(String s) {
+        if(s == null || s.length() == 0){
+            return s;
+        }
+        String[] array = s.trim().split("\\s+");
+        StringBuilder sb = new StringBuilder();
+        for(int i = array.length - 1; i >= 0; i--){
+            String str = array[i];
+            System.out.println(str);
+            sb.append(str + " ");
+        }
+        return sb.toString().trim();
     }
 }
