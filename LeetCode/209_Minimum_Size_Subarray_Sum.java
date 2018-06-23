@@ -26,6 +26,6 @@ class Solution {
             }
             sum -= nums[slow];
         }
-        return result == Integer.MAX_VALUE ? -1 : result;
+        return result == Integer.MAX_VALUE ? 0 : result;
     }
 }
