@@ -67,7 +67,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./LeetCode/206_Reverse_Linked_List.java)/[JS](./LeetCode/206_Reverse_Linked_List.js)|Easy|
 |[277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Java](./LeetCode/277_Find_the_Celebrity.java)/[JS](./LeetCode/277_Find_the_Celebrity.js)|Medium|
 |[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./LeetCode/273_Integer_to_English_Words.java)|Hard|
-|[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Solution](./LeetCode/227_Basic_Calculator_II.java)|Medium|
+|[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./LeetCode/227_Basic_Calculator_II.java)/[JS](./LeetCode/227_Basic_Calculator_II.js)|Medium|
 |[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](./LeetCode/344_Reverse_String.java)|Easy|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./LeetCode/441_Arranging_Coins.java)|Easy|
