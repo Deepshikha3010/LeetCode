@@ -1,7 +1,7 @@
 LeetCode
 ========
 
-LeetCode/LintCode/HackerRank solutions in Java 8.
+LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 
 *: LintCode | **: HackerRank 
 | ***: GeeksforGeeks
