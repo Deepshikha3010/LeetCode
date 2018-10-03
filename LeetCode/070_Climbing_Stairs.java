@@ -15,3 +15,21 @@ class Solution {
         return f[n];
     }
 }
+
+// Only store two steps before
+class Solution {
+    public int climbStairs(int n) {
+        if (n <= 1) {
+            return n;
+        }
+        int twoBefore = 1;
+        int oneBefore = 1;
+        int cur = 0;
+        for (int i = 2; i <= n; i++) {
+            cur = twoBefore + oneBefore;
+            twoBefore = oneBefore;
+            oneBefore = cur;
+        }
+        return cur;
+    }
+}
