@@ -1,7 +1,5 @@
 # LeetCode
 
-========
-
 LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 
 *: LintCode | **: HackerRank
@@ -54,6 +52,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[033. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](./LeetCode/033_Search_In_Rotated_Sorted_Array.java)|Medium|
 |[034. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./LeetCode/034_Find_First_and_Last_Position_Of_Element_In_Sorted_Array.java)|Medium|
 |[035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./LeetCode/035_Search_Insert_Position.java)|Easy|
+|[042. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Solution](./LeetCode/042_Trapping_Rain_Water.java)|Hard|
 |[043. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Solution](./LeetCode/043_Multiply_Strings.java)|Medium|
 |[046. Permutations](https://leetcode.com/problems/permutations/)|[Solution](./LeetCode/046_Permutations.java)|Medium|
 |[047. Permutations II](https://leetcode.com/problems/permutations-ii/)|[Solution](./LeetCode/047_Permutations_II.java)|Medium|
@@ -82,6 +81,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./LeetCode/227_Basic_Calculator_II.java)/[JS](./LeetCode/227_Basic_Calculator_II.js)|Medium|
 |[277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Java](./LeetCode/277_Find_the_Celebrity.java)/[JS](./LeetCode/277_Find_the_Celebrity.js)|Medium|
 |[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./LeetCode/273_Integer_to_English_Words.java)|Hard|
+|[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./LeetCode/300_Longest_Increasing_Subsequence.java)|Medium|
 |[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./LeetCode/344_Reverse_String.java)/[JS](./LeetCode/344_Reverse_String.js)|Easy|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./LeetCode/441_Arranging_Coins.java)|Easy|
@@ -91,6 +91,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Solution](./LeetCode/657_Judge_Route_Circle.java)|Easy|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
 |[772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)|[Solution](./LeetCode/772_Basic_Calculator_III.java)|Hard|
+|[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Solution](./LeetCode/781_Rabbits_In_Forest.java)|Medium|
 |[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./LintCode/*109_Triangle.java)|Easy|
 |**Count Duplicates|[Solution](./HackerRank/**Count_Duplicates.java)|Easy|
 |**Implement Stack By LinkedList|[Solution](./HackerRank/**Implement_Stack_By_LinkedList.java)|Easy|
@@ -115,6 +116,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[033. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](./LeetCode/033_Search_In_Rotated_Sorted_Array.java)|Medium|
 |[034. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./LeetCode/034_Find_First_and_Last_Position_Of_Element_In_Sorted_Array.java)|Medium|
 |[035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./LeetCode/035_Search_Insert_Position.java)|Easy|
+|[042. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Solution](./LeetCode/042_Trapping_Rain_Water.java)|Hard|
 |[046. Permutations](https://leetcode.com/problems/permutations/)|[Solution](./LeetCode/046_Permutations.java)|Medium|
 |[047. Permutations II](https://leetcode.com/problems/permutations-ii/)|[Solution](./LeetCode/047_Permutations_II.java)|Medium|
 |[048. Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Solution](./LeetCode/048_Rotate_Image.java)|Medium|
@@ -124,6 +126,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[227. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Solution](./LeetCode/227_Find_the_Celebrity.java)|Medium|
 |[088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./LeetCode/088_Merge_Sorted_Array.java)|Easy|
 |[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./LeetCode/209_Minimum_Size_Subarray_Sum.java)|Medium|
+|[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./LeetCode/300_Longest_Increasing_Subsequence.java)|Medium|
 |**Count Duplicates|[Solution](./HackerRank/Count_Duplicates.java)|Easy|
 
 ## String
@@ -156,6 +159,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |**Merge in Between|[Solution](./HackerRank/**Merge_in_Between.java)|Medium|
 |**Missing Words|[Solution](./HackerRank/**Missing_Words.java)|Easy|
 |**Shift Letters|[Solution](./HackerRank/**Shfit_Letters.java)|Easy|
+|**Keyboard|[Solution](./HackerRank/**Keyboard.java)|Medium|
 
 ## Binary Tree
 
@@ -174,6 +178,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[034. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./LeetCode/034_Find_First_and_Last_Position_Of_Element_In_Sorted_Array.java)|Medium|
 |[035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./LeetCode/035_Search_Insert_Position.java)|Easy|
 |[050. Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](./LeetCode/050_Pow(x, n).java)|Medium|
+|[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./LeetCode/300_Longest_Increasing_Subsequence.java)|Medium|
 
 ## Linked List
 
@@ -195,6 +200,8 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[049. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./LeetCode/049_Group_Anagrams.java)|Medium|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
+|[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Solution](./LeetCode/781_Rabbits_In_Forest.java)|Medium|
+|**Keyboard|[Solution](./HackerRank/**Keyboard.java)|Medium|
 
 ## Queue
 
@@ -217,6 +224,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[016. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)|[Solution](./LeetCode/016_3Sum_Closest.java)|Medium|
 |[026. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](./LeetCode/026_Remove_Duplicates_From_Sorted_Array.java)|Easy|
 |[031. Next Permutation](https://leetcode.com/problems/next-permutation/)|[Solution](./LeetCode/031_Next_Permutation.java)|Medium|
+|[042. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Solution](./LeetCode/042_Trapping_Rain_Water.java)|Hard|
 |[075. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Solution](./LeetCode/075_Sort_Colors.java)|Medium|
 |[088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./LeetCode/088_Merge_Sorted_Array.java)|Easy|
 
@@ -234,6 +242,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Solution](./LeetCode/168_Excel_Sheet_Column_Title.java)|Easy|
 |[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./LeetCode/273_Integer_to_English_Words.java)|Hard|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./LeetCode/441_Arranging_Coins.java)|Easy|
+|[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Solution](./LeetCode/781_Rabbits_In_Forest.java)|Medium|
 
 ## Breadth-First Search
 
