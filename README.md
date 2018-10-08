@@ -23,7 +23,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 * [Stack](https://github.com/zirui-wang/LeetCode#stack)
 * [Dynamic Programming](https://github.com/zirui-wang/LeetCode#dynamic-programming)
 * [Sort](https://github.com/zirui-wang/LeetCode#sort)
-* [Recursion](https://github.com/zirui-wang/LeetCode#recursion)
+* [Greedy](https://github.com/zirui-wang/LeetCode#greedy)
 * [Graph](https://github.com/zirui-wang/LeetCode#graph)
 
 |Title|Solution|Difficulty|
@@ -60,7 +60,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[048. Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Solution](./LeetCode/048_Rotate_Image.java)|Medium|
 |[049. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./LeetCode/049_Group_Anagrams.java)|Medium|
 |[050. Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](./LeetCode/050_Pow(x, n).java)|Medium|
-|[053. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)|[Solution](./LeetCode/053_Maximum_Subarray.java)|Easy|
+|[053. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](./LeetCode/053_Maximum_Subarray.java)|Easy|
 |[055. Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./LeetCode/055_Jump_Game.java)|Medium|
 |[062. Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./LeetCode/062_Unique_Paths.java)|Medium|
 |[067. Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](./LeetCode/067_Add_Binary.java)|Easy|
@@ -78,14 +78,17 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Solution](./LeetCode/108_Convert_Sorted_Array_to_Binary_Search_Tree.java)|Easy|
 |[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Solution](./LeetCode/116_Populating_Next_Right_Pointers_in_Each_Node.java)|Medium|
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](./LeetCode/121_Best_Time_to_Buy_and_Sell_Stock.java)|Easy|
-|[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](./LeetCode/130_Surrounded_Regions.java)|Medium|
-|[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./LeetCode/131_Palindrome_Partitioning.java)|Medium|
 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](./LeetCode/122_Best_Time_to_Buy_and_Sell_Stock_II.java)|Easy|
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder/)|[Solution](./LeetCode/127_Word_Ladder.java)|Medium|
+|[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](./LeetCode/130_Surrounded_Regions.java)|Medium|
+|[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./LeetCode/131_Palindrome_Partitioning.java)|Medium|
 |[133. Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](./LeetCode/133_Clone_Graph.java)|Medium|
+|[134. Gas Station](https://leetcode.com/problems/gas-station/)|[Solution](./LeetCode/134_Gas_Station.java)|Medium|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[Solution](./LeetCode/139_Word_Break.java)|Medium|
 |[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Solution](./LeetCode/144_Binary_Tree_Preorder_Traversal.java)|Medium|
+|[148. Sort List](https://leetcode.com/problems/sort-list/)|[Solution](./LeetCode/148_Sort_List.java)|Medium|
 |[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](./LeetCode/151_Reverse_Words_in_a_String.java)|Medium|
+|[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](./LeetCode/152_Maximum_Product_Subarray.java)|Medium|
 |[155. Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](./LeetCode/155_Min_Stack.java)|Easy|
 |[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Solution](./LeetCode/168_Excel_Sheet_Column_Title.java)|Easy|
 |[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](./LeetCode/200_Number_of_Islands.java)|Medium|
@@ -107,6 +110,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)|[Solution](./LeetCode/772_Basic_Calculator_III.java)|Hard|
 |[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Solution](./LeetCode/781_Rabbits_In_Forest.java)|Medium|
 |[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./LintCode/*109_Triangle.java)|Easy|
+|[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
 |**Count Duplicates|[Solution](./HackerRank/**Count_Duplicates.java)|Easy|
 |**Implement Stack By LinkedList|[Solution](./HackerRank/**Implement_Stack_By_LinkedList.java)|Easy|
 |**Delete Node Greater than X|[Solution](./HackerRank/**Delete_Node_Greater_than_X.java)|Easy|
@@ -143,9 +147,12 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](./LeetCode/121_Best_Time_to_Buy_and_Sell_Stock.java)|Easy|
 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](./LeetCode/122_Best_Time_to_Buy_and_Sell_Stock_II.java)|Easy|
 |[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](./LeetCode/130_Surrounded_Regions.java)|Medium|
+|[134. Gas Station](https://leetcode.com/problems/gas-station/)|[Solution](./LeetCode/134_Gas_Station.java)|Medium|
+|[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](./LeetCode/152_Maximum_Product_Subarray.java)|Medium|
 |[227. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Solution](./LeetCode/227_Find_the_Celebrity.java)|Medium|
 |[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./LeetCode/209_Minimum_Size_Subarray_Sum.java)|Medium|
 |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./LeetCode/300_Longest_Increasing_Subsequence.java)|Medium|
+|[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
 |**Count Duplicates|[Solution](./HackerRank/Count_Duplicates.java)|Easy|
 
 ## String
@@ -215,6 +222,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[019. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](./LeetCode/019_Remove_Nth_Node_From_End_of_List.java)|Medium|
 |[021. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./LeetCode/021_Merge_Two_Sorted_Lists.java)|Easy|
 |[024. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](./LeetCode/024_Swap_Nodes_In_Pairs.java)|Medium|
+|[148. Sort List](https://leetcode.com/problems/sort-list/)|[Solution](./LeetCode/148_Sort_List.java)|Medium|
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](./LeetCode/206_Reverse_Linked_List.java)|Easy|
 |**Delete Node Greater than X|[Solution](./HackerRank/**Delete_Node_Greater_than_X.java)|Easy|
 |**Merge in Between.java|[Solution](./HackerRank/**Merge_in_Between.java)|Easy|
@@ -255,6 +263,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[042. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Solution](./LeetCode/042_Trapping_Rain_Water.java)|Hard|
 |[075. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Solution](./LeetCode/075_Sort_Colors.java)|Medium|
 |[088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./LeetCode/088_Merge_Sorted_Array.java)|Easy|
+|[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
 
 ## Math
 
@@ -322,6 +331,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[091. Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](./LeetCode/091_Decode_Ways.java)|Medium|
 |[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./LeetCode/131_Palindrome_Partitioning.java)|Medium|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[Solution](./LeetCode/139_Word_Break.java)|Medium|
+|[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](./LeetCode/152_Maximum_Product_Subarray.java)|Medium|
 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./LeetCode/647_Palindromic_Substrings.java)|Medium|
 |[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./LintCode/*109_Triangle.java)|Easy|
 
@@ -330,11 +340,14 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |Title|Solution|Difficulty|
 |-----|--------|----------|
 |[049. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./LeetCode/049_Group_Anagrams.java)|Medium|
+|[148. Sort List](https://leetcode.com/problems/sort-list/)|[Solution](./LeetCode/148_Sort_List.java)|Medium|
+|[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
 
-## Recursion
+## Greedy
 
 |Title|Solution|Difficulty|
 |-----|--------|----------|
+|[134. Gas Station](https://leetcode.com/problems/gas-station/)|[Solution](./LeetCode/134_Gas_Station.java)|Medium|
 
 ## Graph
 
