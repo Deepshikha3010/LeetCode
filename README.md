@@ -77,6 +77,11 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Solution](./LeetCode/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java)|Medium|
 |[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Solution](./LeetCode/108_Convert_Sorted_Array_to_Binary_Search_Tree.java)|Easy|
 |[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Solution](./LeetCode/116_Populating_Next_Right_Pointers_in_Each_Node.java)|Medium|
+|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](./LeetCode/121_Best_Time_to_Buy_and_Sell_Stock.java)|Easy|
+|[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](./LeetCode/130_Surrounded_Regions.java)|Medium|
+|[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./LeetCode/131_Palindrome_Partitioning.java)|Medium|
+|[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](./LeetCode/122_Best_Time_to_Buy_and_Sell_Stock_II.java)|Easy|
+|[127. Word Ladder](https://leetcode.com/problems/word-ladder/)|[Solution](./LeetCode/127_Word_Ladder.java)|Medium|
 |[133. Clone Graph](https://leetcode.com/problems/clone-graph/)|[Solution](./LeetCode/133_Clone_Graph.java)|Medium|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[Solution](./LeetCode/139_Word_Break.java)|Medium|
 |[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Solution](./LeetCode/144_Binary_Tree_Preorder_Traversal.java)|Medium|
@@ -135,6 +140,9 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[078. Subsets](https://leetcode.com/problems/subsets/)|[Solution](./LeetCode/078_Subsets.java)|Medium|
 |[088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./LeetCode/088_Merge_Sorted_Array.java)|Easy|
 |[091. Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](./LeetCode/091_Decode_Ways.java)|Medium|
+|[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](./LeetCode/121_Best_Time_to_Buy_and_Sell_Stock.java)|Easy|
+|[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](./LeetCode/122_Best_Time_to_Buy_and_Sell_Stock_II.java)|Easy|
+|[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](./LeetCode/130_Surrounded_Regions.java)|Medium|
 |[227. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Solution](./LeetCode/227_Find_the_Celebrity.java)|Medium|
 |[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./LeetCode/209_Minimum_Size_Subarray_Sum.java)|Medium|
 |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./LeetCode/300_Longest_Increasing_Subsequence.java)|Medium|
@@ -159,6 +167,8 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[028. Implement_strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](./LeetCode/028_Implement_strStr().java)|Easy|
 |[043. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Solution](./LeetCode/043_Multiply_Strings.java)|Medium|
 |[067. Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](./LeetCode/067_Add_Binary.java)|Easy|
+|[127. Word Ladder](https://leetcode.com/problems/word-ladder/)|[Solution](./LeetCode/127_Word_Ladder.java)|Medium|
+|[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./LeetCode/131_Palindrome_Partitioning.java)|Medium|
 |[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](./LeetCode/151_Reverse_Words_in_a_String.java)|Medium|
 |[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./LeetCode/273_Integer_to_English_Words.java)|Hard|
 |[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](./LeetCode/344_Reverse_String.java)|Easy|
@@ -266,8 +276,10 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 
 |Title|Solution|Difficulty|
 |-----|--------|----------|
-|[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](./LeetCode/200_Number_of_Islands.java)|Medium|
 |[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Solution](./LeetCode/116_Populating_Next_Right_Pointers_in_Each_Node.java)|Medium|
+|[127. Word Ladder](https://leetcode.com/problems/word-ladder/)|[Solution](./LeetCode/127_Word_Ladder.java)|Medium|
+|[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](./LeetCode/130_Surrounded_Regions.java)|Medium|
+|[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](./LeetCode/200_Number_of_Islands.java)|Medium|
 
 ## Depth-First Search
 
@@ -276,6 +288,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Solution](./LeetCode/101_Symmetric_Tree.java)|Easy|
 |[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Solution](./LeetCode/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java)|Medium|
 |[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Solution](./LeetCode/108_Convert_Sorted_Array_to_Binary_Search_Tree.java)|Easy|
+|[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./LeetCode/131_Palindrome_Partitioning.java)|Medium|
 
 ## Backtracking
 
@@ -286,6 +299,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[039. Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](./LeetCode/039_Combination_Sum.java)|Medium|
 |[046. Permutations](https://leetcode.com/problems/permutations/)|[Solution](./LeetCode/046_Permutations.java)|Medium|
 |[047. Permutations II](https://leetcode.com/problems/permutations-ii/)|[Solution](./LeetCode/047_Permutations_II.java)|Medium|
+|[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./LeetCode/131_Palindrome_Partitioning.java)|Medium|
 
 ## Stack
 
@@ -306,6 +320,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./LeetCode/070_Climbing_Stairs.java)|Easy|
 |[055. Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./LeetCode/055_Jump_Game.java)|Medium|
 |[091. Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](./LeetCode/091_Decode_Ways.java)|Medium|
+|[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./LeetCode/131_Palindrome_Partitioning.java)|Medium|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[Solution](./LeetCode/139_Word_Break.java)|Medium|
 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./LeetCode/647_Palindromic_Substrings.java)|Medium|
 |[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./LintCode/*109_Triangle.java)|Easy|
