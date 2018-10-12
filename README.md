@@ -36,6 +36,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[007. Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](./LeetCode/007_Reverse_Integer.java)|Easy|
 |[008. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Solution](./LeetCode/008_String_To_Integer.java)|Medium|
 |[009. Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Solution](./LeetCode/009_Palindrome_Number.java)|Easy|
+|[010. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Solution](./LeetCode/010_Regular_Expression_Matching.java)|Hard|
 |[012. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](./LeetCode/012_Integer_to_Roman.java)|Medium|
 |[013. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](./LeetCode/013_Roman_to_Integer.java)|Easy|
 |[014. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](./LeetCode/014_Longest_Common_Prefix.java)|Easy|
@@ -45,6 +46,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[019. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](./LeetCode/019_Remove_Nth_Node_From_End_of_List.java)|Medium|
 |[021. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./LeetCode/021_Merge_Two_Sorted_Lists.java)|Easy|
 |[022. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution](./LeetCode/022_Generate_Parentheses.java)|Medium|
+|[023. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Solution](./LeetCode/023_Merge_k_Sorted_Lists.java)|Hard|
 |[024. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](./LeetCode/024_Swap_Nodes_In_Pairs.java)|Medium|
 |[026. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution](./LeetCode/026_Remove_Duplicates_From_Sorted_Array.java)|Easy|
 |[028. Implement_strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](./LeetCode/028_Implement_strStr().java)|Easy|
@@ -62,9 +64,11 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[049. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./LeetCode/049_Group_Anagrams.java)|Medium|
 |[050. Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](./LeetCode/050_Powxn.java)|Medium|
 |[053. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Solution](./LeetCode/053_Maximum_Subarray.java)|Easy|
+|[054. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](./LeetCode/054_Spiral_Matrix.java)|Medium|
 |[055. Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./LeetCode/055_Jump_Game.java)|Medium|
 |[056. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](./LeetCode/056_Merge_Intervals.java)|Medium|
 |[062. Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./LeetCode/062_Unique_Paths.java)|Medium|
+|[066. Plus One](https://leetcode.com/problems/plus-one/)|[Solution](./LeetCode/066_Plus_One.java)|Easy|
 |[067. Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](./LeetCode/067_Add_Binary.java)|Easy|
 |[070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./LeetCode/070_Climbing_Stairs.java)|Easy|
 |[075. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Solution](./LeetCode/075_Sort_Colors.java)|Medium|
@@ -121,6 +125,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Solution](./LeetCode/657_Judge_Route_Circle.java)|Easy|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./LeetCode/695_Max_Area_of_Island.java)|Easy|
+|[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](./LeetCode/771_Jewels_and_Stones.java)|Easy|
 |[772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)|[Solution](./LeetCode/772_Basic_Calculator_III.java)|Hard|
 |[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Solution](./LeetCode/781_Rabbits_In_Forest.java)|Medium|
 |[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./LintCode/*109_Triangle.java)|Easy|
@@ -155,7 +160,9 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[047. Permutations II](https://leetcode.com/problems/permutations-ii/)|[Solution](./LeetCode/047_Permutations_II.java)|Medium|
 |[048. Rotate Image](https://leetcode.com/problems/rotate-image/description/)|[Solution](./LeetCode/048_Rotate_Image.java)|Medium|
 |[053. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)|[Solution](./LeetCode/053_Maximum_Subarray.java)|Easy|
+|[054. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](./LeetCode/054_Spiral_Matrix.java)|Medium|
 |[056. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](./LeetCode/056_Merge_Intervals.java)|Medium|
+|[066. Plus One](https://leetcode.com/problems/plus-one/)|[Solution](./LeetCode/066_Plus_One.java)|Easy|
 |[075. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Solution](./LeetCode/075_Sort_Colors.java)|Medium|
 |[078. Subsets](https://leetcode.com/problems/subsets/)|[Solution](./LeetCode/078_Subsets.java)|Medium|
 |[088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./LeetCode/088_Merge_Sorted_Array.java)|Easy|
@@ -183,6 +190,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./LeetCode/003_Longest_Substring_Without_Repeating_Characters.java)|Medium|
 |[005. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./LeetCode/005_Longest_Palindromic_Substring.java)|Medium|
 |[008. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Solution](./LeetCode/008_String_To_Integer.java)|Medium|
+|[010. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Solution](./LeetCode/010_Regular_Expression_Matching.java)|Hard|
 |[012. Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution](./LeetCode/012_Integer_to_Roman.java)|Medium|
 |[013. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution](./LeetCode/013_Roman_to_Integer.java)|Easy|
 |[014. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution](./LeetCode/014_Longest_Common_Prefix.java)|Easy|
@@ -249,6 +257,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[019. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution](./LeetCode/019_Remove_Nth_Node_From_End_of_List.java)|Medium|
 |[021. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./LeetCode/021_Merge_Two_Sorted_Lists.java)|Easy|
 |[024. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](./LeetCode/024_Swap_Nodes_In_Pairs.java)|Medium|
+|[023. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Solution](./LeetCode/023_Merge_k_Sorted_Lists.java)|Hard|
 |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|[Solution](./LeetCode/146_LRU_Cache.java)|Hard|
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|[Solution](./LeetCode/148_Sort_List.java)|Medium|
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](./LeetCode/206_Reverse_Linked_List.java)|Easy|
@@ -265,6 +274,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Solution](./LeetCode/166_Fraction_to_Recurring_Decimal.java)|Medium|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
+|[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](./LeetCode/771_Jewels_and_Stones.java)|Easy|
 |[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Solution](./LeetCode/781_Rabbits_In_Forest.java)|Medium|
 |**Keyboard|[Solution](./HackerRank/**Keyboard.java)|Medium|
 
@@ -360,6 +370,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |Title|Solution|Difficulty|
 |-----|--------|----------|
 |[005. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./LeetCode/005_Longest_Palindromic_Substring.java)|Medium|
+|[010. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Solution](./LeetCode/010_Regular_Expression_Matching.java)|Hard|
 |[062. Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./LeetCode/062_Unique_Paths.java)|Medium|
 |[070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./LeetCode/070_Climbing_Stairs.java)|Easy|
 |[055. Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./LeetCode/055_Jump_Game.java)|Medium|
@@ -374,6 +385,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 
 |Title|Solution|Difficulty|
 |-----|--------|----------|
+|[023. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Solution](./LeetCode/023_Merge_k_Sorted_Lists.java)|Hard|
 |[049. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./LeetCode/049_Group_Anagrams.java)|Medium|
 |[056. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](./LeetCode/056_Merge_Intervals.java)|Medium|
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|[Solution](./LeetCode/148_Sort_List.java)|Medium|
