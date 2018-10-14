@@ -17,6 +17,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 * [Heap](https://github.com/zirui-wang/LeetCode#heap)
 * [Two Pointers](https://github.com/zirui-wang/LeetCode#two-pointers)
 * [Math](https://github.com/zirui-wang/LeetCode#math)
+* [Bit Manipulation](https://github.com/zirui-wang/LeetCode#bit-manipulation)
 * [Breadth-First Search](https://github.com/zirui-wang/LeetCode#breadth-first-search)
 * [Depth-First Search](https://github.com/zirui-wang/LeetCode#depth-first-search)
 * [Backtracking](https://github.com/zirui-wang/LeetCode#backtracking)
@@ -72,6 +73,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[066. Plus One](https://leetcode.com/problems/plus-one/)|[Solution](./LeetCode/066_Plus_One.java)|Easy|
 |[067. Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](./LeetCode/067_Add_Binary.java)|Easy|
 |[070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./LeetCode/070_Climbing_Stairs.java)|Easy|
+|[074. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](./LeetCode/074_Search_a_2D_Matrix.java)|Medium|
 |[075. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Solution](./LeetCode/075_Sort_Colors.java)|Medium|
 |[078. Subsets](https://leetcode.com/problems/subsets/)|[Solution](./LeetCode/078_Subsets.java)|Medium|
 |[088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./LeetCode/088_Merge_Sorted_Array.java)|Easy|
@@ -115,13 +117,18 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](./LeetCode/207_Course_Schedule.java)|Medium|
 |[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](./LeetCode/208_Implement_Trie_PrefixTree.java)|Medium|
 |[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./LeetCode/209_Minimum_Size_Subarray_Sum.java)|Medium|
+|[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[Solution](./LeetCode/218_The_Skyline_Problem.java)|Hard|
 |[224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Solution](./LeetCode/226_Basic_Calculator.js)|Hard|
 |[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./LeetCode/227_Basic_Calculator_II.java)/[JS](./LeetCode/227_Basic_Calculator_II.js)|Medium|
 |[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Solution](./LeetCode/228_Summary_Ranges.java)|Medium|
+|[231. Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](./LeetCode/231_Power_of_Two.java)|Easy|
 |[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](./LeetCode/238_Product_of_Array_Except_Self.java)|Medium|
+|[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](./LeetCode/240_Search_a_2D_Matrix_II.java)|Medium|
 |[277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Java](./LeetCode/277_Find_the_Celebrity.java)/[JS](./LeetCode/277_Find_the_Celebrity.js)|Medium|
 |[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./LeetCode/273_Integer_to_English_Words.java)|Hard|
 |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./LeetCode/300_Longest_Increasing_Subsequence.java)|Medium|
+|[326. Power of Three](https://leetcode.com/problems/power-of-three/)|[Solution](./LeetCode/326_Power_of_Three.java)|Easy|
+|[342. Power of Four](https://leetcode.com/problems/power-of-four/)|[Solution](./LeetCode/342_Power_of_Four.java)|Easy|
 |[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./LeetCode/344_Reverse_String.java)/[JS](./LeetCode/344_Reverse_String.js)|Easy|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./LeetCode/441_Arranging_Coins.java)|Easy|
@@ -182,6 +189,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[136. Single Number](https://leetcode.com/problems/single-number/)|[Solution](./LeetCode/136_Single_Number.java)|Easy|
 |[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](./LeetCode/152_Maximum_Product_Subarray.java)|Medium|
 |[163. Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Solution](./LeetCode/163_Missing_Ranges.java)|Medium|
+|[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[Solution](./LeetCode/218_The_Skyline_Problem.java)|Hard|
 |[277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Java](./LeetCode/277_Find_the_Celebrity.java)/[JS](./LeetCode/277_Find_the_Celebrity.js)|Medium|
 |[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Solution](./LeetCode/228_Summary_Ranges.java)|Medium|
 |[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](./LeetCode/238_Product_of_Array_Except_Self.java)|Medium|
@@ -254,7 +262,9 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[034. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./LeetCode/034_Find_First_and_Last_Position_Of_Element_In_Sorted_Array.java)|Medium|
 |[035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./LeetCode/035_Search_Insert_Position.java)|Easy|
 |[050. Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](./LeetCode/050_Powxn.java)|Medium|
+|[074. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](./LeetCode/074_Search_a_2D_Matrix.java)|Medium|
 |[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](./LeetCode/162_Find_Peak_Element.java)|Medium|
+|[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](./LeetCode/240_Search_a_2D_Matrix_II.java)|Medium|
 |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./LeetCode/300_Longest_Increasing_Subsequence.java)|Medium|
 
 ## Linked List
@@ -328,9 +338,18 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Solution](./LeetCode/166_Fraction_to_Recurring_Decimal.java)|Medium|
 |[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Solution](./LeetCode/168_Excel_Sheet_Column_Title.java)|Easy|
 |[224. Basic Calculator I](https://leetcode.com/problems/basic-calculator/)|[Java](./LeetCode/226_Basic_Calculator.js)|Hard|
+|[231. Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](./LeetCode/231_Power_of_Two.java)|Easy|
 |[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./LeetCode/273_Integer_to_English_Words.java)|Hard|
+|[326. Power of Three](https://leetcode.com/problems/power-of-three/)|[Solution](./LeetCode/326_Power_of_Three.java)|Easy|
+|[342. Power of Four](https://leetcode.com/problems/power-of-four/)|[Solution](./LeetCode/342_Power_of_Four.java)|Easy|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./LeetCode/441_Arranging_Coins.java)|Easy|
 |[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Solution](./LeetCode/781_Rabbits_In_Forest.java)|Medium|
+
+## Bit Manipulation
+
+|Title|Solution|Difficulty|
+|-----|--------|----------|
+|[231. Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](./LeetCode/231_Power_of_Two.java)|Easy|
 
 ## Breadth-First Search
 
@@ -403,6 +422,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[056. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](./LeetCode/056_Merge_Intervals.java)|Medium|
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|[Solution](./LeetCode/148_Sort_List.java)|Medium|
 |[179. Largest Number](https://leetcode.com/problems/largest-number/)|[Solution](./LeetCode/179_Largest_Number.java)|Medium|
+|[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[Solution](./LeetCode/218_The_Skyline_Problem.java)|Hard|
 |[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
 
 ## Greedy
@@ -422,4 +442,4 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 
 |Title|Solution|Difficulty|
 |-----|--------|----------|
-|[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](./LeetCode/208_Implement_Trie_PrefixTree.java)|Medium|
+|[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](./LeetCode/208_Implement_Trie_PrefixTree.java)|Medium|
