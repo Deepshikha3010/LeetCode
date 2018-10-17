@@ -130,19 +130,24 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](./LeetCode/279_Perfect_Squares.java)|Medium|
 |[280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|[Solution](./LeetCode/280_Wiggle_Sort.java)|Medium|
 |[289. Game of Life](https://leetcode.com/problems/game-of-life/)|[Solution](./LeetCode/289_Game_of_Life.java)|Medium|
+|[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Solution](./LeetCode/297_Serialize_and_Deserialize_Binary_Tree.java)|Hard|
 |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./LeetCode/300_Longest_Increasing_Subsequence.java)|Medium|
 |[326. Power of Three](https://leetcode.com/problems/power-of-three/)|[Solution](./LeetCode/326_Power_of_Three.java)|Easy|
+|[341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Solution](./LeetCode/341_Flatten_Nested_List_Iterator.java)|Medium|
 |[342. Power of Four](https://leetcode.com/problems/power-of-four/)|[Solution](./LeetCode/342_Power_of_Four.java)|Easy|
 |[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./LeetCode/344_Reverse_String.java)/[JS](./LeetCode/344_Reverse_String.js)|Easy|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](./LeetCode/387_First_Unique_Character_in_a_String.java)|Easy|
+|[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](./LeetCode/406_Queue_Reconstruction_by_Height.java)|Medium|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./LeetCode/441_Arranging_Coins.java)|Easy|
 |[443. String Compression](https://leetcode.com/problems/string-compression/)|[Solution](./LeetCode/443_String_Compression.java)|Medium|
 |[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](./LeetCode/557_Reverse_Words_in_a_String_III.java)|Easy|
 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./LeetCode/647_Palindromic_Substrings.java)|Medium|
 |[657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Solution](./LeetCode/657_Judge_Route_Circle.java)|Easy|
+|[681. Next Closest Time](https://leetcode.com/problems/next-closest-time/)|[Solution](./LeetCode/681_Next_Closest_Time.java)|Medium|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./LeetCode/695_Max_Area_of_Island.java)|Easy|
+|[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](./LeetCode/739_Daily_Temperatures.java)|Medium|
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](./LeetCode/771_Jewels_and_Stones.java)|Easy|
 |[772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)|[Solution](./LeetCode/772_Basic_Calculator_III.java)|Hard|
 |[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Solution](./LeetCode/781_Rabbits_In_Forest.java)|Medium|
@@ -203,6 +208,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|[Solution](./LeetCode/280_Wiggle_Sort.java)|Medium|
 |[289. Game of Life](https://leetcode.com/problems/game-of-life/)|[Solution](./LeetCode/289_Game_of_Life.java)|Medium|
 |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./LeetCode/300_Longest_Increasing_Subsequence.java)|Medium|
+|[681. Next Closest Time](https://leetcode.com/problems/next-closest-time/)|[Solution](./LeetCode/681_Next_Closest_Time.java)|Medium|
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./LeetCode/695_Max_Area_of_Island.java)|Easy|
 |[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
 |**Count Duplicates|[Solution](./HackerRank/Count_Duplicates.java)|Easy|
@@ -260,6 +266,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Solution](./LeetCode/116_Populating_Next_Right_Pointers_in_Each_Node.java)|Medium|
 |[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Solution](./LeetCode/44_Binary_Tree_Preorder_Traversal.java)|Medium|
 |[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Solution](./LeetCode/173_Binary_Search_Tree_Iterator.java)|Medium|
+|[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Solution](./LeetCode/297_Serialize_and_Deserialize_Binary_Tree.java)|Hard|
 
 ## Binary Search
 
@@ -301,6 +308,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Solution](./LeetCode/166_Fraction_to_Recurring_Decimal.java)|Medium|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](./LeetCode/387_First_Unique_Character_in_a_String.java)|Easy|
+|[681. Next Closest Time](https://leetcode.com/problems/next-closest-time/)|[Solution](./LeetCode/681_Next_Closest_Time.java)|Medium|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](./LeetCode/771_Jewels_and_Stones.java)|Easy|
 |[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Solution](./LeetCode/781_Rabbits_In_Forest.java)|Medium|
@@ -404,6 +412,8 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Solution](./LeetCode/150_Evaluate_Reverse_Polish_Notation.java)|Medium|
 |[155. Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](./LeetCode/155_Min_Stack.java)|Easy|
 |[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Solution](./LeetCode/173_Binary_Search_Tree_Iterator.java)|Medium|
+|[341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Solution](./LeetCode/341_Flatten_Nested_List_Iterator.java)|Medium|
+|[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](./LeetCode/739_Daily_Temperatures.java)|Medium|
 |**Implement Stack By LinkedList|[Solution](./HackerRank/**Implement_Stack_By_LinkedList.java)|Easy|
 
 ## Dynamic Programming
@@ -444,6 +454,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |Title|Solution|Difficulty|
 |-----|--------|----------|
 |[134. Gas Station](https://leetcode.com/problems/gas-station/)|[Solution](./LeetCode/134_Gas_Station.java)|Medium|
+|[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](./LeetCode/406_Queue_Reconstruction_by_Height.java)|Medium|
 
 ## Graph
 
