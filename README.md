@@ -122,6 +122,8 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./LeetCode/227_Basic_Calculator_II.java)/[JS](./LeetCode/227_Basic_Calculator_II.js)|Medium|
 |[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Solution](./LeetCode/228_Summary_Ranges.java)|Medium|
 |[231. Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](./LeetCode/231_Power_of_Two.java)|Easy|
+|[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/)|[Solution](./LeetCode/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java)|Easy|
+|[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Solution](./LeetCode/236_Lowest_Common_Ancestor_of_a_Binary_Tree.java)|Medium|
 |[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](./LeetCode/238_Product_of_Array_Except_Self.java)|Medium|
 |[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](./LeetCode/240_Search_a_2D_Matrix_II.java)|Medium|
 |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./LeetCode/253_Meeting_Rooms_II.java)|Medium|
@@ -153,9 +155,12 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./LeetCode/695_Max_Area_of_Island.java)|Easy|
 |[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](./LeetCode/739_Daily_Temperatures.java)|Medium|
+|[760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/)|[Solution](./LeetCode/760_Find_Anagram_Mappings.java)|Easy|
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](./LeetCode/771_Jewels_and_Stones.java)|Easy|
 |[772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)|[Solution](./LeetCode/772_Basic_Calculator_III.java)|Hard|
 |[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Solution](./LeetCode/781_Rabbits_In_Forest.java)|Medium|
+|[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Solution](./LeetCode/832_Flipping_an_Image.java)|Easy|
+|[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Solution](./LeetCode/904_Fruit_Into_Baskets.java)|Medium|
 |[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./LintCode/*109_Triangle.java)|Easy|
 |[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
 |**Count Duplicates|[Solution](./HackerRank/**Count_Duplicates.java)|Easy|
@@ -218,6 +223,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Solution](./LeetCode/463_Island_Perimeter.java)|Easy|
 |[681. Next Closest Time](https://leetcode.com/problems/next-closest-time/)|[Solution](./LeetCode/681_Next_Closest_Time.java)|Medium|
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./LeetCode/695_Max_Area_of_Island.java)|Easy|
+|[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Solution](./LeetCode/832_Flipping_an_Image.java)|Easy|
 |[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
 |**Count Duplicates|[Solution](./HackerRank/Count_Duplicates.java)|Easy|
 
@@ -277,6 +283,8 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Solution](./LeetCode/44_Binary_Tree_Preorder_Traversal.java)|Medium|
 |[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Solution](./LeetCode/173_Binary_Search_Tree_Iterator.java)|Medium|
 |[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Solution](./LeetCode/297_Serialize_and_Deserialize_Binary_Tree.java)|Hard|
+|[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](./LeetCode/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java)|Easy|
+|[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Solution](./LeetCode/236_Lowest_Common_Ancestor_of_a_Binary_Tree.java)|Medium|
 
 ## Binary Search
 
@@ -320,6 +328,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](./LeetCode/387_First_Unique_Character_in_a_String.java)|Easy|
 |[681. Next Closest Time](https://leetcode.com/problems/next-closest-time/)|[Solution](./LeetCode/681_Next_Closest_Time.java)|Medium|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
+|[760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/)|[Solution](./LeetCode/760_Find_Anagram_Mappings.java)|Easy|
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](./LeetCode/771_Jewels_and_Stones.java)|Easy|
 |[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Solution](./LeetCode/781_Rabbits_In_Forest.java)|Medium|
 |**Keyboard|[Solution](./HackerRank/**Keyboard.java)|Medium|
@@ -350,6 +359,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[075. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Solution](./LeetCode/075_Sort_Colors.java)|Medium|
 |[088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./LeetCode/088_Merge_Sorted_Array.java)|Easy|
 |[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Solution](./LeetCode/345_Reverse_Vowels_of_a_String.java)|Easy|
+|[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Solution](./LeetCode/904_Fruit_Into_Baskets.java)|Medium|
 |[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
 
 ## Math
