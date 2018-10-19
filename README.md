@@ -27,6 +27,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 * [Greedy](https://github.com/zirui-wang/LeetCode#greedy)
 * [Graph](https://github.com/zirui-wang/LeetCode#graph)
 * [Trie](https://github.com/zirui-wang/LeetCode#trie)
+* [Design](https://github.com/zirui-wang/LeetCode#design)
 
 |Title|Solution|Difficulty|
 |-----|--------|----------|
@@ -85,11 +86,14 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Solution](./LeetCode/103_Binary_Tree_Zigzag_Level_Order_Traversal.java)|Medium|
 |[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Solution](./LeetCode/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java)|Medium|
 |[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Solution](./LeetCode/108_Convert_Sorted_Array_to_Binary_Search_Tree.java)|Easy|
+|[112. Path Sum](https://leetcode.com/problems/path-sum/)|[Solution](./LeetCode/112_Path_Sum.java)|Easy|
+|[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Solution](./LeetCode/113_Path_Sum_II.java)|Medium|
 |[114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Solution](./LeetCode/114_Flatten_Binary_Tree_to_Linked_List.java)|Medium|
 |[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Solution](./LeetCode/116_Populating_Next_Right_Pointers_in_Each_Node.java)|Medium|
 |[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](./LeetCode/119_Pascal's_Triangle_II.java)|Easy|
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](./LeetCode/121_Best_Time_to_Buy_and_Sell_Stock.java)|Easy|
 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](./LeetCode/122_Best_Time_to_Buy_and_Sell_Stock_II.java)|Easy|
+|[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](./LeetCode/124_Binary_Tree_Maximum_Path_Sum.java)|Hard|
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder/)|[Solution](./LeetCode/127_Word_Ladder.java)|Medium|
 |[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](./LeetCode/128_Longest_Consecutive_Sequence.java)|Hard|
 |[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](./LeetCode/130_Surrounded_Regions.java)|Medium|
@@ -127,6 +131,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](./LeetCode/238_Product_of_Array_Except_Self.java)|Medium|
 |[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](./LeetCode/240_Search_a_2D_Matrix_II.java)|Medium|
 |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./LeetCode/253_Meeting_Rooms_II.java)|Medium|
+|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Solution](./LeetCode/257_Binary_Tree_Paths.java)|Easy|
 |[277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Java](./LeetCode/277_Find_the_Celebrity.java)/[JS](./LeetCode/277_Find_the_Celebrity.js)|Medium|
 |[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./LeetCode/273_Integer_to_English_Words.java)|Hard|
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](./LeetCode/279_Perfect_Squares.java)|Medium|
@@ -172,6 +177,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |**Merge in Between|[Solution](./HackerRank/**Merge_in_Between.java)|Medium|
 |**Missing Words|[Solution](./HackerRank/**Missing_Words.java)|Easy|
 |**Shift Letters|[Solution](./HackerRank/**Shfit_Letters.java)|Easy|
+|**Friends Graph|[Solution](./LeetCode/**Friends_Graph.java)|Easy|
 |[***Check_Binary_String.java](https://practice.geeksforgeeks.org/problems/check-binary-string/0)|[Solution](./GeeksForGeeks/***Check_Binary_String.java)|Easy|
 |***Remove_Duplicates_from_Unsorted_Array.java|[Solution](./GeeksForGeeks/***Remove_Duplicates_from_Unsorted_Array.java)|Easy|
 
@@ -278,13 +284,17 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Solution](./LeetCode/103_Binary_Tree_Zigzag_Level_Order_Traversal.java)|Medium|
 |[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Solution](./LeetCode/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java)|Medium|
 |[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Solution](./LeetCode/108_Convert_Sorted_Array_to_Binary_Search_Tree.java)|Easy|
+|[112. Path Sum](https://leetcode.com/problems/path-sum/)|[Solution](./LeetCode/112_Path_Sum.java)|Easy|
+|[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Solution](./LeetCode/113_Path_Sum_II.java)|Medium|
 |[114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Solution](./LeetCode/114_Flatten_Binary_Tree_to_Linked_List.java)|Medium|
 |[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Solution](./LeetCode/116_Populating_Next_Right_Pointers_in_Each_Node.java)|Medium|
+|[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](./LeetCode/124_Binary_Tree_Maximum_Path_Sum.java)|Hard|
 |[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Solution](./LeetCode/44_Binary_Tree_Preorder_Traversal.java)|Medium|
 |[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Solution](./LeetCode/173_Binary_Search_Tree_Iterator.java)|Medium|
 |[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Solution](./LeetCode/297_Serialize_and_Deserialize_Binary_Tree.java)|Hard|
 |[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](./LeetCode/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java)|Easy|
 |[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Solution](./LeetCode/236_Lowest_Common_Ancestor_of_a_Binary_Tree.java)|Medium|
+|[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Solution](./LeetCode/257_Binary_Tree_Paths.java)|Easy|
 
 ## Binary Search
 
@@ -489,6 +499,12 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |Title|Solution|Difficulty|
 |-----|--------|----------|
 |[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](./LeetCode/208_Implement_Trie_PrefixTree.java)|Medium|
+
+## Design
+
+|Title|Solution|Difficulty|
+|-----|--------|----------|
+|**Friends Graph|[Solution](./LeetCode/**Friends_Graph.java)|Easy|
 
 ## License
 
