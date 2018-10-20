@@ -55,6 +55,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[028. Implement_strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](./LeetCode/028_Implement_strStr().java)|Easy|
 |[029. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Solution](./LeetCode/029_Divide_Two_Integers.java)|Medium|
 |[031. Next Permutation](https://leetcode.com/problems/next-permutation/)|[Solution](./LeetCode/031_Next_Permutation.java)|Medium|
+|[032. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Solution](./LeetCode/032_Longest_Valid_Parentheses.java)|Hard|
 |[033. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution](./LeetCode/033_Search_In_Rotated_Sorted_Array.java)|Medium|
 |[034. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./LeetCode/034_Find_First_and_Last_Position_Of_Element_In_Sorted_Array.java)|Medium|
 |[035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./LeetCode/035_Search_Insert_Position.java)|Easy|
@@ -70,13 +71,17 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[054. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](./LeetCode/054_Spiral_Matrix.java)|Medium|
 |[055. Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./LeetCode/055_Jump_Game.java)|Medium|
 |[056. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](./LeetCode/056_Merge_Intervals.java)|Medium|
+|[061. Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](./LeetCode/061_Rotate_List.java)|Medium|
 |[062. Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./LeetCode/062_Unique_Paths.java)|Medium|
+|[063. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Solution](./LeetCode/063_Unique_Paths_II.java)|Medium|
 |[066. Plus One](https://leetcode.com/problems/plus-one/)|[Solution](./LeetCode/066_Plus_One.java)|Easy|
 |[067. Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](./LeetCode/067_Add_Binary.java)|Easy|
 |[070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./LeetCode/070_Climbing_Stairs.java)|Easy|
+|[073. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Solution](./LeetCode/073_Set_Matrix_Zeroes.java)|Medium|
 |[074. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](./LeetCode/074_Search_a_2D_Matrix.java)|Medium|
 |[075. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Solution](./LeetCode/075_Sort_Colors.java)|Medium|
 |[078. Subsets](https://leetcode.com/problems/subsets/)|[Solution](./LeetCode/078_Subsets.java)|Medium|
+|[083. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Solution](./LeetCode/083_Remove_Duplicates_from_Sorted_List.java)|Easy|
 |[088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./LeetCode/088_Merge_Sorted_Array.java)|Easy|
 |[094. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](./LeetCode/094_Binary_Tree_Inorder_Traversal.java)|Medium|
 |[091. Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](./LeetCode/091_Decode_Ways.java)|Medium|
@@ -201,7 +206,10 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[053. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)|[Solution](./LeetCode/053_Maximum_Subarray.java)|Easy|
 |[054. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](./LeetCode/054_Spiral_Matrix.java)|Medium|
 |[056. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](./LeetCode/056_Merge_Intervals.java)|Medium|
+|[062. Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./LeetCode/062_Unique_Paths.java)|Medium|
+|[063. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Solution](./LeetCode/063_Unique_Paths_II.java)|Medium|
 |[066. Plus One](https://leetcode.com/problems/plus-one/)|[Solution](./LeetCode/066_Plus_One.java)|Easy|
+|[073. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Solution](./LeetCode/073_Set_Matrix_Zeroes.java)|Medium|
 |[075. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Solution](./LeetCode/075_Sort_Colors.java)|Medium|
 |[078. Subsets](https://leetcode.com/problems/subsets/)|[Solution](./LeetCode/078_Subsets.java)|Medium|
 |[088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./LeetCode/088_Merge_Sorted_Array.java)|Easy|
@@ -320,6 +328,8 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[021. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](./LeetCode/021_Merge_Two_Sorted_Lists.java)|Easy|
 |[024. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Solution](./LeetCode/024_Swap_Nodes_In_Pairs.java)|Medium|
 |[023. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Solution](./LeetCode/023_Merge_k_Sorted_Lists.java)|Hard|
+|[061. Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](./LeetCode/061_Rotate_List.java)|Medium|
+|[083. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Solution](./LeetCode/083_Remove_Duplicates_from_Sorted_List.java)|Easy|
 |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|[Solution](./LeetCode/146_LRU_Cache.java)|Hard|
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|[Solution](./LeetCode/148_Sort_List.java)|Medium|
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](./LeetCode/206_Reverse_Linked_List.java)|Easy|
@@ -437,6 +447,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 
 |Title|Solution|Difficulty|
 |-----|--------|----------|
+|[032. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)|[Solution](./LeetCode/032_Longest_Valid_Parentheses.java)|Hard|
 |[094. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Solution](./LeetCode/094_Binary_Tree_Inorder_Traversal.java)|Medium|
 |[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[Solution](./LeetCode/103_Binary_Tree_Zigzag_Level_Order_Traversal.java)|Medium|
 |[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Solution](./LeetCode/144_Binary_Tree_Preorder_Traversal.java)|Medium|
