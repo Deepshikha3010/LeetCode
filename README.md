@@ -5,6 +5,10 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 *: LintCode | **: HackerRank
 | ***: GeeksforGeeks
 
+## Companies
+
+Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Company/README.md)
+
 ## Topics
 
 * [Array](https://github.com/zirui-wang/LeetCode#array)
