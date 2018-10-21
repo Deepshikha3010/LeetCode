@@ -71,9 +71,11 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[054. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](./LeetCode/054_Spiral_Matrix.java)|Medium|
 |[055. Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./LeetCode/055_Jump_Game.java)|Medium|
 |[056. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](./LeetCode/056_Merge_Intervals.java)|Medium|
+|[059. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Solution](./LeetCode/059_Spiral_Matrix_II.java)|Medium|
 |[061. Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](./LeetCode/061_Rotate_List.java)|Medium|
 |[062. Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./LeetCode/062_Unique_Paths.java)|Medium|
 |[063. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Solution](./LeetCode/063_Unique_Paths_II.java)|Medium|
+|[064. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Solution](./LeetCode/064_Minimum_Path_Sum.java)|Medium|
 |[066. Plus One](https://leetcode.com/problems/plus-one/)|[Solution](./LeetCode/066_Plus_One.java)|Easy|
 |[067. Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](./LeetCode/067_Add_Binary.java)|Easy|
 |[070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./LeetCode/070_Climbing_Stairs.java)|Easy|
@@ -115,6 +117,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](./LeetCode/151_Reverse_Words_in_a_String.java)|Medium|
 |[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](./LeetCode/152_Maximum_Product_Subarray.java)|Medium|
 |[155. Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](./LeetCode/155_Min_Stack.java)|Easy|
+|[159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|[Solution](./LeetCode/159_Longest_Substring_with_At_Most_Two_Distinct_Characters.java)|Hard|
 |[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](./LeetCode/162_Find_Peak_Element.java)|Medium|
 |[163. Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Solution](./LeetCode/163_Missing_Ranges.java)|Medium|
 |[166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Solution](./LeetCode/166_Fraction_to_Recurring_Decimal.java)|Medium|
@@ -142,6 +145,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](./LeetCode/279_Perfect_Squares.java)|Medium|
 |[280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|[Solution](./LeetCode/280_Wiggle_Sort.java)|Medium|
 |[289. Game of Life](https://leetcode.com/problems/game-of-life/)|[Solution](./LeetCode/289_Game_of_Life.java)|Medium|
+|[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Solution](./LeetCode/295_Find_Median_from_Data_Stream.java)|Hard|
 |[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Solution](./LeetCode/297_Serialize_and_Deserialize_Binary_Tree.java)|Hard|
 |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./LeetCode/300_Longest_Increasing_Subsequence.java)|Medium|
 |[326. Power of Three](https://leetcode.com/problems/power-of-three/)|[Solution](./LeetCode/326_Power_of_Three.java)|Easy|
@@ -206,8 +210,10 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[053. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/)|[Solution](./LeetCode/053_Maximum_Subarray.java)|Easy|
 |[054. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Solution](./LeetCode/054_Spiral_Matrix.java)|Medium|
 |[056. Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Solution](./LeetCode/056_Merge_Intervals.java)|Medium|
+|[059. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Solution](./LeetCode/059_Spiral_Matrix_II.java)|Medium|
 |[062. Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./LeetCode/062_Unique_Paths.java)|Medium|
 |[063. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)|[Solution](./LeetCode/063_Unique_Paths_II.java)|Medium|
+|[064. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Solution](./LeetCode/064_Minimum_Path_Sum.java)|Medium|
 |[066. Plus One](https://leetcode.com/problems/plus-one/)|[Solution](./LeetCode/066_Plus_One.java)|Easy|
 |[073. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Solution](./LeetCode/073_Set_Matrix_Zeroes.java)|Medium|
 |[075. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Solution](./LeetCode/075_Sort_Colors.java)|Medium|
@@ -343,6 +349,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./LeetCode/003_Longest_Substring_Without_Repeating_Characters.java)|Medium|
 |[049. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./LeetCode/049_Group_Anagrams.java)|Medium|
 |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|[Solution](./LeetCode/146_LRU_Cache.java)|Hard|
+|[159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|[Solution](./LeetCode/159_Longest_Substring_with_At_Most_Two_Distinct_Characters.java)|Hard|
 |[166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Solution](./LeetCode/166_Fraction_to_Recurring_Decimal.java)|Medium|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](./LeetCode/387_First_Unique_Character_in_a_String.java)|Easy|
@@ -378,6 +385,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[042. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Solution](./LeetCode/042_Trapping_Rain_Water.java)|Hard|
 |[075. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Solution](./LeetCode/075_Sort_Colors.java)|Medium|
 |[088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./LeetCode/088_Merge_Sorted_Array.java)|Easy|
+|[159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|[Solution](./LeetCode/159_Longest_Substring_with_At_Most_Two_Distinct_Characters.java)|Hard|
 |[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Solution](./LeetCode/345_Reverse_Vowels_of_a_String.java)|Easy|
 |[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Solution](./LeetCode/904_Fruit_Into_Baskets.java)|Medium|
 |[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
@@ -464,9 +472,10 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |-----|--------|----------|
 |[005. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution](./LeetCode/005_Longest_Palindromic_Substring.java)|Medium|
 |[010. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[Solution](./LeetCode/010_Regular_Expression_Matching.java)|Hard|
-|[062. Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./LeetCode/062_Unique_Paths.java)|Medium|
-|[070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./LeetCode/070_Climbing_Stairs.java)|Easy|
 |[055. Jump Game](https://leetcode.com/problems/jump-game/)|[Solution](./LeetCode/055_Jump_Game.java)|Medium|
+|[062. Unique Paths](https://leetcode.com/problems/unique-paths/)|[Solution](./LeetCode/062_Unique_Paths.java)|Medium|
+|[064. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Solution](./LeetCode/064_Minimum_Path_Sum.java)|Medium|
+|[070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./LeetCode/070_Climbing_Stairs.java)|Easy|
 |[091. Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](./LeetCode/091_Decode_Ways.java)|Medium|
 |[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./LeetCode/131_Palindrome_Partitioning.java)|Medium|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[Solution](./LeetCode/139_Word_Break.java)|Medium|
@@ -489,6 +498,7 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 |[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[Solution](./LeetCode/218_The_Skyline_Problem.java)|Hard|
 |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./LeetCode/253_Meeting_Rooms_II.java)|Medium|
 |[280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|[Solution](./LeetCode/280_Wiggle_Sort.java)|Medium|
+|[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Solution](./LeetCode/295_Find_Median_from_Data_Stream.java)|Hard|
 |[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
 
 ## Greedy
