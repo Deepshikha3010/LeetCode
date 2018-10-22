@@ -5,6 +5,8 @@ LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
 *: LintCode | **: HackerRank
 | ***: GeeksforGeeks
 
+Current Problems: 168
+
 ## Companies
 
 Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Company/README.md)

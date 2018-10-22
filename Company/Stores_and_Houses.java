@@ -1,44 +1,64 @@
 /**
-这题给你两个 array, 都是一维的，而是都是int
-int houses[] and int stores[], 分别代表各house/store 的location.
-让你找出每个houses 最近的 stores。
-return 一个int array[], index = houses index, value = 最近的stores的location[br] !!!注意： 可以有多个stores 或 houses 的location都相同。
-也想想如果两个都是空集怎么办，虽然题目没有写，但是自己要考虑到吧。
-比如： house＝ ［2，6，12，18］
-store ＝ ［5， 8， 9 ， 20］
-return result ＝ ［5，5，9，20］ 
-因为house［0］ ＝ 2， 与store［0］＝ 5 最近， 因此类推
+Description
+Given two integer arrays a and b,please find the number in a with the minimal distance between corresponding value in b (the distance between two numbers means the absolute value of two numbers), if there are several numbers in a have same distance between b[i],just output the smallest number.
+Finally, you should output an array of length b.length to represent the answer.
+
+1<=a.length,b.length<=100000
+
+Have you met this question in a real interview?  
+Example
+Givena=[5,1,2,3],b=[2,4,2],return [2,3,2]
+Explanation：
+
+`b[0]=2`,`2` is the number who has the minimal distance to `2`
+`b[1]=4`,`3` and `5` have the same distance to `4`,output `3` because `3` is smaller
+`b[2]=2`,as well as `b[0]`
+Givena=[5,3,1,-1,6],b=[4,8,1,1],return[3,6,1,1]
+Explanation：
+
+`b[0]=4`,`3` and `5` have the same distance to `4`,output `3` because `3` is smaller
+`b[1]=8`,`6` is the number who has the minimal distance to `8`
+`b[2]=1`,`1` is the number who has the minimal distance to `1`
+`b[3]=1`,as well as`b[2]`
  */
 
-class Solution {
-    public int[] storesAndHouses(int[] houses, int[] stores) {
-        if (houses == null || houses.length == 0 || stores == null || stores.length == 0) {
+public class Solution {
+    /**
+     * @param a: array a
+     * @param b: the query array
+     * @return: Output an array of length `b.length` to represent the answer
+     */
+    public int[] minimalDistance(int[] a, int[] b) {
+        if (a == null || a.length == 0 || b == null || b.length == 0) {
             return new int[0];
         }
-
-        Arrays.sort(stores);
-
-        int[] res = new int[houses.length];
-        for (int i = 0; i < houses.length; i++) {
-            int target = houses[i];
-
-            int start = 0, end = stores.length - 1;
-            while (start + 1 < end) {
-                int mid = start + (end - start) / 2;
-                if (stores[mid] < target) {
-                    start = mid;
-                } else {
-                    end = mid;
-                }
-            }
-
-            if (Math.abs(target - stores[start]) < Math.abs(target - stores[end])) {
-                res[i] = start;
+        
+        Arrays.sort(a);
+        
+        int[] res = new int[b.length];
+        for (int i = 0; i < b.length; i++) {
+            int cur = b[i];
+            res[i] = a[findClosest(a, cur)];
+        }
+        
+        return res;
+    }
+    
+    private int findClosest(int[] arr, int target) {
+        int start = 0, end = arr.length - 1;
+        while (start + 1 < end) {
+            int mid = start + (end - start) / 2;
+            if (arr[mid] <= target) {
+                start = mid;
             } else {
-                res[i] = end;
+                end = mid;
             }
         }
-
-        return res;
+        
+        
+        if (Math.abs(arr[start] - target) <= Math.abs(arr[end] - target)) {
+            return start;
+        }
+        return end;
     }
 }
