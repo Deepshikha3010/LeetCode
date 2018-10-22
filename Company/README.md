@@ -2,9 +2,9 @@
 
 ## Companies
 
-* [Google](https://github.com/zirui-wang/LeetCode/Company#google)
-* [Facebook](https://github.com/zirui-wang/LeetCode/Company#facebook)
-* [Amazon](https://github.com/zirui-wang/LeetCode/Company#google)
+* [Google](https://github.com/zirui-wang/LeetCode/tree/master/Company#google)
+* [Facebook](https://github.com/zirui-wang/LeetCode/tree/master/Company#facebook)
+* [Amazon](https://github.com/zirui-wang/LeetCode/tree/master/Company#amazon)
 
 ## Google
 
