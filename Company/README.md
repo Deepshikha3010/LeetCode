@@ -17,6 +17,8 @@
 |Salary Adjustment|[Solution](./Salary_Adjustment.java)|Yes|
 |Interesting String|[Solution](./Interesting_String.java)|Yes|
 |Word Segmentation|[Solution](./Word_Segmentation.java)|Yes|
+|Max Distance|[Solution](./Max_Distance.java)|Yes|
+|Driving Problem|[Solution](./Driving_Problem.java)|Yes|
 
 ## Facebook
 

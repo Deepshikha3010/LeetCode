@@ -131,6 +131,7 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 |[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Solution](./LeetCode/173_Binary_Search_Tree_Iterator.java)|Medium|
 |[179. Largest Number](https://leetcode.com/problems/largest-number/)|[Solution](./LeetCode/179_Largest_Number.java)|Medium|
 |[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](./LeetCode/200_Number_of_Islands.java)|Medium|
+|[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Solution](./LeetCode/205_Isomorphic_Strings.java)|Easy|
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./LeetCode/206_Reverse_Linked_List.java)/[JS](./LeetCode/206_Reverse_Linked_List.js)|Easy|
 |[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](./LeetCode/207_Course_Schedule.java)|Medium|
 |[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](./LeetCode/208_Implement_Trie_PrefixTree.java)|Medium|
@@ -143,7 +144,9 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 |[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/)|[Solution](./LeetCode/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java)|Easy|
 |[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Solution](./LeetCode/236_Lowest_Common_Ancestor_of_a_Binary_Tree.java)|Medium|
 |[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](./LeetCode/238_Product_of_Array_Except_Self.java)|Medium|
+|[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](./LeetCode/239_Sliding_Window_Maximum.java)|Hard|
 |[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](./LeetCode/240_Search_a_2D_Matrix_II.java)|Medium|
+|[249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|[Solution](./LeetCode/249_Group_Shifted_Strings.java)|Medium|
 |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./LeetCode/253_Meeting_Rooms_II.java)|Medium|
 |[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Solution](./LeetCode/257_Binary_Tree_Paths.java)|Easy|
 |[277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Java](./LeetCode/277_Find_the_Celebrity.java)/[JS](./LeetCode/277_Find_the_Celebrity.js)|Medium|
@@ -163,6 +166,7 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 |[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./LeetCode/344_Reverse_String.java)/[JS](./LeetCode/344_Reverse_String.js)|Easy|
 |[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Solution](./LeetCode/345_Reverse_Vowels_of_a_String.java)|Easy|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
+|[359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Solution](./LeetCode/359_Logger_Rate_Limiter.java)|Easy|
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](./LeetCode/387_First_Unique_Character_in_a_String.java)|Easy|
 |[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](./LeetCode/406_Queue_Reconstruction_by_Height.java)|Medium|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./LeetCode/441_Arranging_Coins.java)|Easy|
@@ -282,6 +286,7 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 |[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Solution](./LeetCode/150_Evaluate_Reverse_Polish_Notation.java)|Medium|
 |[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Solution](./LeetCode/151_Reverse_Words_in_a_String.java)|Medium|
 |[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](./LeetCode/162_Find_Peak_Element.java)|Medium|
+|[249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|[Solution](./LeetCode/249_Group_Shifted_Strings.java)|Medium|
 |[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./LeetCode/273_Integer_to_English_Words.java)|Hard|
 |[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](./LeetCode/344_Reverse_String.java)|Easy|
 |[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Solution](./LeetCode/345_Reverse_Vowels_of_a_String.java)|Easy|
@@ -362,8 +367,11 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|[Solution](./LeetCode/146_LRU_Cache.java)|Hard|
 |[159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|[Solution](./LeetCode/159_Longest_Substring_with_At_Most_Two_Distinct_Characters.java)|Hard|
 |[166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Solution](./LeetCode/166_Fraction_to_Recurring_Decimal.java)|Medium|
+|[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Solution](./LeetCode/205_Isomorphic_Strings.java)|Easy|
+|[249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|[Solution](./LeetCode/249_Group_Shifted_Strings.java)|Medium|
 |[336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[Solution](./LeetCode/336_Palindrome_Pairs.java)|Hard|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
+|[359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Solution](./LeetCode/359_Logger_Rate_Limiter.java)|Easy|
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](./LeetCode/387_First_Unique_Character_in_a_String.java)|Easy|
 |[681. Next Closest Time](https://leetcode.com/problems/next-closest-time/)|[Solution](./LeetCode/681_Next_Closest_Time.java)|Medium|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
@@ -378,6 +386,7 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 |-----|--------|----------|
 |[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)|[Solution](./LeetCode/102_Binary_Tree_Level_Order_Traversal.java)|Medium|
 |[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](./LeetCode/207_Course_Schedule.java)|Medium|
+|[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](./LeetCode/239_Sliding_Window_Maximum.java)|Hard|
 
 ## Heap
 
