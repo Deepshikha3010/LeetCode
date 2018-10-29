@@ -1,13 +1,9 @@
 # LeetCode
 
-LeetCode/LintCode/HackerRank solutions in Java 8 / JavaScript.
+Algorithm and data structure solutions in Java 8 / JavaScript.
 
 *: LintCode | **: HackerRank
 | ***: GeeksforGeeks
-
-## Companies
-
-Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Company/README.md)
 
 ## Topics
 
@@ -32,6 +28,8 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 * [Graph](https://github.com/zirui-wang/LeetCode#graph)
 * [Trie](https://github.com/zirui-wang/LeetCode#trie)
 * [Design](https://github.com/zirui-wang/LeetCode#design)
+
+## OJ (LeetCode & LintCode)
 
 |Title|Solution|Difficulty|
 |-----|--------|----------|
@@ -86,6 +84,7 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 |[073. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Solution](./LeetCode/073_Set_Matrix_Zeroes.java)|Medium|
 |[074. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](./LeetCode/074_Search_a_2D_Matrix.java)|Medium|
 |[075. Sort Colors](https://leetcode.com/problems/sort-colors/description/)|[Solution](./LeetCode/075_Sort_Colors.java)|Medium|
+|[076. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](./LeetCode/076_Minimum_Window_Substring.java)|Hard|
 |[078. Subsets](https://leetcode.com/problems/subsets/)|[Solution](./LeetCode/078_Subsets.java)|Medium|
 |[083. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Solution](./LeetCode/083_Remove_Duplicates_from_Sorted_List.java)|Easy|
 |[088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./LeetCode/088_Merge_Sorted_Array.java)|Easy|
@@ -135,6 +134,7 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 |[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](./LeetCode/207_Course_Schedule.java)|Medium|
 |[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](./LeetCode/208_Implement_Trie_PrefixTree.java)|Medium|
 |[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./LeetCode/209_Minimum_Size_Subarray_Sum.java)|Medium|
+|[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](./LeetCode/215_Kth_Largest_Element_in_an_Array.java)|Medium|
 |[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[Solution](./LeetCode/218_The_Skyline_Problem.java)|Hard|
 |[224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Solution](./LeetCode/226_Basic_Calculator.js)|Hard|
 |[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./LeetCode/227_Basic_Calculator_II.java)/[JS](./LeetCode/227_Basic_Calculator_II.js)|Medium|
@@ -160,6 +160,7 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 |[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Solution](./LeetCode/316_Remove_Duplicate_Letters.java)|Hard|
 |[326. Power of Three](https://leetcode.com/problems/power-of-three/)|[Solution](./LeetCode/326_Power_of_Three.java)|Easy|
 |[336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[Solution](./LeetCode/336_Palindrome_Pairs.java)|Hard|
+|[340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Solution](./LeetCode/340_Longest_Substring_with_At_Most_K_Distinct_Characters.java)|Hard|
 |[341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Solution](./LeetCode/341_Flatten_Nested_List_Iterator.java)|Medium|
 |[342. Power of Four](https://leetcode.com/problems/power-of-four/)|[Solution](./LeetCode/342_Power_of_Four.java)|Easy|
 |[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Java](./LeetCode/344_Reverse_String.java)/[JS](./LeetCode/344_Reverse_String.js)|Easy|
@@ -193,7 +194,9 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 |[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Solution](./LeetCode/832_Flipping_an_Image.java)|Easy|
 |[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Solution](./LeetCode/904_Fruit_Into_Baskets.java)|Medium|
 |[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./LintCode/*109_Triangle.java)|Easy|
+|[*382. Triangle Count](https://www.lintcode.com/problem/triangle-count/)|[Solution](./LintCode/*382_Triangle_Count.java)|Medium|
 |[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
+|[*609. Two Sum - Less than or equal to target](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/)|[Solution](./LintCode/*609_Two_Sum-Less_than_or_equal_to_target.java)|Medium|
 |**Count Duplicates|[Solution](./HackerRank/**Count_Duplicates.java)|Easy|
 |**Implement Stack By LinkedList|[Solution](./HackerRank/**Implement_Stack_By_LinkedList.java)|Easy|
 |**Delete Node Greater than X|[Solution](./HackerRank/**Delete_Node_Greater_than_X.java)|Easy|
@@ -206,6 +209,22 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 |**Friends Graph|[Solution](./LeetCode/**Friends_Graph.java)|Easy|
 |[***Check_Binary_String.java](https://practice.geeksforgeeks.org/problems/check-binary-string/0)|[Solution](./GeeksForGeeks/***Check_Binary_String.java)|Easy|
 |***Remove_Duplicates_from_Unsorted_Array.java|[Solution](./GeeksForGeeks/***Remove_Duplicates_from_Unsorted_Array.java)|Easy|
+
+## Companies
+
+Real interview questions cannot be found in OJ.
+
+|Title|Solution|Company|
+|-----|--------|-------|
+|Store and Houses|[Solution](./Company/Stores_and_Houses.java)|Google|
+|Tree Ancestor|[Solution](./Company/Tree_Ancestor.java)|Google|
+|Count Email Groups|[Solution](./Company/Count_Email_Groups.java)|Google|
+|Cut Connection|[Solution](./Company/Cut_Connection.java)|Google|
+|Salary Adjustment|[Solution](./Company/Salary_Adjustment.java)|Google|
+|Interesting String|[Solution](./Company/Interesting_String.java)|Google|
+|Word Segmentation|[Solution](./Company/Word_Segmentation.java)|Google|
+|Max Distance|[Solution](./Company/Max_Distance.java)|Google|
+|Driving Problem|[Solution](./Company/Driving_Problem.java)|Google|
 
 ## Array
 
@@ -282,6 +301,7 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 |[028. Implement_strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](./LeetCode/028_Implement_strStr().java)|Easy|
 |[043. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Solution](./LeetCode/043_Multiply_Strings.java)|Medium|
 |[067. Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](./LeetCode/067_Add_Binary.java)|Easy|
+|[076. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](./LeetCode/076_Minimum_Window_Substring.java)|Hard|
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder/)|[Solution](./LeetCode/127_Word_Ladder.java)|Medium|
 |[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./LeetCode/131_Palindrome_Partitioning.java)|Medium|
 |[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Solution](./LeetCode/150_Evaluate_Reverse_Polish_Notation.java)|Medium|
@@ -370,12 +390,14 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 |-----|--------|----------|
 |[003. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution](./LeetCode/003_Longest_Substring_Without_Repeating_Characters.java)|Medium|
 |[049. Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](./LeetCode/049_Group_Anagrams.java)|Medium|
+|[076. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](./LeetCode/076_Minimum_Window_Substring.java)|Hard|
 |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|[Solution](./LeetCode/146_LRU_Cache.java)|Hard|
 |[159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|[Solution](./LeetCode/159_Longest_Substring_with_At_Most_Two_Distinct_Characters.java)|Hard|
 |[166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Solution](./LeetCode/166_Fraction_to_Recurring_Decimal.java)|Medium|
 |[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Solution](./LeetCode/205_Isomorphic_Strings.java)|Easy|
 |[249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|[Solution](./LeetCode/249_Group_Shifted_Strings.java)|Medium|
 |[336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[Solution](./LeetCode/336_Palindrome_Pairs.java)|Hard|
+|[340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Solution](./LeetCode/340_Longest_Substring_with_At_Most_K_Distinct_Characters.java)|Hard|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
 |[359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Solution](./LeetCode/359_Logger_Rate_Limiter.java)|Easy|
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](./LeetCode/387_First_Unique_Character_in_a_String.java)|Easy|
@@ -398,6 +420,7 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 
 |Title|Solution|Difficulty|
 |-----|--------|----------|
+|[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](./LeetCode/215_Kth_Largest_Element_in_an_Array.java)|Medium|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
 
@@ -415,9 +438,12 @@ Real interview questions cannot be found in OA (LeetCode/LintCode). [Here](./Com
 |[159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|[Solution](./LeetCode/159_Longest_Substring_with_At_Most_Two_Distinct_Characters.java)|Hard|
 |[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](./LeetCode/167_Two_Sum_II-Input_array_is_sorted.java)|Easy|
 |[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Solution](./LeetCode/345_Reverse_Vowels_of_a_String.java)|Easy|
+|[340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Solution](./LeetCode/340_Longest_Substring_with_At_Most_K_Distinct_Characters.java)|Hard|
 |[633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Solution](./LeetCode/633_Sum_of_Square_Numbers.java)|Easy|
 |[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Solution](./LeetCode/904_Fruit_Into_Baskets.java)|Medium|
+|[*382. Triangle Count](https://www.lintcode.com/problem/triangle-count/)|[Solution](./LintCode/*382_Triangle_Count.java)|Medium|
 |[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
+|[*609. Two Sum - Less than or equal to target](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/)|[Solution](./LintCode/*609_Two_Sum-Less_than_or_equal_to_target.java)|Medium|
 
 ## Math
 
