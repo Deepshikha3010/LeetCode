@@ -27,6 +27,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 * [Greedy](https://github.com/zirui-wang/LeetCode#greedy)
 * [Graph](https://github.com/zirui-wang/LeetCode#graph)
 * [Trie](https://github.com/zirui-wang/LeetCode#trie)
+* [Union Find](https://github.com/zirui-wang/LeetCode#union-find)
 * [Design](https://github.com/zirui-wang/LeetCode#design)
 
 ## OJ (LeetCode & LintCode)
@@ -148,6 +149,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|[Solution](./LeetCode/249_Group_Shifted_Strings.java)|Medium|
 |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./LeetCode/253_Meeting_Rooms_II.java)|Medium|
 |[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Solution](./LeetCode/257_Binary_Tree_Paths.java)|Easy|
+|[261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|[Solution](./LintCode/261_Graph_Valid_Tree.java)|Medium|
 |[277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Java](./LeetCode/277_Find_the_Celebrity.java)/[JS](./LeetCode/277_Find_the_Celebrity.js)|Medium|
 |[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./LeetCode/273_Integer_to_English_Words.java)|Hard|
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](./LeetCode/279_Perfect_Squares.java)|Medium|
@@ -156,6 +158,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Solution](./LeetCode/295_Find_Median_from_Data_Stream.java)|Hard|
 |[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Solution](./LeetCode/297_Serialize_and_Deserialize_Binary_Tree.java)|Hard|
 |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./LeetCode/300_Longest_Increasing_Subsequence.java)|Medium|
+|[305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)|[Solution](./LintCode/305_Number_of_Islands_II.java)|Hard|
 |[312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Solution](./LeetCode/312_Burst_Balloons.java)|Hard|
 |[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Solution](./LeetCode/316_Remove_Duplicate_Letters.java)|Hard|
 |[326. Power of Three](https://leetcode.com/problems/power-of-three/)|[Solution](./LeetCode/326_Power_of_Three.java)|Easy|
@@ -196,6 +199,9 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./LintCode/*109_Triangle.java)|Easy|
 |[*382. Triangle Count](https://www.lintcode.com/problem/triangle-count/)|[Solution](./LintCode/*382_Triangle_Count.java)|Medium|
 |[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
+|[*589. Connecting Graph](https://www.lintcode.com/problem/connecting-graph/)|[Solution](./LintCode/*589_Connecting_Graph.java)|Medium|
+|[*590. Connecting Graph II](https://www.lintcode.com/problem/connecting-graph-ii/)|[Solution](./LintCode/*590_Connecting_Graph_II.java)|Medium|
+|[*591. Connecting Graph III](https://www.lintcode.com/problem/connecting-graph-iii/)|[Solution](./LintCode/*591_Connecting_Graph_III.java)|Medium|
 |[*609. Two Sum - Less than or equal to target](https://www.lintcode.com/problem/two-sum-less-than-or-equal-to-target/)|[Solution](./LintCode/*609_Two_Sum-Less_than_or_equal_to_target.java)|Medium|
 |**Count Duplicates|[Solution](./HackerRank/**Count_Duplicates.java)|Easy|
 |**Implement Stack By LinkedList|[Solution](./HackerRank/**Implement_Stack_By_LinkedList.java)|Easy|
@@ -580,6 +586,16 @@ Real interview questions cannot be found in OJ.
 |Title|Solution|Difficulty|
 |-----|--------|----------|
 |[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](./LeetCode/208_Implement_Trie_PrefixTree.java)|Medium|
+
+## Union Find
+
+|Title|Solution|Difficulty|
+|-----|--------|----------|
+|[261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|[Solution](./LintCode/261_Graph_Valid_Tree.java)|Medium|
+|[305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)|[Solution](./LintCode/305_Number_of_Islands_II.java)|Hard|
+|[*589. Connecting Graph](https://www.lintcode.com/problem/connecting-graph/)|[Solution](./LintCode/*589_Connecting_Graph.java)|Medium|
+|[*590. Connecting Graph II](https://www.lintcode.com/problem/connecting-graph-ii/)|[Solution](./LintCode/*590_Connecting_Graph_II.java)|Medium|
+|[*591. Connecting Graph III](https://www.lintcode.com/problem/connecting-graph-iii/)|[Solution](./LintCode/*591_Connecting_Graph_III.java)|Medium|
 
 ## Design
 
