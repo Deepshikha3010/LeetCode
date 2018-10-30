@@ -135,6 +135,8 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[207. Course Schedule](https://leetcode.com/problems/course-schedule/)|[Java](./LeetCode/207_Course_Schedule.java)|Medium|
 |[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](./LeetCode/208_Implement_Trie_PrefixTree.java)|Medium|
 |[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./LeetCode/209_Minimum_Size_Subarray_Sum.java)|Medium|
+|[211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Solution](./LintCode/211_Add_and_Search_Word-Data_structure_design.java)|Medium|
+|[212. Word Search II](https://leetcode.com/problems/word-search-ii/)|[Solution](./LintCode/212_Word_Search_II.java)|Hard|
 |[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](./LeetCode/215_Kth_Largest_Element_in_an_Array.java)|Medium|
 |[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[Solution](./LeetCode/218_The_Skyline_Problem.java)|Hard|
 |[224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Solution](./LeetCode/226_Basic_Calculator.js)|Hard|
@@ -174,6 +176,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](./LeetCode/387_First_Unique_Character_in_a_String.java)|Easy|
 |[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](./LeetCode/406_Queue_Reconstruction_by_Height.java)|Medium|
 |[418. Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/)|[Solution](./LeetCode/418_Sentence_Screen_Fitting.java)|Medium|
+|[425. Word Squares](https://leetcode.com/problems/word-squares/)|[Solution](./LintCode/425_Word_Squares.java)|Hard|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./LeetCode/441_Arranging_Coins.java)|Easy|
 |[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Solution](./LeetCode/442_Find_All_Duplicates_in_an_Array.java)|Medium|
 |[443. String Compression](https://leetcode.com/problems/string-compression/)|[Solution](./LeetCode/443_String_Compression.java)|Medium|
@@ -187,8 +190,10 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Solution](./LeetCode/657_Judge_Route_Circle.java)|Easy|
 |[657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Solution](./LeetCode/657_Robot_Return_to_Origin.java)|Easy|
 |[681. Next Closest Time](https://leetcode.com/problems/next-closest-time/)|[Solution](./LeetCode/681_Next_Closest_Time.java)|Medium|
+|[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Solution](./LintCode/684_Redundant_Connection.java)|Medium|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./LeetCode/695_Max_Area_of_Island.java)|Easy|
+|[721. Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Solution](./LintCode/721_Accounts_Merge.java)|Medium|
 |[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](./LeetCode/739_Daily_Temperatures.java)|Medium|
 |[760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/)|[Solution](./LeetCode/760_Find_Anagram_Mappings.java)|Easy|
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](./LeetCode/771_Jewels_and_Stones.java)|Easy|
@@ -514,6 +519,7 @@ Real interview questions cannot be found in OJ.
 |[047. Permutations II](https://leetcode.com/problems/permutations-ii/)|[Solution](./LeetCode/047_Permutations_II.java)|Medium|
 |[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./LeetCode/131_Palindrome_Partitioning.java)|Medium|
 |[140. Word Break II](https://leetcode.com/problems/word-break-ii/)|[Solution](./LeetCode/140_Word_Break_II.java)|Hard|
+|[212. Word Search II](https://leetcode.com/problems/word-search-ii/)|[Solution](./LintCode/212_Word_Search_II.java)|Hard|
 
 ## Stack
 
@@ -591,8 +597,13 @@ Real interview questions cannot be found in OJ.
 
 |Title|Solution|Difficulty|
 |-----|--------|----------|
+|[211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Solution](./LintCode/211_Add_and_Search_Word-Data_structure_design.java)|Medium|
+|[212. Word Search II](https://leetcode.com/problems/word-search-ii/)|[Solution](./LintCode/212_Word_Search_II.java)|Hard|
 |[261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|[Solution](./LintCode/261_Graph_Valid_Tree.java)|Medium|
 |[305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)|[Solution](./LintCode/305_Number_of_Islands_II.java)|Hard|
+|[425. Word Squares](https://leetcode.com/problems/word-squares/)|[Solution](./LintCode/425_Word_Squares.java)|Hard|
+|[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Solution](./LintCode/684_Redundant_Connection.java)|Medium|
+|[721. Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Solution](./LintCode/721_Accounts_Merge.java)|Medium|
 |[*589. Connecting Graph](https://www.lintcode.com/problem/connecting-graph/)|[Solution](./LintCode/*589_Connecting_Graph.java)|Medium|
 |[*590. Connecting Graph II](https://www.lintcode.com/problem/connecting-graph-ii/)|[Solution](./LintCode/*590_Connecting_Graph_II.java)|Medium|
 |[*591. Connecting Graph III](https://www.lintcode.com/problem/connecting-graph-iii/)|[Solution](./LintCode/*591_Connecting_Graph_III.java)|Medium|

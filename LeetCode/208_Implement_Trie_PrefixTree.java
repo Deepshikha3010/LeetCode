@@ -1,65 +1,62 @@
 class Trie {
-    private Node root;
     
-    private class Node {
+    private class TrieNode {
         char c;
-        Map<Character, Node> nexts;
         boolean isEnd;
+        Map<Character, TrieNode> map;
         
-        Node() {
-            this.nexts = new HashMap<>();
-            this.isEnd = false;
-        }
-        
-        Node(char c) {
+        TrieNode(char c) {
             this.c = c;
-            this.nexts = new HashMap<>();
+            this.map = new HashMap<>();
             this.isEnd = false;
         }
-    } 
+    }
+    
+    TrieNode root;
 
     /** Initialize your data structure here. */
     public Trie() {
-        root = new Node();  
+        this.root = new TrieNode('#');
     }
     
     /** Inserts a word into the trie. */
     public void insert(String word) {
-        Node node = root;
-        for (int i = 0; i < word.length(); i++) {
-            char c = word.charAt(i);
-            if (!node.nexts.containsKey(c)) {
-                node.nexts.put(c, new Node(c));   
+        TrieNode cur = root;
+        for (char c : word.toCharArray()) {
+            if (!cur.map.containsKey(c)) {
+                cur.map.put(c, new TrieNode(c));
             }
-            node = node.nexts.get(c);
+            cur = cur.map.get(c);
         }
-        node.isEnd = true;
+        cur.isEnd = true;
     }
     
     /** Returns if the word is in the trie. */
     public boolean search(String word) {
-        Node node = root;
-        for (int i = 0; i < word.length(); i++) {
-            char c = word.charAt(i);
-            if (!node.nexts.containsKey(c)) {
-                return false;
-            }
-            node = node.nexts.get(c);
+        TrieNode node = searchNode(word);
+        if (node == null) {
+            return false;
         }
         return node.isEnd;
     }
     
     /** Returns if there is any word in the trie that starts with the given prefix. */
     public boolean startsWith(String prefix) {
-        Node node = root;
-        for (int i = 0; i < prefix.length(); i++) {
-            char c = prefix.charAt(i);
-            if (!node.nexts.containsKey(c)) {
-                return false;
-            }
-            node = node.nexts.get(c);
+        if (searchNode(prefix) != null) {
+            return true;
         }
-        return true;
+        return false;
+    }
+    
+    private TrieNode searchNode(String s) {
+        TrieNode cur = root;
+        for (char c : s.toCharArray()) {
+            if (!cur.map.containsKey(c)) {
+                return null;
+            }
+            cur = cur.map.get(c);
+        }
+        return cur;
     }
 }
 
