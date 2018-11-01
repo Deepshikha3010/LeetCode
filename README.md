@@ -63,6 +63,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[034. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./LeetCode/034_Find_First_and_Last_Position_Of_Element_In_Sorted_Array.java)|Medium|
 |[035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./LeetCode/035_Search_Insert_Position.java)|Easy|
 |[039. Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](./LeetCode/039_Combination_Sum.java)|Medium|
+|[041. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Solution](./LeetCode/041_First_Missing_Positive.java)|Hard|
 |[042. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Solution](./LeetCode/042_Trapping_Rain_Water.java)|Hard|
 |[043. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Solution](./LeetCode/043_Multiply_Strings.java)|Medium|
 |[046. Permutations](https://leetcode.com/problems/permutations/)|[Solution](./LeetCode/046_Permutations.java)|Medium|
@@ -81,6 +82,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[064. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Solution](./LeetCode/064_Minimum_Path_Sum.java)|Medium|
 |[066. Plus One](https://leetcode.com/problems/plus-one/)|[Solution](./LeetCode/066_Plus_One.java)|Easy|
 |[067. Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](./LeetCode/067_Add_Binary.java)|Easy|
+|[069. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](./LeetCode/069_Sqrtx.java)|Easy|
 |[070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./LeetCode/070_Climbing_Stairs.java)|Easy|
 |[073. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Solution](./LeetCode/073_Set_Matrix_Zeroes.java)|Medium|
 |[074. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](./LeetCode/074_Search_a_2D_Matrix.java)|Medium|
@@ -114,6 +116,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[136. Single Number](https://leetcode.com/problems/single-number/)|[Solution](./LeetCode/136_Single_Number.java)|Easy|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[Solution](./LeetCode/139_Word_Break.java)|Medium|
 |[140. Word Break II](https://leetcode.com/problems/word-break-ii/)|[Solution](./LeetCode/140_Word_Break_II.java)|Hard|
+|[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](./LeetCode/141_Linked_List_Cycle.java)|Easy|
 |[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Solution](./LeetCode/144_Binary_Tree_Preorder_Traversal.java)|Medium|
 |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|[Solution](./LeetCode/146_LRU_Cache.java)|Hard|
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|[Solution](./LeetCode/148_Sort_List.java)|Medium|
@@ -176,6 +179,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](./LeetCode/387_First_Unique_Character_in_a_String.java)|Easy|
 |[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](./LeetCode/406_Queue_Reconstruction_by_Height.java)|Medium|
 |[418. Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/)|[Solution](./LeetCode/418_Sentence_Screen_Fitting.java)|Medium|
+|[421. Maximum XOR of Two Numbers in an Array)](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Solution](./LeetCode/421_Maximum_XOR_of_Two_Numbers_in_an_Array.java)|Medium|
 |[425. Word Squares](https://leetcode.com/problems/word-squares/)|[Solution](./LintCode/425_Word_Squares.java)|Hard|
 |[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/)|[Solution](./LeetCode/441_Arranging_Coins.java)|Easy|
 |[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Solution](./LeetCode/442_Find_All_Duplicates_in_an_Array.java)|Medium|
@@ -194,8 +198,10 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./LeetCode/695_Max_Area_of_Island.java)|Easy|
 |[721. Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Solution](./LintCode/721_Accounts_Merge.java)|Medium|
+|[737. Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/)|[Solution](./LintCode/737_Sentence_Similarity_II.java)|Medium|
 |[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](./LeetCode/739_Daily_Temperatures.java)|Medium|
 |[760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/)|[Solution](./LeetCode/760_Find_Anagram_Mappings.java)|Easy|
+|[765. Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)|[Solution](./LintCode/765_Couples_Holding_Hands.java)|Hard|
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](./LeetCode/771_Jewels_and_Stones.java)|Easy|
 |[772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)|[Solution](./LeetCode/772_Basic_Calculator_III.java)|Hard|
 |[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Solution](./LeetCode/781_Rabbits_In_Forest.java)|Medium|
@@ -250,6 +256,7 @@ Real interview questions cannot be found in OJ.
 |[034. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./LeetCode/034_Find_First_and_Last_Position_Of_Element_In_Sorted_Array.java)|Medium|
 |[035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./LeetCode/035_Search_Insert_Position.java)|Easy|
 |[039. Combination Sum](https://leetcode.com/problems/combination-sum/)|[Solution](./LeetCode/039_Combination_Sum.java)|Medium|
+|[041. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)|[Solution](./LeetCode/041_First_Missing_Positive.java)|Hard|
 |[042. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Solution](./LeetCode/042_Trapping_Rain_Water.java)|Hard|
 |[046. Permutations](https://leetcode.com/problems/permutations/)|[Solution](./LeetCode/046_Permutations.java)|Medium|
 |[047. Permutations II](https://leetcode.com/problems/permutations-ii/)|[Solution](./LeetCode/047_Permutations_II.java)|Medium|
@@ -372,6 +379,7 @@ Real interview questions cannot be found in OJ.
 |[034. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[Solution](./LeetCode/034_Find_First_and_Last_Position_Of_Element_In_Sorted_Array.java)|Medium|
 |[035. Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](./LeetCode/035_Search_Insert_Position.java)|Easy|
 |[050. Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution](./LeetCode/050_Powxn.java)|Medium|
+|[069. Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution](./LeetCode/069_Sqrtx.java)|Easy|
 |[074. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution](./LeetCode/074_Search_a_2D_Matrix.java)|Medium|
 |[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](./LeetCode/162_Find_Peak_Element.java)|Medium|
 |[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](./LeetCode/240_Search_a_2D_Matrix_II.java)|Medium|
@@ -389,6 +397,7 @@ Real interview questions cannot be found in OJ.
 |[023. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[Solution](./LeetCode/023_Merge_k_Sorted_Lists.java)|Hard|
 |[061. Rotate List](https://leetcode.com/problems/rotate-list/)|[Solution](./LeetCode/061_Rotate_List.java)|Medium|
 |[083. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Solution](./LeetCode/083_Remove_Duplicates_from_Sorted_List.java)|Easy|
+|[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](./LeetCode/141_Linked_List_Cycle.java)|Easy|
 |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|[Solution](./LeetCode/146_LRU_Cache.java)|Hard|
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|[Solution](./LeetCode/148_Sort_List.java)|Medium|
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](./LeetCode/206_Reverse_Linked_List.java)|Easy|
@@ -579,6 +588,7 @@ Real interview questions cannot be found in OJ.
 |-----|--------|----------|
 |[134. Gas Station](https://leetcode.com/problems/gas-station/)|[Solution](./LeetCode/134_Gas_Station.java)|Medium|
 |[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](./LeetCode/406_Queue_Reconstruction_by_Height.java)|Medium|
+|[765. Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)|[Solution](./LintCode/765_Couples_Holding_Hands.java)|Hard|
 
 ## Graph
 
@@ -592,6 +602,7 @@ Real interview questions cannot be found in OJ.
 |Title|Solution|Difficulty|
 |-----|--------|----------|
 |[208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Solution](./LeetCode/208_Implement_Trie_PrefixTree.java)|Medium|
+|[421. Maximum XOR of Two Numbers in an Array)](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)|[Solution](./LeetCode/421_Maximum_XOR_of_Two_Numbers_in_an_Array.java)|Medium|
 
 ## Union Find
 
@@ -604,6 +615,8 @@ Real interview questions cannot be found in OJ.
 |[425. Word Squares](https://leetcode.com/problems/word-squares/)|[Solution](./LintCode/425_Word_Squares.java)|Hard|
 |[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Solution](./LintCode/684_Redundant_Connection.java)|Medium|
 |[721. Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Solution](./LintCode/721_Accounts_Merge.java)|Medium|
+|[737. Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/)|[Solution](./LintCode/737_Sentence_Similarity_II.java)|Medium|
+|[765. Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)|[Solution](./LintCode/765_Couples_Holding_Hands.java)|Hard|
 |[*589. Connecting Graph](https://www.lintcode.com/problem/connecting-graph/)|[Solution](./LintCode/*589_Connecting_Graph.java)|Medium|
 |[*590. Connecting Graph II](https://www.lintcode.com/problem/connecting-graph-ii/)|[Solution](./LintCode/*590_Connecting_Graph_II.java)|Medium|
 |[*591. Connecting Graph III](https://www.lintcode.com/problem/connecting-graph-iii/)|[Solution](./LintCode/*591_Connecting_Graph_III.java)|Medium|
