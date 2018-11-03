@@ -104,9 +104,11 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|[Solution](./LeetCode/114_Flatten_Binary_Tree_to_Linked_List.java)|Medium|
 |[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Solution](./LeetCode/116_Populating_Next_Right_Pointers_in_Each_Node.java)|Medium|
 |[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](./LeetCode/119_Pascal's_Triangle_II.java)|Easy|
+|[120. Triangle](https://leetcode.com/problems/triangle/)|[Solution](./LeetCode/120_Triangle.java)|Medium|
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](./LeetCode/121_Best_Time_to_Buy_and_Sell_Stock.java)|Easy|
 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](./LeetCode/122_Best_Time_to_Buy_and_Sell_Stock_II.java)|Easy|
 |[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](./LeetCode/124_Binary_Tree_Maximum_Path_Sum.java)|Hard|
+|[126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[Solution](./LeetCode/126_Word_Ladder_II.java)|Hard|
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder/)|[Solution](./LeetCode/127_Word_Ladder.java)|Medium|
 |[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](./LeetCode/128_Longest_Consecutive_Sequence.java)|Hard|
 |[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](./LeetCode/130_Surrounded_Regions.java)|Medium|
@@ -154,7 +156,10 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|[Solution](./LeetCode/249_Group_Shifted_Strings.java)|Medium|
 |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./LeetCode/253_Meeting_Rooms_II.java)|Medium|
 |[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Solution](./LeetCode/257_Binary_Tree_Paths.java)|Easy|
+|[258. Add Digits](https://leetcode.com/problems/add-digits/)|[Solution](./LeetCode/258_Add_Digits.java)|Easy|
 |[261. Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|[Solution](./LintCode/261_Graph_Valid_Tree.java)|Medium|
+|[266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|[Solution](./LintCode/266_Palindrome_Permutation.java)|Easy|
+|[268. Missing Number](https://leetcode.com/problems/missing-number)|[Solution](./LintCode/268_Missing_Number.java)|Easy|
 |[277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Java](./LeetCode/277_Find_the_Celebrity.java)/[JS](./LeetCode/277_Find_the_Celebrity.js)|Medium|
 |[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./LeetCode/273_Integer_to_English_Words.java)|Hard|
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](./LeetCode/279_Perfect_Squares.java)|Medium|
@@ -205,6 +210,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](./LeetCode/771_Jewels_and_Stones.java)|Easy|
 |[772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)|[Solution](./LeetCode/772_Basic_Calculator_III.java)|Hard|
 |[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Solution](./LeetCode/781_Rabbits_In_Forest.java)|Medium|
+|[807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Solution](./LeetCode/807_Max_Increase_to_Keep_City_Skyline.java)|Medium|
 |[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Solution](./LeetCode/832_Flipping_an_Image.java)|Easy|
 |[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Solution](./LeetCode/904_Fruit_Into_Baskets.java)|Medium|
 |[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./LintCode/*109_Triangle.java)|Easy|
@@ -275,6 +281,7 @@ Real interview questions cannot be found in OJ.
 |[088. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](./LeetCode/088_Merge_Sorted_Array.java)|Easy|
 |[091. Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](./LeetCode/091_Decode_Ways.java)|Medium|
 |[119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[Solution](./LeetCode/119_Pascal's_Triangle_II.java)|Easy|
+|[120. Triangle](https://leetcode.com/problems/triangle/)|[Solution](./LeetCode/120_Triangle.java)|Medium|
 |[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution](./LeetCode/121_Best_Time_to_Buy_and_Sell_Stock.java)|Easy|
 |[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](./LeetCode/122_Best_Time_to_Buy_and_Sell_Stock_II.java)|Easy|
 |[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](./LeetCode/128_Longest_Consecutive_Sequence.java)|Hard|
@@ -298,6 +305,7 @@ Real interview questions cannot be found in OJ.
 |[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Solution](./LeetCode/463_Island_Perimeter.java)|Easy|
 |[681. Next Closest Time](https://leetcode.com/problems/next-closest-time/)|[Solution](./LeetCode/681_Next_Closest_Time.java)|Medium|
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./LeetCode/695_Max_Area_of_Island.java)|Easy|
+|[807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Solution](./LeetCode/807_Max_Increase_to_Keep_City_Skyline.java)|Medium|
 |[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Solution](./LeetCode/832_Flipping_an_Image.java)|Easy|
 |[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
 |**Count Duplicates|[Solution](./HackerRank/Count_Duplicates.java)|Easy|
@@ -320,6 +328,7 @@ Real interview questions cannot be found in OJ.
 |[043. Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Solution](./LeetCode/043_Multiply_Strings.java)|Medium|
 |[067. Add Binary](https://leetcode.com/problems/add-binary/)|[Solution](./LeetCode/067_Add_Binary.java)|Easy|
 |[076. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution](./LeetCode/076_Minimum_Window_Substring.java)|Hard|
+|[126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[Solution](./LeetCode/126_Word_Ladder_II.java)|Hard|
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder/)|[Solution](./LeetCode/127_Word_Ladder.java)|Medium|
 |[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./LeetCode/131_Palindrome_Partitioning.java)|Medium|
 |[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Solution](./LeetCode/150_Evaluate_Reverse_Polish_Notation.java)|Medium|
@@ -327,6 +336,7 @@ Real interview questions cannot be found in OJ.
 |[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](./LeetCode/162_Find_Peak_Element.java)|Medium|
 |[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Solution](./LeetCode/227_Basic_Calculator_II.java)|Medium|
 |[249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|[Solution](./LeetCode/249_Group_Shifted_Strings.java)|Medium|
+|[266. Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|[Solution](./LintCode/266_Palindrome_Permutation.java)|Easy|
 |[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./LeetCode/273_Integer_to_English_Words.java)|Hard|
 |[344. Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](./LeetCode/344_Reverse_String.java)|Easy|
 |[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Solution](./LeetCode/345_Reverse_Vowels_of_a_String.java)|Easy|
@@ -481,6 +491,8 @@ Real interview questions cannot be found in OJ.
 |[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Solution](./LeetCode/168_Excel_Sheet_Column_Title.java)|Easy|
 |[224. Basic Calculator I](https://leetcode.com/problems/basic-calculator/)|[Java](./LeetCode/226_Basic_Calculator.js)|Hard|
 |[231. Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](./LeetCode/231_Power_of_Two.java)|Easy|
+|[258. Add Digits](https://leetcode.com/problems/add-digits/)|[Solution](./LeetCode/258_Add_Digits.java)|Easy|
+|[268. Missing Number](https://leetcode.com/problems/missing-number)|[Solution](./LintCode/268_Missing_Number.java)|Easy|
 |[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)|[Solution](./LeetCode/273_Integer_to_English_Words.java)|Hard|
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](./LeetCode/279_Perfect_Squares.java)|Medium|
 |[326. Power of Three](https://leetcode.com/problems/power-of-three/)|[Solution](./LeetCode/326_Power_of_Three.java)|Easy|
@@ -500,6 +512,7 @@ Real interview questions cannot be found in OJ.
 |Title|Solution|Difficulty|
 |-----|--------|----------|
 |[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Solution](./LeetCode/116_Populating_Next_Right_Pointers_in_Each_Node.java)|Medium|
+|[126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[Solution](./LeetCode/126_Word_Ladder_II.java)|Hard|
 |[127. Word Ladder](https://leetcode.com/problems/word-ladder/)|[Solution](./LeetCode/127_Word_Ladder.java)|Medium|
 |[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](./LeetCode/128_Longest_Consecutive_Sequence.java)|Hard|
 |[130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)|[Solution](./LeetCode/130_Surrounded_Regions.java)|Medium|
@@ -514,6 +527,7 @@ Real interview questions cannot be found in OJ.
 |[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[Solution](./LeetCode/101_Symmetric_Tree.java)|Easy|
 |[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[Solution](./LeetCode/105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java)|Medium|
 |[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Solution](./LeetCode/108_Convert_Sorted_Array_to_Binary_Search_Tree.java)|Easy|
+|[126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[Solution](./LeetCode/126_Word_Ladder_II.java)|Hard|
 |[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./LeetCode/131_Palindrome_Partitioning.java)|Medium|
 |[490. The Maze](https://leetcode.com/problems/the-maze/)|[Solution](./LeetCode/490_The_Maze.java)|Medium|
 
@@ -557,6 +571,7 @@ Real interview questions cannot be found in OJ.
 |[064. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)|[Solution](./LeetCode/064_Minimum_Path_Sum.java)|Medium|
 |[070. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution](./LeetCode/070_Climbing_Stairs.java)|Easy|
 |[091. Decode Ways](https://leetcode.com/problems/decode-ways/)|[Solution](./LeetCode/091_Decode_Ways.java)|Medium|
+|[120. Triangle](https://leetcode.com/problems/triangle/)|[Solution](./LeetCode/120_Triangle.java)|Medium|
 |[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./LeetCode/131_Palindrome_Partitioning.java)|Medium|
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[Solution](./LeetCode/139_Word_Break.java)|Medium|
 |[140. Word Break II](https://leetcode.com/problems/word-break-ii/)|[Solution](./LeetCode/140_Word_Break_II.java)|Hard|
