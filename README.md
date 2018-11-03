@@ -186,6 +186,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
 |[359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Solution](./LeetCode/359_Logger_Rate_Limiter.java)|Easy|
 |[367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[Solution](./LeetCode/367_Valid_Perfect_Square.java)|Easy|
+|[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](./LeetCode/380_Insert_Delete_GetRandom_O1.java)|Medium|
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](./LeetCode/387_First_Unique_Character_in_a_String.java)|Easy|
 |[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](./LeetCode/406_Queue_Reconstruction_by_Height.java)|Medium|
 |[418. Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/)|[Solution](./LeetCode/418_Sentence_Screen_Fitting.java)|Medium|
@@ -199,6 +200,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[Solution](./LeetCode/482_License_Key_Formatting.java)|Easy|
 |[490. The Maze](https://leetcode.com/problems/the-maze/)|[Solution](./LeetCode/490_The_Maze.java)|Medium|
 |[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](./LeetCode/557_Reverse_Words_in_a_String_III.java)|Easy|
+|[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Solution](./LeetCode/617_Merge_Two_Binary_Trees.java)|Easy|
 |[633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Solution](./LeetCode/633_Sum_of_Square_Numbers.java)|Easy|
 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./LeetCode/647_Palindromic_Substrings.java)|Medium|
 |[657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Solution](./LeetCode/657_Judge_Route_Circle.java)|Easy|
@@ -210,7 +212,9 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[721. Accounts Merge](https://leetcode.com/problems/accounts-merge/)|[Solution](./LintCode/721_Accounts_Merge.java)|Medium|
 |[737. Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/)|[Solution](./LintCode/737_Sentence_Similarity_II.java)|Medium|
 |[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution](./LeetCode/739_Daily_Temperatures.java)|Medium|
+|[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution](./LeetCode/746_Min_Cost_Climbing_Stairs.java)|Easy|
 |[760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/)|[Solution](./LeetCode/760_Find_Anagram_Mappings.java)|Easy|
+|[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](./LeetCode/763_Partition_Labels.java)|Medium|
 |[765. Couples Holding Hands](https://leetcode.com/problems/couples-holding-hands/)|[Solution](./LintCode/765_Couples_Holding_Hands.java)|Hard|
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](./LeetCode/771_Jewels_and_Stones.java)|Easy|
 |[772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)|[Solution](./LeetCode/772_Basic_Calculator_III.java)|Hard|
@@ -306,6 +310,7 @@ Real interview questions cannot be found in OJ.
 |[280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|[Solution](./LeetCode/280_Wiggle_Sort.java)|Medium|
 |[289. Game of Life](https://leetcode.com/problems/game-of-life/)|[Solution](./LeetCode/289_Game_of_Life.java)|Medium|
 |[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Solution](./LeetCode/300_Longest_Increasing_Subsequence.java)|Medium|
+|[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](./LeetCode/380_Insert_Delete_GetRandom_O1.java)|Medium|
 |[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Solution](./LeetCode/442_Find_All_Duplicates_in_an_Array.java)|Medium|
 |[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](./LeetCode/448_Find_All_Numbers_Disappeared_in_an_Array.java)|Easy|
 |[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Solution](./LeetCode/463_Island_Perimeter.java)|Easy|
@@ -385,6 +390,7 @@ Real interview questions cannot be found in OJ.
 |[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](./LeetCode/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java)|Easy|
 |[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Solution](./LeetCode/236_Lowest_Common_Ancestor_of_a_Binary_Tree.java)|Medium|
 |[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Solution](./LeetCode/257_Binary_Tree_Paths.java)|Easy|
+|[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Solution](./LeetCode/617_Merge_Two_Binary_Trees.java)|Easy|
 
 ## Binary Search
 
@@ -440,10 +446,12 @@ Real interview questions cannot be found in OJ.
 |[340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Solution](./LeetCode/340_Longest_Substring_with_At_Most_K_Distinct_Characters.java)|Hard|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
 |[359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Solution](./LeetCode/359_Logger_Rate_Limiter.java)|Easy|
+|[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](./LeetCode/380_Insert_Delete_GetRandom_O1.java)|Medium|
 |[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)|[Solution](./LeetCode/387_First_Unique_Character_in_a_String.java)|Easy|
 |[681. Next Closest Time](https://leetcode.com/problems/next-closest-time/)|[Solution](./LeetCode/681_Next_Closest_Time.java)|Medium|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
 |[760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/)|[Solution](./LeetCode/760_Find_Anagram_Mappings.java)|Easy|
+|[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](./LeetCode/763_Partition_Labels.java)|Medium|
 |[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](./LeetCode/771_Jewels_and_Stones.java)|Easy|
 |[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Solution](./LeetCode/781_Rabbits_In_Forest.java)|Medium|
 |**Keyboard|[Solution](./HackerRank/**Keyboard.java)|Medium|
@@ -480,6 +488,7 @@ Real interview questions cannot be found in OJ.
 |[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Solution](./LeetCode/345_Reverse_Vowels_of_a_String.java)|Easy|
 |[340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Solution](./LeetCode/340_Longest_Substring_with_At_Most_K_Distinct_Characters.java)|Hard|
 |[633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Solution](./LeetCode/633_Sum_of_Square_Numbers.java)|Easy|
+|[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](./LeetCode/763_Partition_Labels.java)|Medium|
 |[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Solution](./LeetCode/904_Fruit_Into_Baskets.java)|Medium|
 |[*382. Triangle Count](https://www.lintcode.com/problem/triangle-count/)|[Solution](./LintCode/*382_Triangle_Count.java)|Medium|
 |[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
@@ -590,6 +599,7 @@ Real interview questions cannot be found in OJ.
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](./LeetCode/279_Perfect_Squares.java)|Medium|
 |[312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Solution](./LeetCode/312_Burst_Balloons.java)|Hard|
 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./LeetCode/647_Palindromic_Substrings.java)|Medium|
+|[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution](./LeetCode/746_Min_Cost_Climbing_Stairs.java)|Easy|
 |[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./LintCode/*109_Triangle.java)|Easy|
 
 ## Sort
@@ -650,6 +660,7 @@ Real interview questions cannot be found in OJ.
 
 |Title|Solution|Difficulty|
 |-----|--------|----------|
+|[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[Solution](./LeetCode/380_Insert_Delete_GetRandom_O1.java)|Medium|
 |**Friends Graph|[Solution](./LeetCode/**Friends_Graph.java)|Easy|
 
 ## License
