@@ -127,6 +127,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](./LeetCode/152_Maximum_Product_Subarray.java)|Medium|
 |[155. Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](./LeetCode/155_Min_Stack.java)|Easy|
 |[159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|[Solution](./LeetCode/159_Longest_Substring_with_At_Most_Two_Distinct_Characters.java)|Hard|
+|[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](./LeetCode/160_Intersection_of_Two_Linke_Lists.java)|Easy|
 |[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](./LeetCode/162_Find_Peak_Element.java)|Medium|
 |[163. Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Solution](./LeetCode/163_Missing_Ranges.java)|Medium|
 |[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](./LeetCode/167_Two_Sum_II-Input_array_is_sorted.java)|Easy|
@@ -134,6 +135,8 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)|[Solution](./LeetCode/168_Excel_Sheet_Column_Title.java)|Easy|
 |[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Solution](./LeetCode/173_Binary_Search_Tree_Iterator.java)|Medium|
 |[179. Largest Number](https://leetcode.com/problems/largest-number/)|[Solution](./LeetCode/179_Largest_Number.java)|Medium|
+|[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](./LeetCode/189_Rotate_Array.java)|Easy|
+|[199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](./LeetCode/199_Binary_Tree_Right_Side_View.java)|Medium|
 |[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](./LeetCode/200_Number_of_Islands.java)|Medium|
 |[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Solution](./LeetCode/205_Isomorphic_Strings.java)|Easy|
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./LeetCode/206_Reverse_Linked_List.java)/[JS](./LeetCode/206_Reverse_Linked_List.js)|Easy|
@@ -148,11 +151,13 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./LeetCode/227_Basic_Calculator_II.java)/[JS](./LeetCode/227_Basic_Calculator_II.js)|Medium|
 |[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Solution](./LeetCode/228_Summary_Ranges.java)|Medium|
 |[231. Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](./LeetCode/231_Power_of_Two.java)|Easy|
+|[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](./LeetCode/234_Palindrome_Linked_List.java)|Easy|
 |[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/)|[Solution](./LeetCode/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java)|Easy|
 |[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Solution](./LeetCode/236_Lowest_Common_Ancestor_of_a_Binary_Tree.java)|Medium|
 |[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution](./LeetCode/238_Product_of_Array_Except_Self.java)|Medium|
 |[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Solution](./LeetCode/239_Sliding_Window_Maximum.java)|Hard|
 |[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](./LeetCode/240_Search_a_2D_Matrix_II.java)|Medium|
+|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](./LeetCode/242_Valid_Anagram.java)|Easy|
 |[249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|[Solution](./LeetCode/249_Group_Shifted_Strings.java)|Medium|
 |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./LeetCode/253_Meeting_Rooms_II.java)|Medium|
 |[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Solution](./LeetCode/257_Binary_Tree_Paths.java)|Easy|
@@ -291,6 +296,7 @@ Real interview questions cannot be found in OJ.
 |[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](./LeetCode/152_Maximum_Product_Subarray.java)|Medium|
 |[163. Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Solution](./LeetCode/163_Missing_Ranges.java)|Medium|
 |[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](./LeetCode/167_Two_Sum_II-Input_array_is_sorted.java)|Easy|
+|[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](./LeetCode/189_Rotate_Array.java)|Easy|
 |[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./LeetCode/209_Minimum_Size_Subarray_Sum.java)|Medium|
 |[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[Solution](./LeetCode/218_The_Skyline_Problem.java)|Hard|
 |[277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Java](./LeetCode/277_Find_the_Celebrity.java)/[JS](./LeetCode/277_Find_the_Celebrity.js)|Medium|
@@ -374,6 +380,7 @@ Real interview questions cannot be found in OJ.
 |[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Solution](./LeetCode/124_Binary_Tree_Maximum_Path_Sum.java)|Hard|
 |[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Solution](./LeetCode/44_Binary_Tree_Preorder_Traversal.java)|Medium|
 |[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Solution](./LeetCode/173_Binary_Search_Tree_Iterator.java)|Medium|
+|[199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](./LeetCode/199_Binary_Tree_Right_Side_View.java)|Medium|
 |[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[Solution](./LeetCode/297_Serialize_and_Deserialize_Binary_Tree.java)|Hard|
 |[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution](./LeetCode/235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.java)|Easy|
 |[236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[Solution](./LeetCode/236_Lowest_Common_Ancestor_of_a_Binary_Tree.java)|Medium|
@@ -410,7 +417,9 @@ Real interview questions cannot be found in OJ.
 |[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](./LeetCode/141_Linked_List_Cycle.java)|Easy|
 |[146. LRU Cache](https://leetcode.com/problems/lru-cache/)|[Solution](./LeetCode/146_LRU_Cache.java)|Hard|
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|[Solution](./LeetCode/148_Sort_List.java)|Medium|
+|[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[Solution](./LeetCode/160_Intersection_of_Two_Linke_Lists.java)|Easy|
 |[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution](./LeetCode/206_Reverse_Linked_List.java)|Easy|
+|[234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Solution](./LeetCode/234_Palindrome_Linked_List.java)|Easy|
 |**Delete Node Greater than X|[Solution](./HackerRank/**Delete_Node_Greater_than_X.java)|Easy|
 |**Merge in Between.java|[Solution](./HackerRank/**Merge_in_Between.java)|Easy|
 
@@ -425,6 +434,7 @@ Real interview questions cannot be found in OJ.
 |[159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)|[Solution](./LeetCode/159_Longest_Substring_with_At_Most_Two_Distinct_Characters.java)|Hard|
 |[166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)|[Solution](./LeetCode/166_Fraction_to_Recurring_Decimal.java)|Medium|
 |[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Solution](./LeetCode/205_Isomorphic_Strings.java)|Easy|
+|[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](./LeetCode/242_Valid_Anagram.java)|Easy|
 |[249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|[Solution](./LeetCode/249_Group_Shifted_Strings.java)|Medium|
 |[336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[Solution](./LeetCode/336_Palindrome_Pairs.java)|Hard|
 |[340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Solution](./LeetCode/340_Longest_Substring_with_At_Most_K_Distinct_Characters.java)|Hard|
