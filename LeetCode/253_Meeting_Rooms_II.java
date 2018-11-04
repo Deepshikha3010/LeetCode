@@ -43,3 +43,43 @@ class Solution {
         return min;
     }
 }
+
+// 扫描线方法 (nlogn)
+class Solution {
+    private class Point {
+        int time;
+        int flag;
+        
+        Point(int time, int flag) {
+            this.time = time;
+            this.flag = flag;
+        }
+    }
+    
+    public int minMeetingRooms(Interval[] intervals) {
+        List<Point> list = new ArrayList<>();
+        for (Interval in : intervals) {
+            list.add(new Point(in.start, 1));
+            list.add(new Point(in.end, 0));
+        }
+        
+        Collections.sort(list, (o1, o2) -> {
+            if (o1.time == o2.time) {
+                return o1.flag - o2.flag;
+            }
+            return o1.time - o2.time;
+        });
+        
+        int count = 0, res = 0;
+        for (Point p : list) {
+            if (p.flag == 1) {
+                count++;
+            } else {
+                count--;
+            }
+            res = Math.max(count, res);
+        }
+        
+        return res;
+    }
+}

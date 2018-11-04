@@ -136,6 +136,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[Solution](./LeetCode/173_Binary_Search_Tree_Iterator.java)|Medium|
 |[179. Largest Number](https://leetcode.com/problems/largest-number/)|[Solution](./LeetCode/179_Largest_Number.java)|Medium|
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](./LeetCode/189_Rotate_Array.java)|Easy|
+|[198. House Robber](https://leetcode.com/problems/house-robber/)|[Solution](./LeetCode/198_House_Robber.java)|Easy|
 |[199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution](./LeetCode/199_Binary_Tree_Right_Side_View.java)|Medium|
 |[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](./LeetCode/200_Number_of_Islands.java)|Medium|
 |[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Solution](./LeetCode/205_Isomorphic_Strings.java)|Easy|
@@ -145,8 +146,10 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./LeetCode/209_Minimum_Size_Subarray_Sum.java)|Medium|
 |[211. Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Solution](./LintCode/211_Add_and_Search_Word-Data_structure_design.java)|Medium|
 |[212. Word Search II](https://leetcode.com/problems/word-search-ii/)|[Solution](./LintCode/212_Word_Search_II.java)|Hard|
+|[213. House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Solution](./LintCode/213_House_Robber_II.java)|Medium|
 |[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](./LeetCode/215_Kth_Largest_Element_in_an_Array.java)|Medium|
 |[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[Solution](./LeetCode/218_The_Skyline_Problem.java)|Hard|
+|[221. Maximal Square](https://leetcode.com/problems/maximal-square/)|[Solution](./LeetCode/221_Maximal_Square.java)|Medium|
 |[224. Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Solution](./LeetCode/226_Basic_Calculator.js)|Hard|
 |[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)|[Java](./LeetCode/227_Basic_Calculator_II.java)/[JS](./LeetCode/227_Basic_Calculator_II.js)|Medium|
 |[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Solution](./LeetCode/228_Summary_Ranges.java)|Medium|
@@ -159,6 +162,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Solution](./LeetCode/240_Search_a_2D_Matrix_II.java)|Medium|
 |[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](./LeetCode/242_Valid_Anagram.java)|Easy|
 |[249. Group Shifted Strings](https://leetcode.com/problems/group-shifted-strings/)|[Solution](./LeetCode/249_Group_Shifted_Strings.java)|Medium|
+|[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Solution](./LeetCode/252_Meeting_Rooms.java)|Easy|
 |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./LeetCode/253_Meeting_Rooms_II.java)|Medium|
 |[257. Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Solution](./LeetCode/257_Binary_Tree_Paths.java)|Easy|
 |[258. Add Digits](https://leetcode.com/problems/add-digits/)|[Solution](./LeetCode/258_Add_Digits.java)|Easy|
@@ -205,6 +209,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./LeetCode/647_Palindromic_Substrings.java)|Medium|
 |[657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Solution](./LeetCode/657_Judge_Route_Circle.java)|Easy|
 |[657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Solution](./LeetCode/657_Robot_Return_to_Origin.java)|Easy|
+|[674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Solution](./LeetCode/674_Longest_Continuous_Increasing_Subsequence.java)|Easy|
 |[681. Next Closest Time](https://leetcode.com/problems/next-closest-time/)|[Solution](./LeetCode/681_Next_Closest_Time.java)|Medium|
 |[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Solution](./LintCode/684_Redundant_Connection.java)|Medium|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
@@ -301,6 +306,7 @@ Real interview questions cannot be found in OJ.
 |[163. Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Solution](./LeetCode/163_Missing_Ranges.java)|Medium|
 |[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](./LeetCode/167_Two_Sum_II-Input_array_is_sorted.java)|Easy|
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](./LeetCode/189_Rotate_Array.java)|Easy|
+|[198. House Robber](https://leetcode.com/problems/house-robber/)|[Solution](./LeetCode/198_House_Robber.java)|Easy|
 |[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./LeetCode/209_Minimum_Size_Subarray_Sum.java)|Medium|
 |[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[Solution](./LeetCode/218_The_Skyline_Problem.java)|Hard|
 |[277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Java](./LeetCode/277_Find_the_Celebrity.java)/[JS](./LeetCode/277_Find_the_Celebrity.js)|Medium|
@@ -314,6 +320,7 @@ Real interview questions cannot be found in OJ.
 |[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Solution](./LeetCode/442_Find_All_Duplicates_in_an_Array.java)|Medium|
 |[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[Solution](./LeetCode/448_Find_All_Numbers_Disappeared_in_an_Array.java)|Easy|
 |[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Solution](./LeetCode/463_Island_Perimeter.java)|Easy|
+|[674. Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)|[Solution](./LeetCode/674_Longest_Continuous_Increasing_Subsequence.java)|Easy|
 |[681. Next Closest Time](https://leetcode.com/problems/next-closest-time/)|[Solution](./LeetCode/681_Next_Closest_Time.java)|Medium|
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./LeetCode/695_Max_Area_of_Island.java)|Easy|
 |[807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Solution](./LeetCode/807_Max_Increase_to_Keep_City_Skyline.java)|Medium|
@@ -595,6 +602,9 @@ Real interview questions cannot be found in OJ.
 |[139. Word Break](https://leetcode.com/problems/word-break/)|[Solution](./LeetCode/139_Word_Break.java)|Medium|
 |[140. Word Break II](https://leetcode.com/problems/word-break-ii/)|[Solution](./LeetCode/140_Word_Break_II.java)|Hard|
 |[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Solution](./LeetCode/152_Maximum_Product_Subarray.java)|Medium|
+|[198. House Robber](https://leetcode.com/problems/house-robber/)|[Solution](./LeetCode/198_House_Robber.java)|Easy|
+|[213. House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Solution](./LintCode/213_House_Robber_II.java)|Medium|
+|[221. Maximal Square](https://leetcode.com/problems/maximal-square/)|[Solution](./LeetCode/221_Maximal_Square.java)|Medium|
 |[224. Basic Calculator I](https://leetcode.com/problems/basic-calculator/)|[Java](./LeetCode/226_Basic_Calculator.js)|Hard|
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](./LeetCode/279_Perfect_Squares.java)|Medium|
 |[312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Solution](./LeetCode/312_Burst_Balloons.java)|Hard|
@@ -612,6 +622,7 @@ Real interview questions cannot be found in OJ.
 |[148. Sort List](https://leetcode.com/problems/sort-list/)|[Solution](./LeetCode/148_Sort_List.java)|Medium|
 |[179. Largest Number](https://leetcode.com/problems/largest-number/)|[Solution](./LeetCode/179_Largest_Number.java)|Medium|
 |[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[Solution](./LeetCode/218_The_Skyline_Problem.java)|Hard|
+|[252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)|[Solution](./LeetCode/252_Meeting_Rooms.java)|Easy|
 |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./LeetCode/253_Meeting_Rooms_II.java)|Medium|
 |[280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|[Solution](./LeetCode/280_Wiggle_Sort.java)|Medium|
 |[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Solution](./LeetCode/295_Find_Median_from_Data_Stream.java)|Hard|
