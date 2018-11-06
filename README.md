@@ -184,6 +184,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Solution](./LeetCode/312_Burst_Balloons.java)|Hard|
 |[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Solution](./LeetCode/316_Remove_Duplicate_Letters.java)|Hard|
 |[326. Power of Three](https://leetcode.com/problems/power-of-three/)|[Solution](./LeetCode/326_Power_of_Three.java)|Easy|
+|[329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Solution](./LeetCode/329_Longest_Increasing_Path_in_a_Matrix.java)|Hard|
 |[336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[Solution](./LeetCode/336_Palindrome_Pairs.java)|Hard|
 |[340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Solution](./LeetCode/340_Longest_Substring_with_At_Most_K_Distinct_Characters.java)|Hard|
 |[341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)|[Solution](./LeetCode/341_Flatten_Nested_List_Iterator.java)|Medium|
@@ -207,7 +208,9 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[Solution](./LeetCode/482_License_Key_Formatting.java)|Easy|
 |[490. The Maze](https://leetcode.com/problems/the-maze/)|[Solution](./LeetCode/490_The_Maze.java)|Medium|
 |[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](./LeetCode/557_Reverse_Words_in_a_String_III.java)|Easy|
+|[564. Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/)|[Solution](./LeetCode/564_Find_the_Closest_Palindrome.java)|Hard|
 |[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)|[Solution](./LeetCode/617_Merge_Two_Binary_Trees.java)|Easy|
+|[632. Smallest Range](https://leetcode.com/problems/smallest-range/)|[Solution](./LeetCode/632_Smallest_Range.java)|Hard|
 |[633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Solution](./LeetCode/633_Sum_of_Square_Numbers.java)|Easy|
 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./LeetCode/647_Palindromic_Substrings.java)|Medium|
 |[657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Solution](./LeetCode/657_Judge_Route_Circle.java)|Easy|
@@ -369,6 +372,7 @@ Real interview questions cannot be found in OJ.
 |[482. License Key Formatting](https://leetcode.com/problems/license-key-formatting/)|[Solution](./LeetCode/482_License_Key_Formatting.java)|Easy|
 |[772. Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)|[Solution](./LeetCode/772_Basic_Calculator_III.java)|Hard|
 |[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](./LeetCode/557_Reverse_Words_in_a_String_III.java)|Easy|
+|[564. Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome/)|[Solution](./LeetCode/564_Find_the_Closest_Palindrome.java)|Hard|
 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./LeetCode/647_Palindromic_Substrings.java)|Medium|
 |[657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[Solution](./LeetCode/657_Judge_Route_Circle.java)|Easy|
 |[657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)|[Solution](./LeetCode/657_Robot_Return_to_Origin.java)|Easy|
@@ -484,6 +488,7 @@ Real interview questions cannot be found in OJ.
 |-----|--------|----------|
 |[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[Solution](./LeetCode/215_Kth_Largest_Element_in_an_Array.java)|Medium|
 |[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution](./LeetCode/347_Top_K_Frequent_Elements.java)|Medium|
+|[632. Smallest Range](https://leetcode.com/problems/smallest-range/)|[Solution](./LeetCode/632_Smallest_Range.java)|Hard|
 |[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)|[Solution](./LeetCode/692_Top_K_Frequent_Words.java)|Medium|
 |[759. Employee Free Time](https://leetcode.com/problems/employee-free-time/)|[Solution](./LeetCode/759_Employee_Free_Time.java)|Hard|
 
@@ -502,6 +507,7 @@ Real interview questions cannot be found in OJ.
 |[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](./LeetCode/167_Two_Sum_II-Input_array_is_sorted.java)|Easy|
 |[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)|[Solution](./LeetCode/345_Reverse_Vowels_of_a_String.java)|Easy|
 |[340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)|[Solution](./LeetCode/340_Longest_Substring_with_At_Most_K_Distinct_Characters.java)|Hard|
+|[632. Smallest Range](https://leetcode.com/problems/smallest-range/)|[Solution](./LeetCode/632_Smallest_Range.java)|Hard|
 |[633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Solution](./LeetCode/633_Sum_of_Square_Numbers.java)|Easy|
 |[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](./LeetCode/763_Partition_Labels.java)|Medium|
 |[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Solution](./LeetCode/904_Fruit_Into_Baskets.java)|Medium|
@@ -553,6 +559,7 @@ Real interview questions cannot be found in OJ.
 |[200. Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Solution](./LeetCode/200_Number_of_Islands.java)|Medium|
 |[210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)|[Solution](./LeetCode/210_Course_Schedule_II.java)|Medium|
 |[269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/)|[Solution](./LintCode/269_Alien_Dictionary.java)|Hard|
+|[329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Solution](./LeetCode/329_Longest_Increasing_Path_in_a_Matrix.java)|Hard|
 |[490. The Maze](https://leetcode.com/problems/the-maze/)|[Solution](./LeetCode/490_The_Maze.java)|Medium|
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./LeetCode/695_Max_Area_of_Island.java)|Easy|
 
@@ -618,6 +625,7 @@ Real interview questions cannot be found in OJ.
 |[224. Basic Calculator I](https://leetcode.com/problems/basic-calculator/)|[Java](./LeetCode/226_Basic_Calculator.js)|Hard|
 |[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Solution](./LeetCode/279_Perfect_Squares.java)|Medium|
 |[312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Solution](./LeetCode/312_Burst_Balloons.java)|Hard|
+|[329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Solution](./LeetCode/329_Longest_Increasing_Path_in_a_Matrix.java)|Hard|
 |[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Solution](./LeetCode/647_Palindromic_Substrings.java)|Medium|
 |[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution](./LeetCode/746_Min_Cost_Climbing_Stairs.java)|Easy|
 |[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./LintCode/*109_Triangle.java)|Easy|

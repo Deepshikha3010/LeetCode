@@ -1,3 +1,75 @@
+// Template for Basic Calculator I/II/III
+class Solution {
+    public int calculate(String s) {
+        if (s == null || s.length() == 0) {
+            return 0;
+        }
+        
+        Stack<String> stack = new Stack<>();
+        int res = 0;
+        char op = '+';
+        s = s.trim();
+        
+        Set<String> set = new HashSet<>(Arrays.asList(new String[]{"+", "-", "/", "*"}));
+        
+        int index = 0;
+        while (index < s.length()) {
+            while (index < s.length() && s.charAt(index) == ' ') {
+                index++;
+            }
+            if (index >= s.length()) {
+                break;
+            }
+            
+            if (Character.isDigit(s.charAt(index))) {
+                int cur = (int)(s.charAt(index) - '0');
+                while (index + 1 < s.length() && Character.isDigit(s.charAt(index + 1))) {
+                    index++;
+                    cur = cur * 10 + (int)(s.charAt(index) - '0');
+                }
+                pushNumToStack(stack, op, cur);
+            } else if (s.charAt(index) == '(') {
+                stack.push(Character.toString(op));
+                op = '+';
+            } else if (s.charAt(index) == ')') {
+                int cur = 0;
+                while (!set.contains(stack.peek())) {
+                    cur += Integer.parseInt(stack.pop());
+                }
+                pushNumToStack(stack, stack.pop().charAt(0), cur);
+            } else {
+                op = s.charAt(index);
+            }
+            
+            
+            index++;
+        }
+        
+        while (!stack.isEmpty()) {
+            String str = stack.pop();
+            if (!set.contains(str)) {
+                res += Integer.parseInt(str);
+            }
+        }
+        
+        return res;
+    }
+    
+    private void pushNumToStack(Stack<String> stack, char op, int cur) {
+        if (op == '+') {
+            stack.push(Integer.toString(cur));
+        } else if (op == '-') {
+            stack.push(Integer.toString(-cur));
+        } else if (op == '*') {
+            String s = Integer.toString(Integer.parseInt(stack.pop()) * cur);
+            stack.push(s);
+        } else {
+            String s = Integer.toString(Integer.parseInt(stack.pop()) / cur);
+            stack.push(s);
+        }
+    }
+}
+
 /**
  * Solution 1 (Stack): 时间复杂度n, 空间复杂度n
  * 1. 用expressionToken()将string分为tokens（防止42被拆分成4 2）。
