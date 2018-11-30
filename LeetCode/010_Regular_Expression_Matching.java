@@ -1,4 +1,31 @@
 // https://www.youtube.com/watch?v=DqhPJ8MzDKM
+
+/**
+ * f[i][j]: If the source to current length i matches the pattern to current length j;
+ * f[0][0] = true: When both are empty string, they are matched; 
+ * 
+ * For the empty string of source, check if pattern matches the source
+ *      - If current char is *, we check if the char before the previous char in both string match.
+ * 
+ * For .: Check if previous length are match
+ *      - ab
+ *      - a.
+ * 
+ * For same letter: Check if previous length are match
+ *      - ab
+ *      - ab
+ * 
+ * For *: Check previous char of pattern match current char of source
+ *      1. If previous char in pattern doesn't match, means we should delete it, check the length before previous char in both
+ *          - ab
+ *          - abc*
+ *      2. If previous char in pattern match, means we may still delete it, or we check we have already approved them at the previous length in source.
+ *          - abbbb
+ *          - ab*
+ * 
+ *          - ab
+ *          - abb*
+ */
 class Solution {
     public boolean isMatch(String s, String p) {
         if (s == null || p == null) {

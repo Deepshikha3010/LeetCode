@@ -10,41 +10,21 @@ class Solution {
             map.put(words[i], i);
         }
         
-        // check "", o(nk)
-        if (map.containsKey("")) {
-            int index = map.get("");
-            for (int i = 0; i < words.length; i++) {
-                if (isPalindrome(words[i])) {
-                    if (i == index) {
-                        continue;
-                    }
-                    res.add(Arrays.asList(index, i));
-                    res.add(Arrays.asList(i, index));
-                }
-            }
-        }
-        
-        // check a and b palindrome for each other, o(nk)
-        for (int i = 0; i < words.length; i++) {
-            String cur = reverseStr(words[i]);
-            if (map.containsKey(cur) && map.get(cur) != i) {
-                res.add(Arrays.asList(i, map.get(cur)));
-            }
-        }
-        
         // o(nkk)
         for (int i = 0; i < words.length; i++) {
             String cur = words[i];
-            for (int cut = 1; cut < cur.length(); cut++) {
-                if (isPalindrome(cur.substring(0, cut))) {
-                    String curRight = reverseStr(cur.substring(cut));
+            for (int cut = 0; cut <= cur.length(); cut++) {
+                String s1 = cur.substring(0, cut);
+                String s2 = cur.substring(cut);
+                if (isPalindrome(s1)) {
+                    String curRight = reverseStr(s2);
                     if (map.containsKey(curRight) && map.get(curRight) != i) {
                         res.add(Arrays.asList(map.get(curRight), i));
                     }
                 }
                 
-                if (isPalindrome(cur.substring(cut))) {
-                    String curLeft = reverseStr(cur.substring(0, cut));
+                if (s2.length() != 0 && isPalindrome(s2)) {
+                    String curLeft = reverseStr(s1);
                     if (map.containsKey(curLeft) && map.get(curLeft) != i) {
                         res.add(Arrays.asList(i, map.get(curLeft)));
                     }

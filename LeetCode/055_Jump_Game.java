@@ -10,6 +10,26 @@
  * 注意：每次判定之前的序位能否到达当前序位。
  */
 
+/**Solution 3 */
+class Solution {
+    public boolean canJump(int[] nums) {
+        if (nums == null || nums.length == 0) {
+            return true;
+        }
+        
+        int range = 0;
+        for (int i = 0; i < nums.length; i++) {
+            int cur = nums[i];
+            range = Math.max(range, cur + i);
+            if (i != nums.length - 1 && range <= i) {
+                return false;
+            }
+        }
+        
+        return true;
+    }
+}
+
  /**Solution 1 */
  class Solution {
     public boolean canJump(int[] nums) {
