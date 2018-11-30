@@ -275,23 +275,6 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[***Check_Binary_String.java](https://practice.geeksforgeeks.org/problems/check-binary-string/0)|[Solution](./GeeksForGeeks/***Check_Binary_String.java)|Easy|
 |***Remove_Duplicates_from_Unsorted_Array.java|[Solution](./GeeksForGeeks/***Remove_Duplicates_from_Unsorted_Array.java)|Easy|
 
-## Companies
-
-Real interview questions cannot be found in OJ.
-
-|Title|Solution|Company|
-|-----|--------|-------|
-|Store and Houses|[Solution](./Company/Stores_and_Houses.java)|Google|
-|Tree Ancestor|[Solution](./Company/Tree_Ancestor.java)|Google|
-|Count Email Groups|[Solution](./Company/Count_Email_Groups.java)|Google|
-|Cut Connection|[Solution](./Company/Cut_Connection.java)|Google|
-|Salary Adjustment|[Solution](./Company/Salary_Adjustment.java)|Google|
-|Interesting String|[Solution](./Company/Interesting_String.java)|Google|
-|Word Segmentation|[Solution](./Company/Word_Segmentation.java)|Google|
-|Max Distance|[Solution](./Company/Max_Distance.java)|Google|
-|Driving Problem|[Solution](./Company/Driving_Problem.java)|Google|
-|Query by Example JSON document store|[Solution](./Company/Query_by_Example_JSON_document_store.java)|Quantcast|
-
 ## Array
 
 |Title|Solution|Difficulty|
