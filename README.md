@@ -191,6 +191,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/)|[Solution](./LintCode/305_Number_of_Islands_II.java)|Hard|
 |[312. Burst Balloons](https://leetcode.com/problems/burst-balloons/)|[Solution](./LeetCode/312_Burst_Balloons.java)|Hard|
 |[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)|[Solution](./LeetCode/316_Remove_Duplicate_Letters.java)|Hard|
+|[324. Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[Solution](./LeetCode/324_Wiggle_Sort_II.java)|Hard|
 |[326. Power of Three](https://leetcode.com/problems/power-of-three/)|[Solution](./LeetCode/326_Power_of_Three.java)|Easy|
 |[329. Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|[Solution](./LeetCode/329_Longest_Increasing_Path_in_a_Matrix.java)|Hard|
 |[336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)|[Solution](./LeetCode/336_Palindrome_Pairs.java)|Hard|
@@ -242,6 +243,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution](./LeetCode/746_Min_Cost_Climbing_Stairs.java)|Easy|
 |[751. IP to CIDR](https://leetcode.com/problems/ip-to-cidr/)|[Solution](./LeetCode/751_IP_To_CIDR.java)|Easy|
 |[755. Pour Water](https://leetcode.com/problems/pour-water/)|[Solution](./LeetCode/755_Pour_Water.java)|Medium|
+|[756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/)|[Solution](./LeetCode/756_Pyramid_Transition_Matrix.java)|Medium|
 |[759. Employee Free Time](https://leetcode.com/problems/employee-free-time/)|[Solution](./LeetCode/759_Employee_Free_Time.java)|Hard|
 |[760. Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/)|[Solution](./LeetCode/760_Find_Anagram_Mappings.java)|Easy|
 |[763. Partition Labels](https://leetcode.com/problems/partition-labels/)|[Solution](./LeetCode/763_Partition_Labels.java)|Medium|
@@ -253,7 +255,10 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Solution](./LeetCode/787_Cheapest_Flights_Within_K_Stops.java)|Medium|
 |[807. Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline/)|[Solution](./LeetCode/807_Max_Increase_to_Keep_City_Skyline.java)|Medium|
 |[811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)|[Solution](./LeetCode/811_Subdomain_Visit_Count.java)|Easy|
+|[815. Bus Routes](https://leetcode.com/problems/bus-routes/)|[Solution](./LeetCode/815_Bus_Routes.java)|Hard|
+|[829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[Solution](./LeetCode/829_Consecutive_Numbers_Sum.java)|Hard|
 |[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Solution](./LeetCode/832_Flipping_an_Image.java)|Easy|
+|[843. Guess the Word](https://leetcode.com/problems/guess-the-word/)|[Solution](./LeetCode/843_Guess_the_Word.java)|Hard|
 |[904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)|[Solution](./LeetCode/904_Fruit_Into_Baskets.java)|Medium|
 |[*109. Triangle](http://www.lintcode.com/en/problem/triangle/)|[Solution](./LintCode/*109_Triangle.java)|Easy|
 |[*382. Triangle Count](https://www.lintcode.com/problem/triangle-count/)|[Solution](./LintCode/*382_Triangle_Count.java)|Medium|
@@ -562,6 +567,7 @@ Medium|
 |[507. Perfect Number](https://leetcode.com/problems/perfect-number/)|[Solution](./LeetCode/507_Perfect_Number.java)|Easy|
 |[633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/)|[Solution](./LeetCode/633_Sum_of_Square_Numbers.java)|Easy|
 |[781. Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/)|[Solution](./LeetCode/781_Rabbits_In_Forest.java)|Medium|
+|[829. Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/)|[Solution](./LeetCode/829_Consecutive_Numbers_Sum.java)|Hard|
 
 ## Bit Manipulation
 
@@ -586,7 +592,9 @@ Medium|
 |[490. The Maze](https://leetcode.com/problems/the-maze/)|[Solution](./LeetCode/490_The_Maze.java)|Medium|
 |[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)|[Solution](./LeetCode/695_Max_Area_of_Island.java)|Easy|
 |[773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/)|[Solution](./LeetCode/773_Sliding_Puzzle.java)|Hard|
-|[787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Solution](./LeetCode/787_Cheapest_Flights_Within_K_Stops.java)|Medium|
+|[787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/)|[Solution]
+(./LeetCode/787_Cheapest_Flights_Within_K_Stops.java)|Medium|
+|[815. Bus Routes](https://leetcode.com/problems/bus-routes/)|[Solution](./LeetCode/815_Bus_Routes.java)|Hard|
 
 ## Depth-First Search
 
@@ -597,6 +605,7 @@ Medium|
 |[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Solution](./LeetCode/108_Convert_Sorted_Array_to_Binary_Search_Tree.java)|Easy|
 |[126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)|[Solution](./LeetCode/126_Word_Ladder_II.java)|Hard|
 |[131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Solution](./LeetCode/131_Palindrome_Partitioning.java)|Medium|
+|[756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/)|[Solution](./LeetCode/756_Pyramid_Transition_Matrix.java)|Medium|
 |[490. The Maze](https://leetcode.com/problems/the-maze/)|[Solution](./LeetCode/490_The_Maze.java)|Medium|
 
 ## Backtracking
@@ -671,6 +680,7 @@ Medium|
 |[253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[Solution](./LeetCode/253_Meeting_Rooms_II.java)|Medium|
 |[280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|[Solution](./LeetCode/280_Wiggle_Sort.java)|Medium|
 |[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Solution](./LeetCode/295_Find_Median_from_Data_Stream.java)|Hard|
+|[324. Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/)|[Solution](./LeetCode/324_Wiggle_Sort_II.java)|Hard|
 |[*464. Sort Integers II](https://www.lintcode.com/problem/sort-integers-ii/)|[Solution](./LintCode/*464_Sort_Integers_II.java)|Easy|
 
 ## Greedy
