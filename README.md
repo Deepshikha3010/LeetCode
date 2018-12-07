@@ -325,8 +325,7 @@ Algorithm and data structure solutions in Java 8 / JavaScript.
 |[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](./LeetCode/167_Two_Sum_II-Input_array_is_sorted.java)|Easy|
 |[189. Rotate Array](https://leetcode.com/problems/rotate-array/)|[Solution](./LeetCode/189_Rotate_Array.java)|Easy|
 |[198. House Robber](https://leetcode.com/problems/house-robber/)|[Solution](./LeetCode/198_House_Robber.java)|Easy|
-|[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./LeetCode/209_Minimum_Size_Subarray_Sum.java)|
-Medium|
+|[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[Solution](./LeetCode/209_Minimum_Size_Subarray_Sum.java)|Medium|
 |[218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[Solution](./LeetCode/218_The_Skyline_Problem.java)|Hard|
 |[277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/)|[Java](./LeetCode/277_Find_the_Celebrity.java)/[JS](./LeetCode/277_Find_the_Celebrity.js)|Medium|
 |[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Solution](./LeetCode/228_Summary_Ranges.java)|Medium|
