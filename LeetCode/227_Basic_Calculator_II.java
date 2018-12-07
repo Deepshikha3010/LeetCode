@@ -1,4 +1,10 @@
 // Template for Basic Calculator I/II/III
+
+/**
+ * Type: Stack
+ * Time: n
+ * Space: n
+ */
 class Solution {
     public int calculate(String s) {
         if (s == null || s.length() == 0) {

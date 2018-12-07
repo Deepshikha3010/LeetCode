@@ -1,4 +1,7 @@
 /**
+ * Type: Math
+ * Time: n^0.5
+ * Space: 1
  * 
 N can be expressed as k + 1, k + 2, ..., k + i, where k is a positive integer; therefore
 

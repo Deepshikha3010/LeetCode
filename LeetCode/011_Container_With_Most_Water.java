@@ -1,5 +1,9 @@
 /**
-The only reason we want two pointers get closer is that there might be higher lines in between.
+ * Type: Two pointers
+ * Time: n
+ * Space: 1
+ * 
+ * The only reason we want two pointers get closer is that there might be higher lines in between.
  */
 
 class Solution {

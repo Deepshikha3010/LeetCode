@@ -1,98 +1,52 @@
-// o(256n)
-class Solution {
-    public String minWindow(String s, String t) {
-        if (s == null || s.length() == 0 || t.length() > s.length()) {
-            return "";
-        }
-        
-        int[] sourceMap = new int[256];
-        int[] targetMap = new int[256];
-        
-        initMap(targetMap, t);
-        
-        String res = "";
-        int count = Integer.MAX_VALUE;
-        int i = 0, j = 0;
-        for (i = 0; i < s.length(); i++) {
-            while (!valid(sourceMap, targetMap) && j < s.length()) {
-                sourceMap[s.charAt(j)]++;
-                j++;
-            }
-            if (valid(sourceMap, targetMap)) {
-                if (count > j - i) {
-                    count = j - i;
-                    res = s.substring(i, j);
-                }
-            }
-            sourceMap[s.charAt(i)]--;
-        }
-        
-        return res;
-    }
-    
-    private boolean valid(int[] sourceMap, int[] targetMap) {
-        for (int i = 0; i < 256; i++) {
-            if (targetMap[i] > sourceMap[i]) {
-                return false;
-            }
-        }
-        return true;
-    }
-    
-    private void initMap(int[] targetMap, String t) {
-        for (char c : t.toCharArray()) {
-            targetMap[c]++;
-        }
-    }
-}
+/**
+ * Type: Two Pointers
+ * Time: n
+ * Space: 256
+ * 
+ * Use a count number to track if current substring matches target.
+ */
 
-//o(n)
 class Solution {
     public String minWindow(String s, String t) {
-        if (s == null || s.length() == 0 || t.length() > s.length()) {
+        if (s == null || t == null || s.length() < t.length()) {
             return "";
         }
         
-        int[] sourceMap = new int[256];
-        int[] targetMap = new int[256];
+        int[] map = new int[256];
+        int[] goal = new int[256];
         
-        int numT = initMap(targetMap, t);
-        
+        int target = initMap(goal, t);
+        int slow = 0, fast = 0;
+        int count = 0;
         String res = "";
-        int numS = 0;
-        int count = Integer.MAX_VALUE;
-        
-        for (int i = 0, j = 0; j < s.length(); j++) {
-            char cur = s.charAt(j);
-            sourceMap[cur]++;
-            if (sourceMap[cur] == targetMap[cur]) {
-                numS++;
+        while (fast < s.length()) {
+            char cur = s.charAt(fast);
+            if (map[cur] < goal[cur]) {
+                count++;
             }
-            
-            while (numS >= numT) {
-                if (count > j - i + 1) {
-                    count = j - i + 1;
-                    res = s.substring(i, j + 1);
+            map[cur]++;
+            while (slow <= fast && count >= target) {
+                if (res.length() == 0 || res.length() > fast - slow + 1) {
+                    res = s.substring(slow, fast + 1);
                 }
-                if (sourceMap[s.charAt(i)] == targetMap[s.charAt(i)]) {
-                    numS--;
+                char pre = s.charAt(slow);
+                map[pre]--;
+                if (map[pre] < goal[pre]) {
+                    count--;
                 }
-                sourceMap[s.charAt(i)]--;
-                i++;
+                slow++;
             }
+            fast++;
         }
-        
         return res;
     }
     
-    private int initMap(int[] targetMap, String t) {
-        int numT = 0;
-        for (char c : t.toCharArray()) {
-            targetMap[c]++;
-            if (targetMap[c] == 1) {
-                numT++;
-            }
+    private int initMap(int[] map, String s) {
+        int num = 0;
+        for (char c : s.toCharArray()) {
+            map[c]++;
+            num++;
         }
-        return numT;
+        return num;
     }
 }

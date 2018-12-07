@@ -56,3 +56,34 @@ class Solution {
       }   
   }
 }
+
+/**
+ * Type: Shrink guess range
+ */
+class Solution {
+    public void findSecretWord(String[] wordlist, Master master) {
+        if (wordlist == null || wordlist.length == 0) {
+            return;
+        }
+        
+        for (int i = 0, x = 0; i < 10 && x < 6; i++) {
+            List<String> temp = new ArrayList<>();
+            String word = wordlist[(int)(Math.random() * wordlist.length)];
+            x = master.guess(word);
+            for (String s : wordlist) {
+                if (match(word, s) == x) {
+                    temp.add(s);
+                }
+            }
+            wordlist = temp.toArray(new String[temp.size()]);
+        }
+    }
+    
+    private int match(String a, String b) {
+        int count = 0;
+        for (int i = 0; i < a.length(); i++) {
+            if (a.charAt(i) == b.charAt(i)) count++;
+        }
+        return count;
+    }
+}

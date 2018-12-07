@@ -1,3 +1,11 @@
+/**
+ * Type: BFS
+ * Time: E
+ * Space: E
+ * 
+ * Since we want to keep minimum number of lines, we put lines into the queue for BFS.
+ * Use a visited array to avoid go duplicated stops.
+ */
 class Solution {
   public int numBusesToDestination(int[][] routes, int S, int T) {
       if (routes == null || routes.length == 0 || routes[0].length == 0 || S == T) {

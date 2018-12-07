@@ -1,7 +1,20 @@
+/**
+ * Type: Direct
+ * Time: n (run n times at most)
+ * Space: 1
+ * 
+ * Steps:
+ * 1. Convert IP to decimal version to help identify range.
+ * 2. Check the range available use binary divide.
+ * 3. Convert decimal version back to IP.
+ * 3. Do up 2 steps until n equals 0. (run n times at most)
+ * Ref: https://leetcode.com/articles/ip-to-cidr/
+ */
+
 class Solution {
   public List<String> ipToCIDR(String ip, int n) {
       String[] ips = ip.split("\\.");
-      long x = 0;
+      long x = 0; // Can be 2^32
       for (int i = 0; i < ips.length; i++) {
           x = Integer.parseInt(ips[i]) + x * 256;    
       }

@@ -1,4 +1,10 @@
-// Template for Basic Calculator I/II/III
+/**
+ * Type: Stack (Template for Basic Calculator I/II/III)
+ * Time: n
+ * Space: n
+ * 
+ * Regard content in parenthesis as a number, so when reach a parenthesis, store current sign to stack.
+ */
 class Solution {
     public int calculate(String s) {
         if (s == null || s.length() == 0) {

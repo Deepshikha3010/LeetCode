@@ -1,3 +1,9 @@
+/**
+ * Type: Dijkstra
+ * Time: E + nlogn (E: flights number)
+ * Space: n (n: size of heap)
+ */
+
 class Solution {
   public int findCheapestPrice(int n, int[][] flights, int src, int dst, int K) {
       Map<Integer, Map<Integer, Integer>> prices = new HashMap<>();

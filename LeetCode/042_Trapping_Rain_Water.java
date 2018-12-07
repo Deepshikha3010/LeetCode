@@ -1,4 +1,10 @@
-/**Two pointers */
+/**
+ * Type: Two pointers 
+ * Time: n
+ * Space: 1
+ * 
+ * If leftMax is lower than rightmax, move left forward, since right now water in current position is already determined by the leftMax, vice versa.
+ * */
 
 class Solution {
     public int trap(int[] height) {

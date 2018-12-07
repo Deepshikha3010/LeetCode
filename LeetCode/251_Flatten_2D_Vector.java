@@ -1,3 +1,46 @@
+/**
+ * Type: Two Pointers
+ * Time: worst case m * n, average 1
+ * Space: 1
+ */
+
+public class Vector2D implements Iterator<Integer> {
+    int i, j;
+    List<List<Integer>> list;
+
+    public Vector2D(List<List<Integer>> vec2d) {
+        list = vec2d;
+        i = 0;
+        j = 0;
+    }
+
+    @Override
+    public Integer next() {
+        if (!hasNext()) {
+            return null;
+        }
+        return list.get(i).get(j++);
+    }
+
+    @Override
+    public boolean hasNext() {
+        while (i != list.size() && j >= list.get(i).size()) {
+            i++;
+            j = 0;
+        }
+        if (i == list.size()) {
+            return false;
+        }
+        return j < list.get(i).size();
+    }
+}
+
+/**
+ * Type: Iterator
+ * Time: worst case m * n, average 1
+ * Space: 1
+ */
+
 public class Vector2D implements Iterator<Integer> {
   private Iterator<List<Integer>> rowIter;
   private Iterator<Integer> colIter;

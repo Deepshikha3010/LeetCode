@@ -1,3 +1,8 @@
+/**
+ * Time: V*n (n is the length of heights)
+ * Space: 1
+ */
+
 class Solution {
   public int[] pourWater(int[] heights, int V, int K) {
       while (V--  > 0) {

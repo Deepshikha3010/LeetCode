@@ -1,3 +1,9 @@
+/**
+ * Type: BFS
+ * Time: n * k * 26
+ * Space: n
+ */
+
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         if (wordList == null || wordList.size() == 0) {

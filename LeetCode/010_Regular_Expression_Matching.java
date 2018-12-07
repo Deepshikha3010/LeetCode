@@ -17,14 +17,17 @@
  * 
  * For *: Check previous char of pattern match current char of source
  *      1. If previous char in pattern doesn't match, means we should delete it, check the length before previous char in both
- *          - ab
- *          - abc*
+ *          a    i 
+ *          ab*  j - 2
  *      2. If previous char in pattern match, means we may still delete it, or we check we have already approved them at the previous length in source.
- *          - abbbb
- *          - ab*
+ *          ab   i
+ *          abb* j - 2
+ *          ----------
+ *          ab   i
+ *          ab*  j - 1
  * 
- *          - ab
- *          - abb*
+ *          abb i - 1
+ *          ab*  j
  */
 class Solution {
     public boolean isMatch(String s, String p) {

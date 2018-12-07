@@ -10,6 +10,9 @@ class Solution {
       if (nums == null || nums.length < 2) {
           return;
       }
+
+      // Divide arr into 2 parts, left nums are bigger than right nums.
+      // Put left and right nums into the arr intervally.
       
       int median = findKthLargest(nums, (nums.length + 1) / 2);
       int n = nums.length;
@@ -35,7 +38,6 @@ class Solution {
       while (true) {
           int i = partition(nums, left, right);
           if (i + 1 == k) {
-              System.out.println(i);
               return nums[i];
           } else if (i + 1 < k) {
               left = i + 1;
@@ -43,7 +45,6 @@ class Solution {
               right = i - 1;
           }
       }
-
   }
   
   private int partition(int[] nums, int left, int right) {
