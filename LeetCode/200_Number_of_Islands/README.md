@@ -124,6 +124,8 @@ class Solution {
 }
 ```
 
+### Solution 3 - Union Find
+
 ```java
 /**
  * Type: Union Find
