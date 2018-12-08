@@ -1,3 +1,19 @@
+# [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)
+
+## Type
+
+- Breadth-first Search
+- Depth-first Search
+
+## Explain
+
+Change the 'O' adjacent to the bound to '#', then use standard 2d array `DFS` traverse.
+
+## Code
+
+### Solution 1 - DFS
+
+```java
 /**
  * Type: DFS
  * Time: m*n
@@ -63,3 +79,4 @@ class Solution {
         return y >= 0 && y < grid.length && x >= 0 && x < grid[0].length;
     }
 }
+```

@@ -5,7 +5,6 @@
 - Binary Tree
 - Breadth-first Search
 - Depth-first Search
-- Queue
 
 ## Explain
 

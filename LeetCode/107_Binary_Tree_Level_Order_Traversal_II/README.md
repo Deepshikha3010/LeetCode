@@ -4,7 +4,6 @@
 
 - Binary Tree
 - Breadth-first Search
-- Queue
 
 ## Explain
 
