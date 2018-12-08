@@ -34,22 +34,3 @@ class UnionFind {
     }
 }
 ```
-
-## Graph
-
-```java
-```
-
-## 2D Array
-
-```java
-```
-
-## Binary Tree
-
-```java
-```
-
-|Title|Difficulty|
-|-----|---------|
-|[200. Number of Islands](../LeetCode/200_Number_of_Islands/README.md)|Medium|
