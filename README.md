@@ -41,3 +41,4 @@ Algorithm and data structure solutions in Java 8.
 |[261. Graph Valid Tree](./Solutions/261_Graph_Valid_Tree/README.md)|Medium|
 |[279. Perfect Squares](./Solutions/279_Perfect_Squares/README.md)|Medium|
 |[301. Remove Invalid Parentheses](./Solutions/301_Remove_Invalid_Parentheses/README.md)|Hard|
+|[310. Minimum Height Trees](./Solutions/310_Minimum_Height_Trees/README.md)|Medium|
