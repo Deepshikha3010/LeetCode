@@ -31,9 +31,11 @@ Algorithm and data structure solutions in Java 8.
 
 |Title|Difficulty|
 |-----|---------|
-|[103. Binary Tree Zigzag Level Order Traversal](../Solutions/103_Binary_Tree_Zigzag_Level_Order_Traversal/README.md)|Medium|
-|[107. Binary Tree Level Order Traversal II](../Solutions/107_Binary_Tree_Level_Order_Traversal_II/README.md)|Easy|
-|[111. Minimum Depth of Binary Tree](../Solutions/111_Minimum_Depth_of_Binary_Tree/README.md)|Easy|
-|[130. Surrounded Regions](../Solutions/130_Surrounded_Regions/README.md)|Medium|
-|[199. Binary Tree Right Side View](../Solutions/199_Binary_Tree_Right_Side_View/README.md)|Medium|
-|[200. Number of Islands](../Solutions/200_Number_of_Islands/README.md)|Medium|
+|[103. Binary Tree Zigzag Level Order Traversal](./Solutions/103_Binary_Tree_Zigzag_Level_Order_Traversal/README.md)|Medium|
+|[107. Binary Tree Level Order Traversal II](./Solutions/107_Binary_Tree_Level_Order_Traversal_II/README.md)|Easy|
+|[111. Minimum Depth of Binary Tree](./Solutions/111_Minimum_Depth_of_Binary_Tree/README.md)|Easy|
+|[130. Surrounded Regions](./Solutions/130_Surrounded_Regions/README.md)|Medium|
+|[199. Binary Tree Right Side View](./Solutions/199_Binary_Tree_Right_Side_View/README.md)|Medium|
+|[200. Number of Islands](./Solutions/200_Number_of_Islands/README.md)|Medium|
+|[261. Graph Valid Tree](./Solutions/261_Graph_Valid_Tree/README.md)|Medium|
+|[279. Perfect Squares](./Solutions/279_Perfect_Squares/README.md)|Medium|
