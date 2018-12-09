@@ -12,11 +12,11 @@ A navive solution is try to delete all of them, so time complexity is like permu
 2. DFS starting from the index `0`. Delete `)` and then `(`.
 3. When `r` == `l`, check if current string is valid. The criteria is scannning from left to right, `left` >= `right`.
 
-Time Complexity:
+<strong>Time Complexity:</strong>
 
 When scanning from left to right, each `(` and `)` has chance (0/1) to go to next level. -- n*2^(l+r)
 
-Space Complexity:
+<strong>Space Complexity:</strong>
 
 For each level we have to keep a copy of current string. -- n^2*(l+r)
 
