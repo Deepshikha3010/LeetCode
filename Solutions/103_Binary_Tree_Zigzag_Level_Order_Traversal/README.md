@@ -4,6 +4,7 @@
 
 - Binary Tree
 - Breadth-first Search
+- Stack
 
 ## Explain
 

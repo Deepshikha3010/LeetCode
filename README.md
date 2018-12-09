@@ -31,6 +31,7 @@ Algorithm and data structure solutions in Java 8.
 
 |Title|Difficulty|
 |-----|---------|
+|[020. Valid Parentheses](./Solutions/020_Valid_Parentheses/README.md)|Easy|
 |[103. Binary Tree Zigzag Level Order Traversal](./Solutions/103_Binary_Tree_Zigzag_Level_Order_Traversal/README.md)|Medium|
 |[107. Binary Tree Level Order Traversal II](./Solutions/107_Binary_Tree_Level_Order_Traversal_II/README.md)|Easy|
 |[111. Minimum Depth of Binary Tree](./Solutions/111_Minimum_Depth_of_Binary_Tree/README.md)|Easy|
@@ -39,3 +40,4 @@ Algorithm and data structure solutions in Java 8.
 |[200. Number of Islands](./Solutions/200_Number_of_Islands/README.md)|Medium|
 |[261. Graph Valid Tree](./Solutions/261_Graph_Valid_Tree/README.md)|Medium|
 |[279. Perfect Squares](./Solutions/279_Perfect_Squares/README.md)|Medium|
+|[301. Remove Invalid Parentheses](./Solutions/301_Remove_Invalid_Parentheses/README.md)|Hard|
