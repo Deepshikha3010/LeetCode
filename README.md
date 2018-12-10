@@ -32,6 +32,7 @@ Algorithm and data structure solutions in Java 8.
 |Title|Difficulty|
 |-----|---------|
 |[020. Valid Parentheses](./Solutions/020_Valid_Parentheses/README.md)|Easy|
+|[101. Symmetric Tree](./Solutions/101_Symmetric_Tree/README.md)|Easy|
 |[103. Binary Tree Zigzag Level Order Traversal](./Solutions/103_Binary_Tree_Zigzag_Level_Order_Traversal/README.md)|Medium|
 |[107. Binary Tree Level Order Traversal II](./Solutions/107_Binary_Tree_Level_Order_Traversal_II/README.md)|Easy|
 |[111. Minimum Depth of Binary Tree](./Solutions/111_Minimum_Depth_of_Binary_Tree/README.md)|Easy|
