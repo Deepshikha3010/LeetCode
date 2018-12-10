@@ -10,7 +10,7 @@ For each `0` slot, count its distance sum to all buildings. If it cannot reach t
 
 ## Code
 
-### Solution 1 - BFS
+### Solution 1 - BFS (Brute Force)
 
 ```java
 /**

@@ -41,6 +41,7 @@ Algorithm and data structure solutions in Java 8.
 |[200. Number of Islands](./Solutions/200_Number_of_Islands/README.md)|Medium|
 |[261. Graph Valid Tree](./Solutions/261_Graph_Valid_Tree/README.md)|Medium|
 |[279. Perfect Squares](./Solutions/279_Perfect_Squares/README.md)|Medium|
+|[286. Walls and Gates](./Solutions/286_Walls_and_Gates/README.md)|Medium|
 |[301. Remove Invalid Parentheses](./Solutions/301_Remove_Invalid_Parentheses/README.md)|Hard|
 |[317. Shortest Distance from All Buildings](./Solutions/317_Shortest_Distance_from_All_Buildings/README.md)|Hard|
 |[690. Employee Importance](./Solutions/690_Employee_Importance/README.md)|Easy|
