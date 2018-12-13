@@ -48,4 +48,5 @@ Algorithm and data structure solutions in Java 8.
 |[317. Shortest Distance from All Buildings](./Solutions/317_Shortest_Distance_from_All_Buildings/README.md)|Hard|
 |[407. Trapping Rain Water II](./Solutions/407_Trapping_Rain_Water_II/README.md)|Hard|
 |[417. Pacific Atlantic Water Flow](./Solutions/417_Pacific_Atlantic_Water_Flow/README.md)|Medium|
+|[515. Find Largest Value in Each Tree Row](./Solutions/515_Find_Largest_Value_in_Each_Tree_Row/README.md)|Medium|
 |[690. Employee Importance](./Solutions/690_Employee_Importance/README.md)|Easy|
