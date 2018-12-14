@@ -5,26 +5,21 @@
 
 Normally use `queue` with its `size`, as `queue` is first in first out. Sometimes use rolling `stack` to keep `zigzag` order.
 
-## Graph
-
-- Time: E
-- Space: E
-
-```java
-```
-
 ## 2D Array
 
-- Time: m*n
-- Space: m*n
+### Find Continuous Area
 
-```java
-```
+### Minimum Distance
 
-## Binary Tree
+Brute force search
+Start from destination
 
-- Time: n
-- Space: n
+[286. Walls and Gates]()
+[317. Shortest Distance from All Buildings]()
+[542. 01 Matrix]()
 
-```java
-```
+## Graph
+
+### Minimum Distance
+
+## Tree
