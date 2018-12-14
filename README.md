@@ -50,4 +50,5 @@ Algorithm and data structure solutions in Java 8.
 |[417. Pacific Atlantic Water Flow](./Solutions/417_Pacific_Atlantic_Water_Flow/README.md)|Medium|
 |[513. Find Bottom Left Tree Value](./Solutions/513_Find_Bottom_Left_Tree_Value/README.md)|Medium|
 |[515. Find Largest Value in Each Tree Row](./Solutions/515_Find_Largest_Value_in_Each_Tree_Row/README.md)|Medium|
+|[529. Minesweeper](./Solutions/529_Minesweeper/README.md)|Medium|
 |[690. Employee Importance](./Solutions/690_Employee_Importance/README.md)|Easy|
