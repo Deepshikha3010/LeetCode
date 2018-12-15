@@ -2,7 +2,6 @@
 
 ## Type
 
-- Graph
 - Breadth-first Search
 
 ## Explain
