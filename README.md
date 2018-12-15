@@ -55,3 +55,4 @@ Algorithm and data structure solutions in Java 8.
 |[690. Employee Importance](./Solutions/690_Employee_Importance/README.md)|Easy|
 |[773. Sliding Puzzle](./Solutions/773_Sliding_Puzzle/README.md)|Hard|
 |[787. Cheapest Flights Within K Stops](./Solutions/787_Cheapest_Flights_Within_K_Stops/README.md)|Medium|
+|[815. Bus Routes](./Solutions/815_Bus_Routes/README.md)|Hard|

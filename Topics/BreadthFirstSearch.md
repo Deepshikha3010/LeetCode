@@ -23,3 +23,5 @@ Have to test all `dst` to one `src`.
 - [317. Shortest Distance from All Buildings](./Solutions/317_Shortest_Distance_from_All_Buildings/README.md)
 
 ## Graph Minimum Distance
+
+- [787. Cheapest Flights Within K Stops](../Solutions/787_Cheapest_Flights_Within_K_Stops/README.md)
