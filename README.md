@@ -53,3 +53,4 @@ Algorithm and data structure solutions in Java 8.
 |[529. Minesweeper](./Solutions/529_Minesweeper/README.md)|Medium|
 |[542. 01 Matrix](./Solutions/542_01_Matrix/README.md)|Medium|
 |[690. Employee Importance](./Solutions/690_Employee_Importance/README.md)|Easy|
+|[773. Sliding Puzzle](./Solutions/773_Sliding_Puzzle/README.md)|Hard|
