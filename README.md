@@ -41,11 +41,13 @@ Algorithm and data structure solutions in Java 8.
 |[133. Clone Graph](./Solutions/133_Clone_Graph/README.md)|Medium|
 |[199. Binary Tree Right Side View](./Solutions/199_Binary_Tree_Right_Side_View/README.md)|Medium|
 |[200. Number of Islands](./Solutions/200_Number_of_Islands/README.md)|Medium|
+|[207. Course Schedule](./Solutions/207_Course_Schedule/README.md)|Medium|
 |[261. Graph Valid Tree](./Solutions/261_Graph_Valid_Tree/README.md)|Medium|
 |[279. Perfect Squares](./Solutions/279_Perfect_Squares/README.md)|Medium|
 |[286. Walls and Gates](./Solutions/286_Walls_and_Gates/README.md)|Medium|
 |[301. Remove Invalid Parentheses](./Solutions/301_Remove_Invalid_Parentheses/README.md)|Hard|
 |[317. Shortest Distance from All Buildings](./Solutions/317_Shortest_Distance_from_All_Buildings/README.md)|Hard|
+|[332. Reconstruct Itinerary](./Solutions/332_Reconstruct_Itinerary/README.md)|Medium|
 |[407. Trapping Rain Water II](./Solutions/407_Trapping_Rain_Water_II/README.md)|Hard|
 |[417. Pacific Atlantic Water Flow](./Solutions/417_Pacific_Atlantic_Water_Flow/README.md)|Medium|
 |[513. Find Bottom Left Tree Value](./Solutions/513_Find_Bottom_Left_Tree_Value/README.md)|Medium|
