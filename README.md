@@ -56,6 +56,7 @@ Algorithm and data structure solutions in Java 8.
 |[515. Find Largest Value in Each Tree Row](./Solutions/515_Find_Largest_Value_in_Each_Tree_Row/README.md)|Medium|
 |[529. Minesweeper](./Solutions/529_Minesweeper/README.md)|Medium|
 |[542. 01 Matrix](./Solutions/542_01_Matrix/README.md)|Medium|
+|[684. Redundant Connection](./Solutions/684_Redundant_Connection/README.md)|Medium|
 |[690. Employee Importance](./Solutions/690_Employee_Importance/README.md)|Easy|
 |[773. Sliding Puzzle](./Solutions/773_Sliding_Puzzle/README.md)|Hard|
 |[787. Cheapest Flights Within K Stops](./Solutions/787_Cheapest_Flights_Within_K_Stops/README.md)|Medium|
