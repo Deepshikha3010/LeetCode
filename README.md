@@ -48,6 +48,7 @@ Algorithm and data structure solutions in Java 8.
 |[301. Remove Invalid Parentheses](./Solutions/301_Remove_Invalid_Parentheses/README.md)|Hard|
 |[317. Shortest Distance from All Buildings](./Solutions/317_Shortest_Distance_from_All_Buildings/README.md)|Hard|
 |[332. Reconstruct Itinerary](./Solutions/332_Reconstruct_Itinerary/README.md)|Medium|
+|[399. Evaluate Division](./Solutions/399_Evaluate_Division/README.md)|Medium|
 |[407. Trapping Rain Water II](./Solutions/407_Trapping_Rain_Water_II/README.md)|Hard|
 |[417. Pacific Atlantic Water Flow](./Solutions/417_Pacific_Atlantic_Water_Flow/README.md)|Medium|
 |[513. Find Bottom Left Tree Value](./Solutions/513_Find_Bottom_Left_Tree_Value/README.md)|Medium|
