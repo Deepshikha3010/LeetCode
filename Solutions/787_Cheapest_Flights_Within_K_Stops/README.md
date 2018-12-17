@@ -78,8 +78,8 @@ class Solution {
 ```java
 /**
  * Type: Dijkstra
- * Time: ElogE + E
- * Space: E
+ * Time: ElogE + E*V
+ * Space: E + V*E
  */
 class Solution {
     public int findCheapestPrice(int n, int[][] flights, int src, int dst, int K) {

@@ -35,5 +35,6 @@ Start from leaves, which only have 1 edge connected. A tree-like graph has no mo
 
 Either `BFS` or `Dijkstra`. If K limitation is small, `BFS` can be more efficient.
 
+- [743. Network Delay Time](../Solutions/743_Network_Delay_Time/README.md)
 - [787. Cheapest Flights Within K Stops](../Solutions/787_Cheapest_Flights_Within_K_Stops/README.md)
 - [815. Bus Routes](../Solutions/815_Bus_Routes/README.md)
