@@ -47,6 +47,7 @@ Algorithm and data structure solutions in Java 8.
 |[286. Walls and Gates](./Solutions/286_Walls_and_Gates/README.md)|Medium|
 |[301. Remove Invalid Parentheses](./Solutions/301_Remove_Invalid_Parentheses/README.md)|Hard|
 |[317. Shortest Distance from All Buildings](./Solutions/317_Shortest_Distance_from_All_Buildings/README.md)|Hard|
+|[323. Number of Connected Components in an Undirected Graph](./Solutions/323_Number_of_Connected_Components_in_an_Undirected_Graph/README.md)|Medium|
 |[332. Reconstruct Itinerary](./Solutions/332_Reconstruct_Itinerary/README.md)|Medium|
 |[399. Evaluate Division](./Solutions/399_Evaluate_Division/README.md)|Medium|
 |[407. Trapping Rain Water II](./Solutions/407_Trapping_Rain_Water_II/README.md)|Hard|
