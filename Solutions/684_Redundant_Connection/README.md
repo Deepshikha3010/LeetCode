@@ -8,6 +8,10 @@
 
 Normal `Union Find`. Use a set to record the node amount.
 
+Valid undirected tree standard:
+
+No cycle. Before a node was put into the graph, its root node should not exist in the graph.
+
 ## Code
 
 ### Solution 1 - Union Find
