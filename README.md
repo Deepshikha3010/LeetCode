@@ -59,6 +59,7 @@ Algorithm and data structure solutions in Java 8.
 |[684. Redundant Connection](./Solutions/684_Redundant_Connection/README.md)|Medium|
 |[685. Redundant Connection II](./Solutions/685_Redundant_Connection_II/README.md)|Hard|
 |[690. Employee Importance](./Solutions/690_Employee_Importance/README.md)|Easy|
+|[765. Couples Holding Hands](./Solutions/765_Couples_Holding_Hands/README.md)|Hard|
 |[773. Sliding Puzzle](./Solutions/773_Sliding_Puzzle/README.md)|Hard|
 |[787. Cheapest Flights Within K Stops](./Solutions/787_Cheapest_Flights_Within_K_Stops/README.md)|Medium|
 |[815. Bus Routes](./Solutions/815_Bus_Routes/README.md)|Hard|
