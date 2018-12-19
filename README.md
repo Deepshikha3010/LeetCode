@@ -48,6 +48,7 @@ Algorithm and data structure solutions in Java 8.
 |[199. Binary Tree Right Side View](./Solutions/199_Binary_Tree_Right_Side_View/README.md)|Medium|
 |[200. Number of Islands](./Solutions/200_Number_of_Islands/README.md)|Medium|
 |[207. Course Schedule](./Solutions/207_Course_Schedule/README.md)|Medium|
+|[223. Rectangle Area](./Solutions/223_Rectangle_Area/README.md)|Medium|
 |[261. Graph Valid Tree](./Solutions/261_Graph_Valid_Tree/README.md)|Medium|
 |[279. Perfect Squares](./Solutions/279_Perfect_Squares/README.md)|Medium|
 |[286. Walls and Gates](./Solutions/286_Walls_and_Gates/README.md)|Medium|
