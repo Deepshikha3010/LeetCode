@@ -51,6 +51,7 @@ Algorithm and data structure solutions in Java 8.
 |[207. Course Schedule](./Solutions/207_Course_Schedule/README.md)|Medium|
 |[223. Rectangle Area](./Solutions/223_Rectangle_Area/README.md)|Medium|
 |[261. Graph Valid Tree](./Solutions/261_Graph_Valid_Tree/README.md)|Medium|
+|[263. Ugly Number](./Solutions/263_Ugly_Number/README.md)|Easy|
 |[279. Perfect Squares](./Solutions/279_Perfect_Squares/README.md)|Medium|
 |[286. Walls and Gates](./Solutions/286_Walls_and_Gates/README.md)|Medium|
 |[301. Remove Invalid Parentheses](./Solutions/301_Remove_Invalid_Parentheses/README.md)|Hard|
