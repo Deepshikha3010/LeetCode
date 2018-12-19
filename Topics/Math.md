@@ -25,3 +25,11 @@ if (temp > Integer.MAX_VALUE) return isNegative ? Integer.MIN_VALUE : Integer.MA
 Use `Binary Search` and `<<` to figure out how many divisors can sum up to dividend.
 
 - [029. Divide Two Integers](../Solutions/029_Divide_Two_Integers/README.md)
+
+## Check valid number string
+
+- [065_Valid_Number](../Solutions/065_Valid_Number/README.md)
+
+1. There should be digit(s) before and after `e`
+2. `-` and `+` should only exist at the first character
+3. The last character should be digit (garauntee there is at least 1 digit exist)

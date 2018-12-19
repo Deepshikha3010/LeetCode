@@ -36,7 +36,8 @@ Algorithm and data structure solutions in Java 8.
 |[020. Valid Parentheses](./Solutions/020_Valid_Parentheses/README.md)|Easy|
 |[029. Divide Two Integers](./Solutions/029_Divide_Two_Integers/README.md)|Medium|
 |[042. Trapping Rain Water](./Solutions/042_Trapping_Rain_Water/README.md)|Hard|
-|[065_Valid_Number](./Solutions/065_Valid_Number/README.md)|Hard|
+|[065. Valid Number](./Solutions/065_Valid_Number/README.md)|Hard|
+|[067. Add Binary](./Solutions/067_Add_Binary/README.md)|Easy|
 |[101. Symmetric Tree](./Solutions/101_Symmetric_Tree/README.md)|Easy|
 |[103. Binary Tree Zigzag Level Order Traversal](./Solutions/103_Binary_Tree_Zigzag_Level_Order_Traversal/README.md)|Medium|
 |[107. Binary Tree Level Order Traversal II](./Solutions/107_Binary_Tree_Level_Order_Traversal_II/README.md)|Easy|
