@@ -44,6 +44,7 @@ Algorithm and data structure solutions in Java 8.
 |[111. Minimum Depth of Binary Tree](./Solutions/111_Minimum_Depth_of_Binary_Tree/README.md)|Easy|
 |[130. Surrounded Regions](./Solutions/130_Surrounded_Regions/README.md)|Medium|
 |[133. Clone Graph](./Solutions/133_Clone_Graph/README.md)|Medium|
+|[172. Factorial Trailing Zeroes](./Solutions/172_Factorial_Trailing_Zeroes/README.md)|Easy|
 |[199. Binary Tree Right Side View](./Solutions/199_Binary_Tree_Right_Side_View/README.md)|Medium|
 |[200. Number of Islands](./Solutions/200_Number_of_Islands/README.md)|Medium|
 |[207. Course Schedule](./Solutions/207_Course_Schedule/README.md)|Medium|
